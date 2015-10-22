@@ -1,0 +1,1330 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<root>
+  <!-- 
+    Microsoft ResX Schema 
+    
+    Version 2.0
+    
+    The primary goals of this format is to allow a simple XML format 
+    that is mostly human readable. The generation and parsing of the 
+    various data types are done through the TypeConverter classes 
+    associated with the data types.
+    
+    Example:
+    
+    ... ado.net/XML headers & schema ...
+    <resheader name="resmimetype">text/microsoft-resx</resheader>
+    <resheader name="version">2.0</resheader>
+    <resheader name="reader">System.Resources.ResXResourceReader, System.Windows.Forms, ...</resheader>
+    <resheader name="writer">System.Resources.ResXResourceWriter, System.Windows.Forms, ...</resheader>
+    <data name="Name1"><value>this is my long string</value><comment>this is a comment</comment></data>
+    <data name="Color1" type="System.Drawing.Color, System.Drawing">Blue</data>
+    <data name="Bitmap1" mimetype="application/x-microsoft.net.object.binary.base64">
+        <value>[base64 mime encoded serialized .NET Framework object]</value>
+    </data>
+    <data name="Icon1" type="System.Drawing.Icon, System.Drawing" mimetype="application/x-microsoft.net.object.bytearray.base64">
+        <value>[base64 mime encoded string representing a byte array form of the .NET Framework object]</value>
+        <comment>This is a comment</comment>
+    </data>
+                
+    There are any number of "resheader" rows that contain simple 
+    name/value pairs.
+    
+    Each data row contains a name, and value. The row also contains a 
+    type or mimetype. Type corresponds to a .NET class that support 
+    text/value conversion through the TypeConverter architecture. 
+    Classes that don't support this are serialized and stored with the 
+    mimetype set.
+    
+    The mimetype is used for serialized objects, and tells the 
+    ResXResourceReader how to depersist the object. This is currently not 
+    extensible. For a given mimetype the value must be set accordingly:
+    
+    Note - application/x-microsoft.net.object.binary.base64 is the format 
+    that the ResXResourceWriter will generate, however the reader can 
+    read any of the formats listed below.
+    
+    mimetype: application/x-microsoft.net.object.binary.base64
+    value   : The object must be serialized with 
+            : System.Runtime.Serialization.Formatters.Binary.BinaryFormatter
+            : and then encoded with base64 encoding.
+    
+    mimetype: application/x-microsoft.net.object.soap.base64
+    value   : The object must be serialized with 
+            : System.Runtime.Serialization.Formatters.Soap.SoapFormatter
+            : and then encoded with base64 encoding.
+
+    mimetype: application/x-microsoft.net.object.bytearray.base64
+    value   : The object must be serialized into a byte array 
+            : using a System.ComponentModel.TypeConverter
+            : and then encoded with base64 encoding.
+    -->
+  <xsd:schema id="root" xmlns="" xmlns:xsd="http://www.w3.org/2001/XMLSchema" xmlns:msdata="urn:schemas-microsoft-com:xml-msdata">
+    <xsd:import namespace="http://www.w3.org/XML/1998/namespace" />
+    <xsd:element name="root" msdata:IsDataSet="true">
+      <xsd:complexType>
+        <xsd:choice maxOccurs="unbounded">
+          <xsd:element name="metadata">
+            <xsd:complexType>
+              <xsd:sequence>
+                <xsd:element name="value" type="xsd:string" minOccurs="0" />
+              </xsd:sequence>
+              <xsd:attribute name="name" use="required" type="xsd:string" />
+              <xsd:attribute name="type" type="xsd:string" />
+              <xsd:attribute name="mimetype" type="xsd:string" />
+              <xsd:attribute ref="xml:space" />
+            </xsd:complexType>
+          </xsd:element>
+          <xsd:element name="assembly">
+            <xsd:complexType>
+              <xsd:attribute name="alias" type="xsd:string" />
+              <xsd:attribute name="name" type="xsd:string" />
+            </xsd:complexType>
+          </xsd:element>
+          <xsd:element name="data">
+            <xsd:complexType>
+              <xsd:sequence>
+                <xsd:element name="value" type="xsd:string" minOccurs="0" msdata:Ordinal="1" />
+                <xsd:element name="comment" type="xsd:string" minOccurs="0" msdata:Ordinal="2" />
+              </xsd:sequence>
+              <xsd:attribute name="name" type="xsd:string" use="required" msdata:Ordinal="1" />
+              <xsd:attribute name="type" type="xsd:string" msdata:Ordinal="3" />
+              <xsd:attribute name="mimetype" type="xsd:string" msdata:Ordinal="4" />
+              <xsd:attribute ref="xml:space" />
+            </xsd:complexType>
+          </xsd:element>
+          <xsd:element name="resheader">
+            <xsd:complexType>
+              <xsd:sequence>
+                <xsd:element name="value" type="xsd:string" minOccurs="0" msdata:Ordinal="1" />
+              </xsd:sequence>
+              <xsd:attribute name="name" type="xsd:string" use="required" />
+            </xsd:complexType>
+          </xsd:element>
+        </xsd:choice>
+      </xsd:complexType>
+    </xsd:element>
+  </xsd:schema>
+  <resheader name="resmimetype">
+    <value>text/microsoft-resx</value>
+  </resheader>
+  <resheader name="version">
+    <value>2.0</value>
+  </resheader>
+  <resheader name="reader">
+    <value>System.Resources.ResXResourceReader, System.Windows.Forms, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b77a5c561934e089</value>
+  </resheader>
+  <resheader name="writer">
+    <value>System.Resources.ResXResourceWriter, System.Windows.Forms, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b77a5c561934e089</value>
+  </resheader>
+  <assembly alias="System.Windows.Forms" name="System.Windows.Forms, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b77a5c561934e089" />
+  <data name="A5M4__Fighter_" type="System.Resources.ResXFileRef, System.Windows.Forms">
+    <value>..\Images\Aircraft\A5M4 (Fighter).png;System.Drawing.Bitmap, System.Drawing, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b03f5f7f11d50a3a</value>
+  </data>
+  <data name="A6M2_mod__11__Fighter_" type="System.Resources.ResXFileRef, System.Windows.Forms">
+    <value>..\Images\Aircraft\A6M2 mod. 11 (Fighter).png;System.Drawing.Bitmap, System.Drawing, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b03f5f7f11d50a3a</value>
+  </data>
+  <data name="A6M2_N__Fighter_" type="System.Resources.ResXFileRef, System.Windows.Forms">
+    <value>..\Images\Aircraft\A6M2-N (Fighter).png;System.Drawing.Bitmap, System.Drawing, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b03f5f7f11d50a3a</value>
+  </data>
+  <data name="A6M2_Reisen__Fighter_" type="System.Resources.ResXFileRef, System.Windows.Forms">
+    <value>..\Images\Aircraft\A6M2 Reisen (Fighter).png;System.Drawing.Bitmap, System.Drawing, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b03f5f7f11d50a3a</value>
+  </data>
+  <data name="A6M2_Reisen__Fighter_1" type="System.Resources.ResXFileRef, System.Windows.Forms">
+    <value>..\Images\Aircraft\A6M2 Reisen (Fighter).png;System.Drawing.Bitmap, System.Drawing, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b03f5f7f11d50a3a</value>
+  </data>
+  <data name="A6M2_Reisen__Prem___Fighter_" type="System.Resources.ResXFileRef, System.Windows.Forms">
+    <value>..\Images\Aircraft\A6M2 Reisen (Prem) (Fighter).png;System.Drawing.Bitmap, System.Drawing, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b03f5f7f11d50a3a</value>
+  </data>
+  <data name="A6M3_Reisen_mod__22Ko__Fighter_" type="System.Resources.ResXFileRef, System.Windows.Forms">
+    <value>..\Images\Aircraft\A6M3 Reisen mod. 22Ko (Fighter).png;System.Drawing.Bitmap, System.Drawing, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b03f5f7f11d50a3a</value>
+  </data>
+  <data name="A6M3_Reisen_mod__22__Fighter_" type="System.Resources.ResXFileRef, System.Windows.Forms">
+    <value>..\Images\Aircraft\A6M3 Reisen mod. 22 (Fighter).png;System.Drawing.Bitmap, System.Drawing, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b03f5f7f11d50a3a</value>
+  </data>
+  <data name="A6M3_Reisen__Fighter_" type="System.Resources.ResXFileRef, System.Windows.Forms">
+    <value>..\Images\Aircraft\A6M3 Reisen (Fighter).png;System.Drawing.Bitmap, System.Drawing, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b03f5f7f11d50a3a</value>
+  </data>
+  <data name="A6M5_Ko_Reisen__Prem___Fighter_" type="System.Resources.ResXFileRef, System.Windows.Forms">
+    <value>..\Images\Aircraft\A6M5 Ko Reisen (Prem) (Fighter).png;System.Drawing.Bitmap, System.Drawing, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b03f5f7f11d50a3a</value>
+  </data>
+  <data name="A6M5_otsu__Fighter_" type="System.Resources.ResXFileRef, System.Windows.Forms">
+    <value>..\Images\Aircraft\A6M5 otsu (Fighter).png;System.Drawing.Bitmap, System.Drawing, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b03f5f7f11d50a3a</value>
+  </data>
+  <data name="A6M5_Reisen__Fighter_" type="System.Resources.ResXFileRef, System.Windows.Forms">
+    <value>..\Images\Aircraft\A6M5 Reisen (Fighter).png;System.Drawing.Bitmap, System.Drawing, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b03f5f7f11d50a3a</value>
+  </data>
+  <data name="A7He1__Prem___Fighter_" type="System.Resources.ResXFileRef, System.Windows.Forms">
+    <value>..\Images\Aircraft\A7He1 (Prem) (Fighter).png;System.Drawing.Bitmap, System.Drawing, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b03f5f7f11d50a3a</value>
+  </data>
+  <data name="AD_2_Skyraider__Attacker_" type="System.Resources.ResXFileRef, System.Windows.Forms">
+    <value>..\Images\Aircraft\AD-2 Skyraider (Attacker).png;System.Drawing.Bitmap, System.Drawing, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b03f5f7f11d50a3a</value>
+  </data>
+  <data name="Arado_234B_2__Bomber_" type="System.Resources.ResXFileRef, System.Windows.Forms">
+    <value>..\Images\Aircraft\Arado 234B-2 (Bomber).png;System.Drawing.Bitmap, System.Drawing, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b03f5f7f11d50a3a</value>
+  </data>
+  <data name="Arado_234C_3__Bomber_" type="System.Resources.ResXFileRef, System.Windows.Forms">
+    <value>..\Images\Aircraft\Arado 234C-3 (Bomber).png;System.Drawing.Bitmap, System.Drawing, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b03f5f7f11d50a3a</value>
+  </data>
+  <data name="Ar_2__Bomber_" type="System.Resources.ResXFileRef, System.Windows.Forms">
+    <value>..\Images\Aircraft\Ar-2 (Bomber).png;System.Drawing.Bitmap, System.Drawing, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b03f5f7f11d50a3a</value>
+  </data>
+  <data name="Attacker_FB_1__Fighter_" type="System.Resources.ResXFileRef, System.Windows.Forms">
+    <value>..\Images\Aircraft\Attacker FB 1 (Fighter).png;System.Drawing.Bitmap, System.Drawing, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b03f5f7f11d50a3a</value>
+  </data>
+  <data name="Avenger_Mk_1__Prem___Bomber_" type="System.Resources.ResXFileRef, System.Windows.Forms">
+    <value>..\Images\Aircraft\Avenger Mk.1 (Prem) (Bomber).png;System.Drawing.Bitmap, System.Drawing, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b03f5f7f11d50a3a</value>
+  </data>
+  <data name="A_20G_25_Havoc__Attacker_" type="System.Resources.ResXFileRef, System.Windows.Forms">
+    <value>..\Images\Aircraft\A-20G-25 Havoc (Attacker).jpg;System.Drawing.Bitmap, System.Drawing, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b03f5f7f11d50a3a</value>
+  </data>
+  <data name="A_26C_45DT__Prem___Bomber_" type="System.Resources.ResXFileRef, System.Windows.Forms">
+    <value>..\Images\Aircraft\A-26C-45DT (Prem) (Bomber).png;System.Drawing.Bitmap, System.Drawing, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b03f5f7f11d50a3a</value>
+  </data>
+  <data name="A_26C_45_Invader__Prem___Bomber_" type="System.Resources.ResXFileRef, System.Windows.Forms">
+    <value>..\Images\Aircraft\A-26C-45 Invader (Prem) (Bomber).png;System.Drawing.Bitmap, System.Drawing, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b03f5f7f11d50a3a</value>
+  </data>
+  <data name="A_36_Apache__Attacker_" type="System.Resources.ResXFileRef, System.Windows.Forms">
+    <value>..\Images\Aircraft\A-36 Apache (Attacker).png;System.Drawing.Bitmap, System.Drawing, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b03f5f7f11d50a3a</value>
+  </data>
+  <data name="B5N2__Bomber_" type="System.Resources.ResXFileRef, System.Windows.Forms">
+    <value>..\Images\Aircraft\B5N2 (Bomber).png;System.Drawing.Bitmap, System.Drawing, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b03f5f7f11d50a3a</value>
+  </data>
+  <data name="B7A2_Ryusei__Bomber_" type="System.Resources.ResXFileRef, System.Windows.Forms">
+    <value>..\Images\Aircraft\B7A2 Ryusei (Bomber).png;System.Drawing.Bitmap, System.Drawing, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b03f5f7f11d50a3a</value>
+  </data>
+  <data name="BB_1__Bomber_" type="System.Resources.ResXFileRef, System.Windows.Forms">
+    <value>..\Images\Aircraft\BB-1 (Bomber).png;System.Drawing.Bitmap, System.Drawing, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b03f5f7f11d50a3a</value>
+  </data>
+  <data name="Beaufighter_Mk_21__Attacker_" type="System.Resources.ResXFileRef, System.Windows.Forms">
+    <value>..\Images\Aircraft\Beaufighter Mk 21 (Attacker).png;System.Drawing.Bitmap, System.Drawing, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b03f5f7f11d50a3a</value>
+  </data>
+  <data name="Beaufighter_Mk_VIc__Attacker_" type="System.Resources.ResXFileRef, System.Windows.Forms">
+    <value>..\Images\Aircraft\Beaufighter Mk VIc (Attacker).png;System.Drawing.Bitmap, System.Drawing, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b03f5f7f11d50a3a</value>
+  </data>
+  <data name="Beaufighter_Mk_X__Attacker_" type="System.Resources.ResXFileRef, System.Windows.Forms">
+    <value>..\Images\Aircraft\Beaufighter Mk X (Attacker).png;System.Drawing.Bitmap, System.Drawing, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b03f5f7f11d50a3a</value>
+  </data>
+  <data name="Beaufort_Mk_VIII__Bomber_" type="System.Resources.ResXFileRef, System.Windows.Forms">
+    <value>..\Images\Aircraft\Beaufort Mk VIII (Bomber).png;System.Drawing.Bitmap, System.Drawing, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b03f5f7f11d50a3a</value>
+  </data>
+  <data name="Bf_109B_1__Late__Fighter_" type="System.Resources.ResXFileRef, System.Windows.Forms">
+    <value>..\Images\Aircraft\Bf 109B-1  Late (Fighter).png;System.Drawing.Bitmap, System.Drawing, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b03f5f7f11d50a3a</value>
+  </data>
+  <data name="Bf_109_E_1__Fighter_" type="System.Resources.ResXFileRef, System.Windows.Forms">
+    <value>..\Images\Aircraft\Bf 109 E-1 (Fighter).png;System.Drawing.Bitmap, System.Drawing, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b03f5f7f11d50a3a</value>
+  </data>
+  <data name="Bf_109_E_3__Fighter_" type="System.Resources.ResXFileRef, System.Windows.Forms">
+    <value>..\Images\Aircraft\Bf 109 E-3 (Fighter).png;System.Drawing.Bitmap, System.Drawing, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b03f5f7f11d50a3a</value>
+  </data>
+  <data name="Bf_109_F_1__Fighter_" type="System.Resources.ResXFileRef, System.Windows.Forms">
+    <value>..\Images\Aircraft\Bf 109 F-1 (Fighter).png;System.Drawing.Bitmap, System.Drawing, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b03f5f7f11d50a3a</value>
+  </data>
+  <data name="Bf_109_F_2__Fighter_" type="System.Resources.ResXFileRef, System.Windows.Forms">
+    <value>..\Images\Aircraft\Bf 109 F-2 (Fighter).png;System.Drawing.Bitmap, System.Drawing, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b03f5f7f11d50a3a</value>
+  </data>
+  <data name="Bf_109_F_4_trop__Fighter_" type="System.Resources.ResXFileRef, System.Windows.Forms">
+    <value>..\Images\Aircraft\Bf 109 F-4 trop (Fighter).png;System.Drawing.Bitmap, System.Drawing, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b03f5f7f11d50a3a</value>
+  </data>
+  <data name="Bf_109_F_4__Fighter_" type="System.Resources.ResXFileRef, System.Windows.Forms">
+    <value>..\Images\Aircraft\Bf 109 F-4 (Fighter).png;System.Drawing.Bitmap, System.Drawing, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b03f5f7f11d50a3a</value>
+  </data>
+  <data name="Bf_109_F_4__Prem___Fighter_" type="System.Resources.ResXFileRef, System.Windows.Forms">
+    <value>..\Images\Aircraft\Bf 109 F-4 (Prem) (Fighter).png;System.Drawing.Bitmap, System.Drawing, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b03f5f7f11d50a3a</value>
+  </data>
+  <data name="Bf_109_G_10__Fighter_" type="System.Resources.ResXFileRef, System.Windows.Forms">
+    <value>..\Images\Aircraft\Bf 109 G-10 (Fighter).png;System.Drawing.Bitmap, System.Drawing, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b03f5f7f11d50a3a</value>
+  </data>
+  <data name="Bf_109_G_14__Fighter_" type="System.Resources.ResXFileRef, System.Windows.Forms">
+    <value>..\Images\Aircraft\Bf 109 G-14 (Fighter).png;System.Drawing.Bitmap, System.Drawing, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b03f5f7f11d50a3a</value>
+  </data>
+  <data name="Bf_109_G_2_trop__Fighter_" type="System.Resources.ResXFileRef, System.Windows.Forms">
+    <value>..\Images\Aircraft\Bf 109 G-2 trop (Fighter).png;System.Drawing.Bitmap, System.Drawing, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b03f5f7f11d50a3a</value>
+  </data>
+  <data name="Bf_109_G_2__Prem___Fighter_" type="System.Resources.ResXFileRef, System.Windows.Forms">
+    <value>..\Images\Aircraft\Bf 109 G-2 (Prem) (Fighter).png;System.Drawing.Bitmap, System.Drawing, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b03f5f7f11d50a3a</value>
+  </data>
+  <data name="Bf_109_G_6__Fighter_" type="System.Resources.ResXFileRef, System.Windows.Forms">
+    <value>..\Images\Aircraft\Bf 109 G-6 (Fighter).png;System.Drawing.Bitmap, System.Drawing, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b03f5f7f11d50a3a</value>
+  </data>
+  <data name="Bf_109_K_4__Fighter_" type="System.Resources.ResXFileRef, System.Windows.Forms">
+    <value>..\Images\Aircraft\Bf 109 K-4 (Fighter).png;System.Drawing.Bitmap, System.Drawing, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b03f5f7f11d50a3a</value>
+  </data>
+  <data name="Bf_110_C_4__Attacker_" type="System.Resources.ResXFileRef, System.Windows.Forms">
+    <value>..\Images\Aircraft\Bf 110 C-4 (Attacker).png;System.Drawing.Bitmap, System.Drawing, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b03f5f7f11d50a3a</value>
+  </data>
+  <data name="Blenheim_Mk_IV__Bomber_" type="System.Resources.ResXFileRef, System.Windows.Forms">
+    <value>..\Images\Aircraft\Blenheim Mk IV (Bomber).png;System.Drawing.Bitmap, System.Drawing, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b03f5f7f11d50a3a</value>
+  </data>
+  <data name="Boomerang_Mk_II__Prem___Fighter_" type="System.Resources.ResXFileRef, System.Windows.Forms">
+    <value>..\Images\Aircraft\Boomerang Mk II (Prem) (Fighter).png;System.Drawing.Bitmap, System.Drawing, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b03f5f7f11d50a3a</value>
+  </data>
+  <data name="Boomerang_Mk_I__Prem___Fighter_" type="System.Resources.ResXFileRef, System.Windows.Forms">
+    <value>..\Images\Aircraft\Boomerang Mk I (Prem) (Fighter).png;System.Drawing.Bitmap, System.Drawing, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b03f5f7f11d50a3a</value>
+  </data>
+  <data name="Boston_Mk_I__Prem___Bomber_" type="System.Resources.ResXFileRef, System.Windows.Forms">
+    <value>..\Images\Aircraft\Boston Mk I (Prem) (Bomber).png;System.Drawing.Bitmap, System.Drawing, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b03f5f7f11d50a3a</value>
+  </data>
+  <data name="Bostwick_s_P_47M_1_RE_Thunderbolt__Prem___Fighter_" type="System.Resources.ResXFileRef, System.Windows.Forms">
+    <value>..\Images\Aircraft\Bostwick's P-47M-1-RE Thunderbolt (Prem) (Fighter).png;System.Drawing.Bitmap, System.Drawing, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b03f5f7f11d50a3a</value>
+  </data>
+  <data name="B_17E_Flying_Fortress_Late__Bomber_" type="System.Resources.ResXFileRef, System.Windows.Forms">
+    <value>..\Images\Aircraft\B-17E Flying Fortress Late (Bomber).png;System.Drawing.Bitmap, System.Drawing, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b03f5f7f11d50a3a</value>
+  </data>
+  <data name="B_17E_Flying_Fortress__Bomber_" type="System.Resources.ResXFileRef, System.Windows.Forms">
+    <value>..\Images\Aircraft\B-17E Flying Fortress (Bomber).png;System.Drawing.Bitmap, System.Drawing, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b03f5f7f11d50a3a</value>
+  </data>
+  <data name="B_17E_Flying_Fortress__Prem___Bomber_" type="System.Resources.ResXFileRef, System.Windows.Forms">
+    <value>..\Images\Aircraft\B-17E Flying Fortress (Prem) (Bomber).png;System.Drawing.Bitmap, System.Drawing, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b03f5f7f11d50a3a</value>
+  </data>
+  <data name="B_17G_Flying_Fortress__Bomber_" type="System.Resources.ResXFileRef, System.Windows.Forms">
+    <value>..\Images\Aircraft\B-17G Flying Fortress (Bomber).png;System.Drawing.Bitmap, System.Drawing, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b03f5f7f11d50a3a</value>
+  </data>
+  <data name="B_24D_Liberator__Bomber_" type="System.Resources.ResXFileRef, System.Windows.Forms">
+    <value>..\Images\Aircraft\B-24D Liberator (Bomber).png;System.Drawing.Bitmap, System.Drawing, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b03f5f7f11d50a3a</value>
+  </data>
+  <data name="B_25J_1_Mitchell__Bomber_" type="System.Resources.ResXFileRef, System.Windows.Forms">
+    <value>..\Images\Aircraft\B-25J-1 Mitchell (Bomber).png;System.Drawing.Bitmap, System.Drawing, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b03f5f7f11d50a3a</value>
+  </data>
+  <data name="B_25J_20_Mitchell__Bomber_" type="System.Resources.ResXFileRef, System.Windows.Forms">
+    <value>..\Images\Aircraft\B-25J-20 Mitchell (Bomber).png;System.Drawing.Bitmap, System.Drawing, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b03f5f7f11d50a3a</value>
+  </data>
+  <data name="B_25J_30_Mitchell__Prem___Bomber_" type="System.Resources.ResXFileRef, System.Windows.Forms">
+    <value>..\Images\Aircraft\B-25J-30 Mitchell (Prem) (Bomber).png;System.Drawing.Bitmap, System.Drawing, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b03f5f7f11d50a3a</value>
+  </data>
+  <data name="B_29_Superfortress__Bomber_" type="System.Resources.ResXFileRef, System.Windows.Forms">
+    <value>..\Images\Aircraft\B-29 Superfortress (Bomber).png;System.Drawing.Bitmap, System.Drawing, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b03f5f7f11d50a3a</value>
+  </data>
+  <data name="B_57A__Bomber_" type="System.Resources.ResXFileRef, System.Windows.Forms">
+    <value>..\Images\Aircraft\B-57A (Bomber).png;System.Drawing.Bitmap, System.Drawing, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b03f5f7f11d50a3a</value>
+  </data>
+  <data name="B_57B__Bomber_" type="System.Resources.ResXFileRef, System.Windows.Forms">
+    <value>..\Images\Aircraft\B-57B (Bomber).png;System.Drawing.Bitmap, System.Drawing, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b03f5f7f11d50a3a</value>
+  </data>
+  <data name="Canberra_B_Mk_2__Bomber_" type="System.Resources.ResXFileRef, System.Windows.Forms">
+    <value>..\Images\Aircraft\Canberra B Mk.2 (Bomber).png;System.Drawing.Bitmap, System.Drawing, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b03f5f7f11d50a3a</value>
+  </data>
+  <data name="Canberra_B__I__Mk__6__Bomber_" type="System.Resources.ResXFileRef, System.Windows.Forms">
+    <value>..\Images\Aircraft\Canberra B (I) Mk. 6 (Bomber).png;System.Drawing.Bitmap, System.Drawing, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b03f5f7f11d50a3a</value>
+  </data>
+  <data name="Catalina_Mk__IVa__Prem___Bomber_" type="System.Resources.ResXFileRef, System.Windows.Forms">
+    <value>..\Images\Aircraft\Catalina Mk. IVa (Prem) (Bomber).png;System.Drawing.Bitmap, System.Drawing, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b03f5f7f11d50a3a</value>
+  </data>
+  <data name="CL_13A_Sabre_Mk_5__Fighter_" type="System.Resources.ResXFileRef, System.Windows.Forms">
+    <value>..\Images\Aircraft\CL-13A Sabre Mk.5 (Fighter).png;System.Drawing.Bitmap, System.Drawing, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b03f5f7f11d50a3a</value>
+  </data>
+  <data name="CR_42_Falco__Fighter_" type="System.Resources.ResXFileRef, System.Windows.Forms">
+    <value>..\Images\Aircraft\CR.42 Falco (Fighter).png;System.Drawing.Bitmap, System.Drawing, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b03f5f7f11d50a3a</value>
+  </data>
+  <data name="D3A1__Bomber_" type="System.Resources.ResXFileRef, System.Windows.Forms">
+    <value>..\Images\Aircraft\D3A1 (Bomber).png;System.Drawing.Bitmap, System.Drawing, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b03f5f7f11d50a3a</value>
+  </data>
+  <data name="DB_7__Prem___Bomber_" type="System.Resources.ResXFileRef, System.Windows.Forms">
+    <value>..\Images\Aircraft\DB-7 (Prem) (Bomber).png;System.Drawing.Bitmap, System.Drawing, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b03f5f7f11d50a3a</value>
+  </data>
+  <data name="Dolgushin_s_La_7__Prem___Fighter_" type="System.Resources.ResXFileRef, System.Windows.Forms">
+    <value>..\Images\Aircraft\Dolgushin's La-7 (Prem) (Fighter).png;System.Drawing.Bitmap, System.Drawing, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b03f5f7f11d50a3a</value>
+  </data>
+  <data name="Do_17_E_1__Bomber_" type="System.Resources.ResXFileRef, System.Windows.Forms">
+    <value>..\Images\Aircraft\Do 17 E-1 (Bomber).png;System.Drawing.Bitmap, System.Drawing, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b03f5f7f11d50a3a</value>
+  </data>
+  <data name="Do_217_E_2__Bomber_" type="System.Resources.ResXFileRef, System.Windows.Forms">
+    <value>..\Images\Aircraft\Do 217 E-2 (Bomber).png;System.Drawing.Bitmap, System.Drawing, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b03f5f7f11d50a3a</value>
+  </data>
+  <data name="Do_217_E_4__Bomber_" type="System.Resources.ResXFileRef, System.Windows.Forms">
+    <value>..\Images\Aircraft\Do 217 E-4 (Bomber).png;System.Drawing.Bitmap, System.Drawing, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b03f5f7f11d50a3a</value>
+  </data>
+  <data name="Do_217_J_1__Attacker_" type="System.Resources.ResXFileRef, System.Windows.Forms">
+    <value>..\Images\Aircraft\Do 217 J-1 (Attacker).png;System.Drawing.Bitmap, System.Drawing, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b03f5f7f11d50a3a</value>
+  </data>
+  <data name="Do_217_J_2__Attacker_" type="System.Resources.ResXFileRef, System.Windows.Forms">
+    <value>..\Images\Aircraft\Do 217 J-2 (Attacker).png;System.Drawing.Bitmap, System.Drawing, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b03f5f7f11d50a3a</value>
+  </data>
+  <data name="Do_217_K_1__Bomber_" type="System.Resources.ResXFileRef, System.Windows.Forms">
+    <value>..\Images\Aircraft\Do 217 K-1 (Bomber).png;System.Drawing.Bitmap, System.Drawing, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b03f5f7f11d50a3a</value>
+  </data>
+  <data name="Do_217_M_1__Bomber_" type="System.Resources.ResXFileRef, System.Windows.Forms">
+    <value>..\Images\Aircraft\Do 217 M-1 (Bomber).png;System.Drawing.Bitmap, System.Drawing, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b03f5f7f11d50a3a</value>
+  </data>
+  <data name="Do_217_N_1__Attacker_" type="System.Resources.ResXFileRef, System.Windows.Forms">
+    <value>..\Images\Aircraft\Do 217 N-1 (Attacker).png;System.Drawing.Bitmap, System.Drawing, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b03f5f7f11d50a3a</value>
+  </data>
+  <data name="Do_217_N_2__Attacker_" type="System.Resources.ResXFileRef, System.Windows.Forms">
+    <value>..\Images\Aircraft\Do 217 N-2 (Attacker).png;System.Drawing.Bitmap, System.Drawing, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b03f5f7f11d50a3a</value>
+  </data>
+  <data name="D_520__Prem___Fighter_" type="System.Resources.ResXFileRef, System.Windows.Forms">
+    <value>..\Images\Aircraft\D.520 (Prem) (Fighter).png;System.Drawing.Bitmap, System.Drawing, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b03f5f7f11d50a3a</value>
+  </data>
+  <data name="D_521__Prem___Fighter_" type="System.Resources.ResXFileRef, System.Windows.Forms">
+    <value>..\Images\Aircraft\D.521 (Prem) (Fighter).png;System.Drawing.Bitmap, System.Drawing, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b03f5f7f11d50a3a</value>
+  </data>
+  <data name="F2A_1_Buffalo__Fighter_" type="System.Resources.ResXFileRef, System.Windows.Forms">
+    <value>..\Images\Aircraft\F2A-1 Buffalo (Fighter).png;System.Drawing.Bitmap, System.Drawing, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b03f5f7f11d50a3a</value>
+  </data>
+  <data name="F2A_3_Buffalo__Fighter_" type="System.Resources.ResXFileRef, System.Windows.Forms">
+    <value>..\Images\Aircraft\F2A-3 Buffalo (Fighter).png;System.Drawing.Bitmap, System.Drawing, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b03f5f7f11d50a3a</value>
+  </data>
+  <data name="F2H_2_Banshee__Fighter_" type="System.Resources.ResXFileRef, System.Windows.Forms">
+    <value>..\Images\Aircraft\F2H-2 Banshee (Fighter).png;System.Drawing.Bitmap, System.Drawing, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b03f5f7f11d50a3a</value>
+  </data>
+  <data name="F4F_3_Wildcat__Fighter_" type="System.Resources.ResXFileRef, System.Windows.Forms">
+    <value>..\Images\Aircraft\F4F-3 Wildcat (Fighter).png;System.Drawing.Bitmap, System.Drawing, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b03f5f7f11d50a3a</value>
+  </data>
+  <data name="F4U_1a_Corsair__Fighter_" type="System.Resources.ResXFileRef, System.Windows.Forms">
+    <value>..\Images\Aircraft\F4U-1a Corsair (Fighter).png;System.Drawing.Bitmap, System.Drawing, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b03f5f7f11d50a3a</value>
+  </data>
+  <data name="F4U_1a_USMC_Corsair__Fighter_" type="System.Resources.ResXFileRef, System.Windows.Forms">
+    <value>..\Images\Aircraft\F4U-1a USMC Corsair (Fighter).png;System.Drawing.Bitmap, System.Drawing, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b03f5f7f11d50a3a</value>
+  </data>
+  <data name="F4U_1c_Corsair__Fighter_" type="System.Resources.ResXFileRef, System.Windows.Forms">
+    <value>..\Images\Aircraft\F4U-1c Corsair (Fighter).png;System.Drawing.Bitmap, System.Drawing, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b03f5f7f11d50a3a</value>
+  </data>
+  <data name="F4U_1d_Corsair__Fighter_" type="System.Resources.ResXFileRef, System.Windows.Forms">
+    <value>..\Images\Aircraft\F4U-1d Corsair (Fighter).png;System.Drawing.Bitmap, System.Drawing, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b03f5f7f11d50a3a</value>
+  </data>
+  <data name="F6F_3_Hellcat__Fighter_" type="System.Resources.ResXFileRef, System.Windows.Forms">
+    <value>..\Images\Aircraft\F6F-3 Hellcat (Fighter).png;System.Drawing.Bitmap, System.Drawing, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b03f5f7f11d50a3a</value>
+  </data>
+  <data name="F7F_1_Tigercat__Fighter_" type="System.Resources.ResXFileRef, System.Windows.Forms">
+    <value>..\Images\Aircraft\F7F-1 Tigercat (Fighter).png;System.Drawing.Bitmap, System.Drawing, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b03f5f7f11d50a3a</value>
+  </data>
+  <data name="F8F_1B_Bearcat__Fighter_" type="System.Resources.ResXFileRef, System.Windows.Forms">
+    <value>..\Images\Aircraft\F8F-1B Bearcat (Fighter).png;System.Drawing.Bitmap, System.Drawing, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b03f5f7f11d50a3a</value>
+  </data>
+  <data name="F8F_1_Bearcat__Fighter_" type="System.Resources.ResXFileRef, System.Windows.Forms">
+    <value>..\Images\Aircraft\F8F-1 Bearcat (Fighter).png;System.Drawing.Bitmap, System.Drawing, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b03f5f7f11d50a3a</value>
+  </data>
+  <data name="F9F_2_Panther__Fighter_" type="System.Resources.ResXFileRef, System.Windows.Forms">
+    <value>..\Images\Aircraft\F9F-2 Panther (Fighter).png;System.Drawing.Bitmap, System.Drawing, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b03f5f7f11d50a3a</value>
+  </data>
+  <data name="F9F_5_Panther__Fighter_" type="System.Resources.ResXFileRef, System.Windows.Forms">
+    <value>..\Images\Aircraft\F9F-5 Panther (Fighter).png;System.Drawing.Bitmap, System.Drawing, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b03f5f7f11d50a3a</value>
+  </data>
+  <data name="Firebrand_TF_Mk_IV__Fighter_" type="System.Resources.ResXFileRef, System.Windows.Forms">
+    <value>..\Images\Aircraft\Firebrand TF Mk IV (Fighter).png;System.Drawing.Bitmap, System.Drawing, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b03f5f7f11d50a3a</value>
+  </data>
+  <data name="Firefly_FR_Mk_V__Fighter_" type="System.Resources.ResXFileRef, System.Windows.Forms">
+    <value>..\Images\Aircraft\Firefly FR Mk V (Fighter).png;System.Drawing.Bitmap, System.Drawing, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b03f5f7f11d50a3a</value>
+  </data>
+  <data name="Firefly_F_Mk_I__Fighter_" type="System.Resources.ResXFileRef, System.Windows.Forms">
+    <value>..\Images\Aircraft\Firefly F Mk.I (Fighter).png;System.Drawing.Bitmap, System.Drawing, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b03f5f7f11d50a3a</value>
+  </data>
+  <data name="Fury_Mk_II__Fighter_" type="System.Resources.ResXFileRef, System.Windows.Forms">
+    <value>..\Images\Aircraft\Fury Mk II (Fighter).png;System.Drawing.Bitmap, System.Drawing, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b03f5f7f11d50a3a</value>
+  </data>
+  <data name="Fury_Mk_I__Fighter_" type="System.Resources.ResXFileRef, System.Windows.Forms">
+    <value>..\Images\Aircraft\Fury Mk I (Fighter).png;System.Drawing.Bitmap, System.Drawing, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b03f5f7f11d50a3a</value>
+  </data>
+  <data name="Fw_190A_8__Prem___Fighter_" type="System.Resources.ResXFileRef, System.Windows.Forms">
+    <value>..\Images\Aircraft\Fw 190A-8 (Prem) (Fighter).png;System.Drawing.Bitmap, System.Drawing, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b03f5f7f11d50a3a</value>
+  </data>
+  <data name="Fw_190D_9__Prem___Fighter_" type="System.Resources.ResXFileRef, System.Windows.Forms">
+    <value>..\Images\Aircraft\Fw 190D-9 (Prem) (Fighter).png;System.Drawing.Bitmap, System.Drawing, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b03f5f7f11d50a3a</value>
+  </data>
+  <data name="Fw_190_A_1__Fighter_" type="System.Resources.ResXFileRef, System.Windows.Forms">
+    <value>..\Images\Aircraft\Fw 190 A-1 (Fighter).png;System.Drawing.Bitmap, System.Drawing, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b03f5f7f11d50a3a</value>
+  </data>
+  <data name="Fw_190_A_4__Fighter_" type="System.Resources.ResXFileRef, System.Windows.Forms">
+    <value>..\Images\Aircraft\Fw 190 A-4 (Fighter).png;System.Drawing.Bitmap, System.Drawing, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b03f5f7f11d50a3a</value>
+  </data>
+  <data name="Fw_190_A_5_U2__Fighter_" type="System.Resources.ResXFileRef, System.Windows.Forms">
+    <value>..\Images\Aircraft\Fw 190 A-5 U2 (Fighter).png;System.Drawing.Bitmap, System.Drawing, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b03f5f7f11d50a3a</value>
+  </data>
+  <data name="Fw_190_A_5__Fighter_" type="System.Resources.ResXFileRef, System.Windows.Forms">
+    <value>..\Images\Aircraft\Fw 190 A-5 (Fighter).png;System.Drawing.Bitmap, System.Drawing, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b03f5f7f11d50a3a</value>
+  </data>
+  <data name="Fw_190_A_5__Prem___Fighter_" type="System.Resources.ResXFileRef, System.Windows.Forms">
+    <value>..\Images\Aircraft\Fw 190 A-5 (Prem) (Fighter).png;System.Drawing.Bitmap, System.Drawing, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b03f5f7f11d50a3a</value>
+  </data>
+  <data name="Fw_190_A_8__Fighter_" type="System.Resources.ResXFileRef, System.Windows.Forms">
+    <value>..\Images\Aircraft\Fw 190 A-8 (Fighter).png;System.Drawing.Bitmap, System.Drawing, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b03f5f7f11d50a3a</value>
+  </data>
+  <data name="Fw_190_D_12__Fighter_" type="System.Resources.ResXFileRef, System.Windows.Forms">
+    <value>..\Images\Aircraft\Fw 190 D-12 (Fighter).png;System.Drawing.Bitmap, System.Drawing, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b03f5f7f11d50a3a</value>
+  </data>
+  <data name="Fw_190_D_13__Prem___Fighter_" type="System.Resources.ResXFileRef, System.Windows.Forms">
+    <value>..\Images\Aircraft\Fw 190 D-13 (Prem) (Fighter).png;System.Drawing.Bitmap, System.Drawing, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b03f5f7f11d50a3a</value>
+  </data>
+  <data name="Fw_190_D_9__Fighter_" type="System.Resources.ResXFileRef, System.Windows.Forms">
+    <value>..\Images\Aircraft\Fw 190 D-9 (Fighter).png;System.Drawing.Bitmap, System.Drawing, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b03f5f7f11d50a3a</value>
+  </data>
+  <data name="Fw_190_F_8__Fighter_" type="System.Resources.ResXFileRef, System.Windows.Forms">
+    <value>..\Images\Aircraft\Fw 190 F-8 (Fighter).png;System.Drawing.Bitmap, System.Drawing, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b03f5f7f11d50a3a</value>
+  </data>
+  <data name="Fw_200_C_1__Bomber_" type="System.Resources.ResXFileRef, System.Windows.Forms">
+    <value>..\Images\Aircraft\Fw 200 C-1 (Bomber).png;System.Drawing.Bitmap, System.Drawing, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b03f5f7f11d50a3a</value>
+  </data>
+  <data name="F_80C_10_Shooting_Star__Fighter_" type="System.Resources.ResXFileRef, System.Windows.Forms">
+    <value>..\Images\Aircraft\F-80C-10 Shooting Star (Fighter).png;System.Drawing.Bitmap, System.Drawing, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b03f5f7f11d50a3a</value>
+  </data>
+  <data name="F_82E_Twin_Mustang__Fighter_" type="System.Resources.ResXFileRef, System.Windows.Forms">
+    <value>..\Images\Aircraft\F-82E Twin Mustang (Fighter).png;System.Drawing.Bitmap, System.Drawing, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b03f5f7f11d50a3a</value>
+  </data>
+  <data name="F_84B_26__Fighter_" type="System.Resources.ResXFileRef, System.Windows.Forms">
+    <value>..\Images\Aircraft\F-84B-26 (Fighter).png;System.Drawing.Bitmap, System.Drawing, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b03f5f7f11d50a3a</value>
+  </data>
+  <data name="F_86A_5_Sabre__Fighter_" type="System.Resources.ResXFileRef, System.Windows.Forms">
+    <value>..\Images\Aircraft\F-86A-5 Sabre (Fighter).png;System.Drawing.Bitmap, System.Drawing, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b03f5f7f11d50a3a</value>
+  </data>
+  <data name="F_86F_25_Sabre__Fighter_" type="System.Resources.ResXFileRef, System.Windows.Forms">
+    <value>..\Images\Aircraft\F-86F-25 Sabre (Fighter).png;System.Drawing.Bitmap, System.Drawing, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b03f5f7f11d50a3a</value>
+  </data>
+  <data name="F_86F_2_Sabre__Fighter_" type="System.Resources.ResXFileRef, System.Windows.Forms">
+    <value>..\Images\Aircraft\F-86F-2 Sabre (Fighter).png;System.Drawing.Bitmap, System.Drawing, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b03f5f7f11d50a3a</value>
+  </data>
+  <data name="F_86F_30_Sabre__Fighter_" type="System.Resources.ResXFileRef, System.Windows.Forms">
+    <value>..\Images\Aircraft\F-86F-30 Sabre (Fighter).png;System.Drawing.Bitmap, System.Drawing, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b03f5f7f11d50a3a</value>
+  </data>
+  <data name="G4M1__Bomber_" type="System.Resources.ResXFileRef, System.Windows.Forms">
+    <value>..\Images\Aircraft\G4M1 (Bomber).png;System.Drawing.Bitmap, System.Drawing, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b03f5f7f11d50a3a</value>
+  </data>
+  <data name="G5N1_Shinzan__Bomber_" type="System.Resources.ResXFileRef, System.Windows.Forms">
+    <value>..\Images\Aircraft\G5N1 Shinzan (Bomber).png;System.Drawing.Bitmap, System.Drawing, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b03f5f7f11d50a3a</value>
+  </data>
+  <data name="G8N1_Renzan__Bomber_" type="System.Resources.ResXFileRef, System.Windows.Forms">
+    <value>..\Images\Aircraft\G8N1 Renzan (Bomber).png;System.Drawing.Bitmap, System.Drawing, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b03f5f7f11d50a3a</value>
+  </data>
+  <data name="Gladiator_Mk_IIF__Prem___Fighter_" type="System.Resources.ResXFileRef, System.Windows.Forms">
+    <value>..\Images\Aircraft\Gladiator Mk IIF (Prem) (Fighter).png;System.Drawing.Bitmap, System.Drawing, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b03f5f7f11d50a3a</value>
+  </data>
+  <data name="Gladiator_Mk_IIS__Prem___Fighter_" type="System.Resources.ResXFileRef, System.Windows.Forms">
+    <value>..\Images\Aircraft\Gladiator Mk IIS (Prem) (Fighter).png;System.Drawing.Bitmap, System.Drawing, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b03f5f7f11d50a3a</value>
+  </data>
+  <data name="Gladiator_Mk_II__Fighter_" type="System.Resources.ResXFileRef, System.Windows.Forms">
+    <value>..\Images\Aircraft\Gladiator Mk II (Fighter).png;System.Drawing.Bitmap, System.Drawing, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b03f5f7f11d50a3a</value>
+  </data>
+  <data name="Golovachev_s_Yak_9M__Prem___Fighter_" type="System.Resources.ResXFileRef, System.Windows.Forms">
+    <value>..\Images\Aircraft\Golovachev's Yak-9M (Prem) (Fighter).png;System.Drawing.Bitmap, System.Drawing, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b03f5f7f11d50a3a</value>
+  </data>
+  <data name="G_50_Freccia_series_2__Fighter_" type="System.Resources.ResXFileRef, System.Windows.Forms">
+    <value>..\Images\Aircraft\G.50 Freccia series 2 (Fighter).jpg;System.Drawing.Bitmap, System.Drawing, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b03f5f7f11d50a3a</value>
+  </data>
+  <data name="G_50_Freccia_series_7AS__Fighter_" type="System.Resources.ResXFileRef, System.Windows.Forms">
+    <value>..\Images\Aircraft\G.50 Freccia series 7AS (Fighter).png;System.Drawing.Bitmap, System.Drawing, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b03f5f7f11d50a3a</value>
+  </data>
+  <data name="H6K4__Bomber_" type="System.Resources.ResXFileRef, System.Windows.Forms">
+    <value>..\Images\Aircraft\H6K4 (Bomber).png;System.Drawing.Bitmap, System.Drawing, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b03f5f7f11d50a3a</value>
+  </data>
+  <data name="Hagiri_s_A5M4__Prem___Fighter_" type="System.Resources.ResXFileRef, System.Windows.Forms">
+    <value>..\Images\Aircraft\Hagiri's A5M4 (Prem) (Fighter).png;System.Drawing.Bitmap, System.Drawing, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b03f5f7f11d50a3a</value>
+  </data>
+  <data name="Hellcat_Mk_I__Prem___Fighter_" type="System.Resources.ResXFileRef, System.Windows.Forms">
+    <value>..\Images\Aircraft\Hellcat Mk.I (Prem) (Fighter).png;System.Drawing.Bitmap, System.Drawing, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b03f5f7f11d50a3a</value>
+  </data>
+  <data name="He_111_H_16__Bomber_" type="System.Resources.ResXFileRef, System.Windows.Forms">
+    <value>..\Images\Aircraft\He 111 H-16 (Bomber).png;System.Drawing.Bitmap, System.Drawing, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b03f5f7f11d50a3a</value>
+  </data>
+  <data name="He_111_H_3__Bomber_" type="System.Resources.ResXFileRef, System.Windows.Forms">
+    <value>..\Images\Aircraft\He 111 H-3 (Bomber).png;System.Drawing.Bitmap, System.Drawing, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b03f5f7f11d50a3a</value>
+  </data>
+  <data name="He_111_H_6__Bomber_" type="System.Resources.ResXFileRef, System.Windows.Forms">
+    <value>..\Images\Aircraft\He 111 H-6 (Bomber).png;System.Drawing.Bitmap, System.Drawing, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b03f5f7f11d50a3a</value>
+  </data>
+  <data name="He_112_A_0__Fighter_" type="System.Resources.ResXFileRef, System.Windows.Forms">
+    <value>..\Images\Aircraft\He 112 A-0 (Fighter).jpg;System.Drawing.Bitmap, System.Drawing, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b03f5f7f11d50a3a</value>
+  </data>
+  <data name="He_112_B_0__Fighter_" type="System.Resources.ResXFileRef, System.Windows.Forms">
+    <value>..\Images\Aircraft\He 112 B-0 (Fighter).png;System.Drawing.Bitmap, System.Drawing, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b03f5f7f11d50a3a</value>
+  </data>
+  <data name="He_112_B_1_U2__Prem___Fighter_" type="System.Resources.ResXFileRef, System.Windows.Forms">
+    <value>..\Images\Aircraft\He 112 B-1 U2 (Prem) (Fighter).png;System.Drawing.Bitmap, System.Drawing, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b03f5f7f11d50a3a</value>
+  </data>
+  <data name="He_112_B_2_U2__Prem___Fighter_" type="System.Resources.ResXFileRef, System.Windows.Forms">
+    <value>..\Images\Aircraft\He 112 B-2 U2 (Prem) (Fighter).png;System.Drawing.Bitmap, System.Drawing, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b03f5f7f11d50a3a</value>
+  </data>
+  <data name="He_112_V_5__Fighter_" type="System.Resources.ResXFileRef, System.Windows.Forms">
+    <value>..\Images\Aircraft\He 112 V-5 (Fighter).jpg;System.Drawing.Bitmap, System.Drawing, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b03f5f7f11d50a3a</value>
+  </data>
+  <data name="He_162_A_2__Fighter_" type="System.Resources.ResXFileRef, System.Windows.Forms">
+    <value>..\Images\Aircraft\He 162 A-2 (Fighter).png;System.Drawing.Bitmap, System.Drawing, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b03f5f7f11d50a3a</value>
+  </data>
+  <data name="He_51_B_2__Hydroplane__Prem___Fighter_" type="System.Resources.ResXFileRef, System.Windows.Forms">
+    <value>..\Images\Aircraft\He 51 B-2  Hydroplane (Prem) (Fighter).png;System.Drawing.Bitmap, System.Drawing, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b03f5f7f11d50a3a</value>
+  </data>
+  <data name="He_51_C_1__Fighter_" type="System.Resources.ResXFileRef, System.Windows.Forms">
+    <value>..\Images\Aircraft\He 51 C-1 (Fighter).png;System.Drawing.Bitmap, System.Drawing, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b03f5f7f11d50a3a</value>
+  </data>
+  <data name="He_51_C_1__Late__Fighter_" type="System.Resources.ResXFileRef, System.Windows.Forms">
+    <value>..\Images\Aircraft\He 51 C-1  Late (Fighter).png;System.Drawing.Bitmap, System.Drawing, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b03f5f7f11d50a3a</value>
+  </data>
+  <data name="Ho_229_V3__Fighter_" type="System.Resources.ResXFileRef, System.Windows.Forms">
+    <value>..\Images\Aircraft\Ho 229 V3 (Fighter).png;System.Drawing.Bitmap, System.Drawing, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b03f5f7f11d50a3a</value>
+  </data>
+  <data name="Hs_129_B_2__Attacker_" type="System.Resources.ResXFileRef, System.Windows.Forms">
+    <value>..\Images\Aircraft\Hs 129 B-2 (Attacker).png;System.Drawing.Bitmap, System.Drawing, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b03f5f7f11d50a3a</value>
+  </data>
+  <data name="Hs_129_B_2__Prem___Attacker_" type="System.Resources.ResXFileRef, System.Windows.Forms">
+    <value>..\Images\Aircraft\Hs 129 B-2 (Prem) (Attacker).png;System.Drawing.Bitmap, System.Drawing, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b03f5f7f11d50a3a</value>
+  </data>
+  <data name="Hs_129_B_3__Attacker_" type="System.Resources.ResXFileRef, System.Windows.Forms">
+    <value>..\Images\Aircraft\Hs 129 B-3 (Attacker).png;System.Drawing.Bitmap, System.Drawing, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b03f5f7f11d50a3a</value>
+  </data>
+  <data name="Hurricane_Mk_IIB__Fighter_" type="System.Resources.ResXFileRef, System.Windows.Forms">
+    <value>..\Images\Aircraft\Hurricane Mk IIB (Fighter).png;System.Drawing.Bitmap, System.Drawing, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b03f5f7f11d50a3a</value>
+  </data>
+  <data name="Hurricane_Mk_IIB__Prem___Fighter_" type="System.Resources.ResXFileRef, System.Windows.Forms">
+    <value>..\Images\Aircraft\Hurricane Mk IIB (Prem) (Fighter).png;System.Drawing.Bitmap, System.Drawing, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b03f5f7f11d50a3a</value>
+  </data>
+  <data name="Hurricane_Mk_IV__Fighter_" type="System.Resources.ResXFileRef, System.Windows.Forms">
+    <value>..\Images\Aircraft\Hurricane Mk IV (Fighter).png;System.Drawing.Bitmap, System.Drawing, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b03f5f7f11d50a3a</value>
+  </data>
+  <data name="Hurricane_Mk_I_Late__Fighter_" type="System.Resources.ResXFileRef, System.Windows.Forms">
+    <value>..\Images\Aircraft\Hurricane Mk I Late (Fighter).png;System.Drawing.Bitmap, System.Drawing, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b03f5f7f11d50a3a</value>
+  </data>
+  <data name="IL_10__1946___Attacker_" type="System.Resources.ResXFileRef, System.Windows.Forms">
+    <value>..\Images\Aircraft\IL-10 (1946) (Attacker).png;System.Drawing.Bitmap, System.Drawing, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b03f5f7f11d50a3a</value>
+  </data>
+  <data name="IL_10__Attacker_" type="System.Resources.ResXFileRef, System.Windows.Forms">
+    <value>..\Images\Aircraft\IL-10 (Attacker).png;System.Drawing.Bitmap, System.Drawing, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b03f5f7f11d50a3a</value>
+  </data>
+  <data name="IL_28__Bomber_" type="System.Resources.ResXFileRef, System.Windows.Forms">
+    <value>..\Images\Aircraft\IL-28 (Bomber).jpg;System.Drawing.Bitmap, System.Drawing, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b03f5f7f11d50a3a</value>
+  </data>
+  <data name="IL_2M_type_3__Attacker_" type="System.Resources.ResXFileRef, System.Windows.Forms">
+    <value>..\Images\Aircraft\IL-2M type 3 (Attacker).png;System.Drawing.Bitmap, System.Drawing, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b03f5f7f11d50a3a</value>
+  </data>
+  <data name="IL_2M__1943___Attacker_" type="System.Resources.ResXFileRef, System.Windows.Forms">
+    <value>..\Images\Aircraft\IL-2M (1943) (Attacker).png;System.Drawing.Bitmap, System.Drawing, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b03f5f7f11d50a3a</value>
+  </data>
+  <data name="IL_2M__Avenger___Prem___Attacker_" type="System.Resources.ResXFileRef, System.Windows.Forms">
+    <value>..\Images\Aircraft\IL-2M 'Avenger' (Prem) (Attacker).png;System.Drawing.Bitmap, System.Drawing, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b03f5f7f11d50a3a</value>
+  </data>
+  <data name="IL_2_37__Attacker_" type="System.Resources.ResXFileRef, System.Windows.Forms">
+    <value>..\Images\Aircraft\IL-2-37 (Attacker).png;System.Drawing.Bitmap, System.Drawing, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b03f5f7f11d50a3a</value>
+  </data>
+  <data name="IL_2__1941___Attacker_" type="System.Resources.ResXFileRef, System.Windows.Forms">
+    <value>..\Images\Aircraft\IL-2 (1941) (Attacker).png;System.Drawing.Bitmap, System.Drawing, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b03f5f7f11d50a3a</value>
+  </data>
+  <data name="IL_2__1942___Attacker_" type="System.Resources.ResXFileRef, System.Windows.Forms">
+    <value>..\Images\Aircraft\IL-2 (1942) (Attacker).png;System.Drawing.Bitmap, System.Drawing, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b03f5f7f11d50a3a</value>
+  </data>
+  <data name="IL_4__Bomber_" type="System.Resources.ResXFileRef, System.Windows.Forms">
+    <value>..\Images\Aircraft\IL-4 (Bomber).png;System.Drawing.Bitmap, System.Drawing, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b03f5f7f11d50a3a</value>
+  </data>
+  <data name="I_153P_Chaika__Prem___Fighter_" type="System.Resources.ResXFileRef, System.Windows.Forms">
+    <value>..\Images\Aircraft\I-153P Chaika (Prem) (Fighter).png;System.Drawing.Bitmap, System.Drawing, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b03f5f7f11d50a3a</value>
+  </data>
+  <data name="I_15R__Fighter_" type="System.Resources.ResXFileRef, System.Windows.Forms">
+    <value>..\Images\Aircraft\I-15R (Fighter).png;System.Drawing.Bitmap, System.Drawing, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b03f5f7f11d50a3a</value>
+  </data>
+  <data name="I_16_type_10_Ishak__Fighter_" type="System.Resources.ResXFileRef, System.Windows.Forms">
+    <value>..\Images\Aircraft\I-16 type 10 Ishak (Fighter).png;System.Drawing.Bitmap, System.Drawing, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b03f5f7f11d50a3a</value>
+  </data>
+  <data name="I_16_Type_18_Ishak__Fighter_" type="System.Resources.ResXFileRef, System.Windows.Forms">
+    <value>..\Images\Aircraft\I-16 Type 18 Ishak (Fighter).png;System.Drawing.Bitmap, System.Drawing, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b03f5f7f11d50a3a</value>
+  </data>
+  <data name="I_16_type_24_Ishak__Fighter_" type="System.Resources.ResXFileRef, System.Windows.Forms">
+    <value>..\Images\Aircraft\I-16 type 24 Ishak (Fighter).png;System.Drawing.Bitmap, System.Drawing, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b03f5f7f11d50a3a</value>
+  </data>
+  <data name="I_16_type_27_Ishak__Fighter_" type="System.Resources.ResXFileRef, System.Windows.Forms">
+    <value>..\Images\Aircraft\I-16 type 27 Ishak (Fighter).png;System.Drawing.Bitmap, System.Drawing, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b03f5f7f11d50a3a</value>
+  </data>
+  <data name="I_16_type_28_Ishak__Prem___Fighter_" type="System.Resources.ResXFileRef, System.Windows.Forms">
+    <value>..\Images\Aircraft\I-16 type 28 Ishak (Prem) (Fighter).png;System.Drawing.Bitmap, System.Drawing, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b03f5f7f11d50a3a</value>
+  </data>
+  <data name="I_16_type_5_Ishak__Fighter_" type="System.Resources.ResXFileRef, System.Windows.Forms">
+    <value>..\Images\Aircraft\I-16 type 5 Ishak (Fighter).png;System.Drawing.Bitmap, System.Drawing, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b03f5f7f11d50a3a</value>
+  </data>
+  <data name="I_185__M_71___Fighter_" type="System.Resources.ResXFileRef, System.Windows.Forms">
+    <value>..\Images\Aircraft\I-185 (M-71) (Fighter).png;System.Drawing.Bitmap, System.Drawing, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b03f5f7f11d50a3a</value>
+  </data>
+  <data name="I_185__M_82___Fighter_" type="System.Resources.ResXFileRef, System.Windows.Forms">
+    <value>..\Images\Aircraft\I-185 (M-82) (Fighter).png;System.Drawing.Bitmap, System.Drawing, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b03f5f7f11d50a3a</value>
+  </data>
+  <data name="I_301__Prem___Fighter_" type="System.Resources.ResXFileRef, System.Windows.Forms">
+    <value>..\Images\Aircraft\I-301 (Prem) (Fighter).png;System.Drawing.Bitmap, System.Drawing, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b03f5f7f11d50a3a</value>
+  </data>
+  <data name="J2M2_Raiden__Fighter_" type="System.Resources.ResXFileRef, System.Windows.Forms">
+    <value>..\Images\Aircraft\J2M2 Raiden (Fighter).png;System.Drawing.Bitmap, System.Drawing, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b03f5f7f11d50a3a</value>
+  </data>
+  <data name="J2M3_Raiden__Fighter_" type="System.Resources.ResXFileRef, System.Windows.Forms">
+    <value>..\Images\Aircraft\J2M3 Raiden (Fighter).png;System.Drawing.Bitmap, System.Drawing, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b03f5f7f11d50a3a</value>
+  </data>
+  <data name="J2M4_Kai_Raiden__Prem___Fighter_" type="System.Resources.ResXFileRef, System.Windows.Forms">
+    <value>..\Images\Aircraft\J2M4 Kai Raiden (Prem) (Fighter).png;System.Drawing.Bitmap, System.Drawing, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b03f5f7f11d50a3a</value>
+  </data>
+  <data name="J2M5_Raiden__Fighter_" type="System.Resources.ResXFileRef, System.Windows.Forms">
+    <value>..\Images\Aircraft\J2M5 Raiden (Fighter).png;System.Drawing.Bitmap, System.Drawing, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b03f5f7f11d50a3a</value>
+  </data>
+  <data name="J2M5_Raiden__Prem___Fighter_" type="System.Resources.ResXFileRef, System.Windows.Forms">
+    <value>..\Images\Aircraft\J2M5 Raiden (Prem) (Fighter).png;System.Drawing.Bitmap, System.Drawing, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b03f5f7f11d50a3a</value>
+  </data>
+  <data name="J7W1_Shinden__Fighter_" type="System.Resources.ResXFileRef, System.Windows.Forms">
+    <value>..\Images\Aircraft\J7W1 Shinden (Fighter).png;System.Drawing.Bitmap, System.Drawing, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b03f5f7f11d50a3a</value>
+  </data>
+  <data name="Ju_87_B_2__Bomber_" type="System.Resources.ResXFileRef, System.Windows.Forms">
+    <value>..\Images\Aircraft\Ju 87 B-2 (Bomber).png;System.Drawing.Bitmap, System.Drawing, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b03f5f7f11d50a3a</value>
+  </data>
+  <data name="Ju_87_D_3__Bomber_" type="System.Resources.ResXFileRef, System.Windows.Forms">
+    <value>..\Images\Aircraft\Ju 87 D-3 (Bomber).png;System.Drawing.Bitmap, System.Drawing, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b03f5f7f11d50a3a</value>
+  </data>
+  <data name="Ju_87_D_5__Attacker_" type="System.Resources.ResXFileRef, System.Windows.Forms">
+    <value>..\Images\Aircraft\Ju 87 D-5 (Attacker).png;System.Drawing.Bitmap, System.Drawing, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b03f5f7f11d50a3a</value>
+  </data>
+  <data name="Ju_87_G_1_Attacker_" type="System.Resources.ResXFileRef, System.Windows.Forms">
+    <value>..\Images\Aircraft\Ju 87 G-1(Attacker).png;System.Drawing.Bitmap, System.Drawing, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b03f5f7f11d50a3a</value>
+  </data>
+  <data name="Ju_87_G_2__Attacker_" type="System.Resources.ResXFileRef, System.Windows.Forms">
+    <value>..\Images\Aircraft\Ju 87 G-2 (Attacker).png;System.Drawing.Bitmap, System.Drawing, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b03f5f7f11d50a3a</value>
+  </data>
+  <data name="Ju_87_R_2__Bomber_" type="System.Resources.ResXFileRef, System.Windows.Forms">
+    <value>..\Images\Aircraft\Ju 87 R-2 (Bomber).png;System.Drawing.Bitmap, System.Drawing, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b03f5f7f11d50a3a</value>
+  </data>
+  <data name="Ju_88A_4__Bomber_" type="System.Resources.ResXFileRef, System.Windows.Forms">
+    <value>..\Images\Aircraft\Ju 88A-4 (Bomber).png;System.Drawing.Bitmap, System.Drawing, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b03f5f7f11d50a3a</value>
+  </data>
+  <data name="Kikka__Fighter_" type="System.Resources.ResXFileRef, System.Windows.Forms">
+    <value>..\Images\Aircraft\Kikka (Fighter).png;System.Drawing.Bitmap, System.Drawing, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b03f5f7f11d50a3a</value>
+  </data>
+  <data name="Ki_10_II_C__Fighter_" type="System.Resources.ResXFileRef, System.Windows.Forms">
+    <value>..\Images\Aircraft\Ki-10-II C (Fighter).png;System.Drawing.Bitmap, System.Drawing, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b03f5f7f11d50a3a</value>
+  </data>
+  <data name="Ki_10_II__Fighter_" type="System.Resources.ResXFileRef, System.Windows.Forms">
+    <value>..\Images\Aircraft\Ki-10-II (Fighter).png;System.Drawing.Bitmap, System.Drawing, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b03f5f7f11d50a3a</value>
+  </data>
+  <data name="Ki_10_I__Fighter_" type="System.Resources.ResXFileRef, System.Windows.Forms">
+    <value>..\Images\Aircraft\Ki-10-I (Fighter).png;System.Drawing.Bitmap, System.Drawing, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b03f5f7f11d50a3a</value>
+  </data>
+  <data name="Ki_200_Shusui__Fighter_" type="System.Resources.ResXFileRef, System.Windows.Forms">
+    <value>..\Images\Aircraft\Ki-200 Shusui (Fighter).png;System.Drawing.Bitmap, System.Drawing, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b03f5f7f11d50a3a</value>
+  </data>
+  <data name="Ki_21_Ia__Bomber_" type="System.Resources.ResXFileRef, System.Windows.Forms">
+    <value>..\Images\Aircraft\Ki-21-Ia (Bomber).png;System.Drawing.Bitmap, System.Drawing, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b03f5f7f11d50a3a</value>
+  </data>
+  <data name="Ki_27_otsu__Fighter_" type="System.Resources.ResXFileRef, System.Windows.Forms">
+    <value>..\Images\Aircraft\Ki-27 otsu (Fighter).png;System.Drawing.Bitmap, System.Drawing, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b03f5f7f11d50a3a</value>
+  </data>
+  <data name="Ki_43_III_otsu_Hayabusa__Fighter_" type="System.Resources.ResXFileRef, System.Windows.Forms">
+    <value>..\Images\Aircraft\Ki-43-III otsu Hayabusa (Fighter).png;System.Drawing.Bitmap, System.Drawing, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b03f5f7f11d50a3a</value>
+  </data>
+  <data name="Ki_43_II_Hayabusa__Fighter_" type="System.Resources.ResXFileRef, System.Windows.Forms">
+    <value>..\Images\Aircraft\Ki-43-II Hayabusa (Fighter).png;System.Drawing.Bitmap, System.Drawing, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b03f5f7f11d50a3a</value>
+  </data>
+  <data name="Ki_43_I_Hayabusa__Fighter_" type="System.Resources.ResXFileRef, System.Windows.Forms">
+    <value>..\Images\Aircraft\Ki-43-I Hayabusa (Fighter).png;System.Drawing.Bitmap, System.Drawing, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b03f5f7f11d50a3a</value>
+  </data>
+  <data name="Ki_44_I__Fighter_" type="System.Resources.ResXFileRef, System.Windows.Forms">
+    <value>..\Images\Aircraft\Ki-44-I (Fighter).png;System.Drawing.Bitmap, System.Drawing, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b03f5f7f11d50a3a</value>
+  </data>
+  <data name="Ki_45_hei_Toryu__Attacker_" type="System.Resources.ResXFileRef, System.Windows.Forms">
+    <value>..\Images\Aircraft\Ki-45 hei Toryu (Attacker).png;System.Drawing.Bitmap, System.Drawing, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b03f5f7f11d50a3a</value>
+  </data>
+  <data name="Ki_45_ko_Toryu__Attacker_" type="System.Resources.ResXFileRef, System.Windows.Forms">
+    <value>..\Images\Aircraft\Ki-45 ko Toryu (Attacker).png;System.Drawing.Bitmap, System.Drawing, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b03f5f7f11d50a3a</value>
+  </data>
+  <data name="Ki_45_otsu_Toryu__Attacker_" type="System.Resources.ResXFileRef, System.Windows.Forms">
+    <value>..\Images\Aircraft\Ki-45 otsu Toryu (Attacker).png;System.Drawing.Bitmap, System.Drawing, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b03f5f7f11d50a3a</value>
+  </data>
+  <data name="Ki_45_tei_Toryu__Attacker_" type="System.Resources.ResXFileRef, System.Windows.Forms">
+    <value>..\Images\Aircraft\Ki-45 tei Toryu (Attacker).png;System.Drawing.Bitmap, System.Drawing, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b03f5f7f11d50a3a</value>
+  </data>
+  <data name="Ki_49_IIa_Donryu__Bomber_" type="System.Resources.ResXFileRef, System.Windows.Forms">
+    <value>..\Images\Aircraft\Ki-49-IIa Donryu (Bomber).png;System.Drawing.Bitmap, System.Drawing, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b03f5f7f11d50a3a</value>
+  </data>
+  <data name="Ki_49_IIb_Donryu_Late__Bomber_" type="System.Resources.ResXFileRef, System.Windows.Forms">
+    <value>..\Images\Aircraft\Ki-49-IIb Donryu Late (Bomber).png;System.Drawing.Bitmap, System.Drawing, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b03f5f7f11d50a3a</value>
+  </data>
+  <data name="Ki_49_IIb_Donryu__Bomber_" type="System.Resources.ResXFileRef, System.Windows.Forms">
+    <value>..\Images\Aircraft\Ki-49-IIb Donryu (Bomber).png;System.Drawing.Bitmap, System.Drawing, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b03f5f7f11d50a3a</value>
+  </data>
+  <data name="Ki_49_I_Donryu__Bomber_" type="System.Resources.ResXFileRef, System.Windows.Forms">
+    <value>..\Images\Aircraft\Ki-49-I Donryu (Bomber).png;System.Drawing.Bitmap, System.Drawing, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b03f5f7f11d50a3a</value>
+  </data>
+  <data name="Ki_61_Ib_Hien__Prem___Fighter_" type="System.Resources.ResXFileRef, System.Windows.Forms">
+    <value>..\Images\Aircraft\Ki-61-Ib Hien (Prem) (Fighter).png;System.Drawing.Bitmap, System.Drawing, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b03f5f7f11d50a3a</value>
+  </data>
+  <data name="Ki_61_I_hei_Hien__Fighter_" type="System.Resources.ResXFileRef, System.Windows.Forms">
+    <value>..\Images\Aircraft\Ki-61-I hei Hien (Fighter).png;System.Drawing.Bitmap, System.Drawing, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b03f5f7f11d50a3a</value>
+  </data>
+  <data name="Ki_61_I_ko_Hien__Fighter_" type="System.Resources.ResXFileRef, System.Windows.Forms">
+    <value>..\Images\Aircraft\Ki-61-I ko Hien (Fighter).png;System.Drawing.Bitmap, System.Drawing, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b03f5f7f11d50a3a</value>
+  </data>
+  <data name="Ki_61_I_otsu_Hien__Fighter_" type="System.Resources.ResXFileRef, System.Windows.Forms">
+    <value>..\Images\Aircraft\Ki-61-I otsu Hien (Fighter).png;System.Drawing.Bitmap, System.Drawing, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b03f5f7f11d50a3a</value>
+  </data>
+  <data name="Ki_84_hei_Hayate__Fighter_" type="System.Resources.ResXFileRef, System.Windows.Forms">
+    <value>..\Images\Aircraft\Ki-84 hei Hayate (Fighter).png;System.Drawing.Bitmap, System.Drawing, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b03f5f7f11d50a3a</value>
+  </data>
+  <data name="Ki_84_ko_Hayate__Fighter_" type="System.Resources.ResXFileRef, System.Windows.Forms">
+    <value>..\Images\Aircraft\Ki-84 ko Hayate (Fighter).png;System.Drawing.Bitmap, System.Drawing, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b03f5f7f11d50a3a</value>
+  </data>
+  <data name="Ki_84_otsu_Hayate__Fighter_" type="System.Resources.ResXFileRef, System.Windows.Forms">
+    <value>..\Images\Aircraft\Ki-84 otsu Hayate (Fighter).png;System.Drawing.Bitmap, System.Drawing, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b03f5f7f11d50a3a</value>
+  </data>
+  <data name="Ki_96__Prem___Attacker_" type="System.Resources.ResXFileRef, System.Windows.Forms">
+    <value>..\Images\Aircraft\Ki-96 (Prem) (Attacker).jpg;System.Drawing.Bitmap, System.Drawing, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b03f5f7f11d50a3a</value>
+  </data>
+  <data name="Ki__102_otsu__Attacker_" type="System.Resources.ResXFileRef, System.Windows.Forms">
+    <value>..\Images\Aircraft\Ki- 102 otsu (Attacker).jpg;System.Drawing.Bitmap, System.Drawing, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b03f5f7f11d50a3a</value>
+  </data>
+  <data name="LaGG_3_11__Fighter_" type="System.Resources.ResXFileRef, System.Windows.Forms">
+    <value>..\Images\Aircraft\LaGG-3-11 (Fighter).jpg;System.Drawing.Bitmap, System.Drawing, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b03f5f7f11d50a3a</value>
+  </data>
+  <data name="LaGG_3_23__Prem___Fighter_" type="System.Resources.ResXFileRef, System.Windows.Forms">
+    <value>..\Images\Aircraft\LaGG-3-23 (Prem) (Fighter).png;System.Drawing.Bitmap, System.Drawing, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b03f5f7f11d50a3a</value>
+  </data>
+  <data name="LaGG_3_34__Prem___Fighter_" type="System.Resources.ResXFileRef, System.Windows.Forms">
+    <value>..\Images\Aircraft\LaGG-3-34 (Prem) (Fighter).png;System.Drawing.Bitmap, System.Drawing, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b03f5f7f11d50a3a</value>
+  </data>
+  <data name="LaGG_3_35__Fighter_" type="System.Resources.ResXFileRef, System.Windows.Forms">
+    <value>..\Images\Aircraft\LaGG-3-35 (Fighter).jpg;System.Drawing.Bitmap, System.Drawing, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b03f5f7f11d50a3a</value>
+  </data>
+  <data name="LaGG_3_4__Fighter_" type="System.Resources.ResXFileRef, System.Windows.Forms">
+    <value>..\Images\Aircraft\LaGG-3-4 (Fighter).png;System.Drawing.Bitmap, System.Drawing, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b03f5f7f11d50a3a</value>
+  </data>
+  <data name="LaGG_3_66__Fighter_" type="System.Resources.ResXFileRef, System.Windows.Forms">
+    <value>..\Images\Aircraft\LaGG-3-66 (Fighter).jpg;System.Drawing.Bitmap, System.Drawing, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b03f5f7f11d50a3a</value>
+  </data>
+  <data name="LaGG_3_8__Fighter_" type="System.Resources.ResXFileRef, System.Windows.Forms">
+    <value>..\Images\Aircraft\LaGG-3-8 (Fighter).png;System.Drawing.Bitmap, System.Drawing, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b03f5f7f11d50a3a</value>
+  </data>
+  <data name="Lancaster_B_Mk_III__Bomber_" type="System.Resources.ResXFileRef, System.Windows.Forms">
+    <value>..\Images\Aircraft\Lancaster B Mk III (Bomber).png;System.Drawing.Bitmap, System.Drawing, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b03f5f7f11d50a3a</value>
+  </data>
+  <data name="Lancaster_B_Mk_I__Bomber_" type="System.Resources.ResXFileRef, System.Windows.Forms">
+    <value>..\Images\Aircraft\Lancaster B Mk I (Bomber).png;System.Drawing.Bitmap, System.Drawing, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b03f5f7f11d50a3a</value>
+  </data>
+  <data name="La_15__Fighter_" type="System.Resources.ResXFileRef, System.Windows.Forms">
+    <value>..\Images\Aircraft\La-15 (Fighter).png;System.Drawing.Bitmap, System.Drawing, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b03f5f7f11d50a3a</value>
+  </data>
+  <data name="La_174__Fighter_" type="System.Resources.ResXFileRef, System.Windows.Forms">
+    <value>..\Images\Aircraft\La-174 (Fighter).png;System.Drawing.Bitmap, System.Drawing, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b03f5f7f11d50a3a</value>
+  </data>
+  <data name="La_5FN__Fighter_" type="System.Resources.ResXFileRef, System.Windows.Forms">
+    <value>..\Images\Aircraft\La-5FN (Fighter).png;System.Drawing.Bitmap, System.Drawing, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b03f5f7f11d50a3a</value>
+  </data>
+  <data name="La_5FN__Prem___Fighter_" type="System.Resources.ResXFileRef, System.Windows.Forms">
+    <value>..\Images\Aircraft\La-5FN (Prem) (Fighter).png;System.Drawing.Bitmap, System.Drawing, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b03f5f7f11d50a3a</value>
+  </data>
+  <data name="La_5F__Fighter_" type="System.Resources.ResXFileRef, System.Windows.Forms">
+    <value>..\Images\Aircraft\La-5F (Fighter).jpg;System.Drawing.Bitmap, System.Drawing, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b03f5f7f11d50a3a</value>
+  </data>
+  <data name="La_5__Fighter_" type="System.Resources.ResXFileRef, System.Windows.Forms">
+    <value>..\Images\Aircraft\La-5 (Fighter).png;System.Drawing.Bitmap, System.Drawing, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b03f5f7f11d50a3a</value>
+  </data>
+  <data name="La_7B_20__Fighter_" type="System.Resources.ResXFileRef, System.Windows.Forms">
+    <value>..\Images\Aircraft\La-7B-20 (Fighter).jpg;System.Drawing.Bitmap, System.Drawing, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b03f5f7f11d50a3a</value>
+  </data>
+  <data name="La_7__Fighter_" type="System.Resources.ResXFileRef, System.Windows.Forms">
+    <value>..\Images\Aircraft\La-7 (Fighter).png;System.Drawing.Bitmap, System.Drawing, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b03f5f7f11d50a3a</value>
+  </data>
+  <data name="La_9__Fighter_" type="System.Resources.ResXFileRef, System.Windows.Forms">
+    <value>..\Images\Aircraft\La-9 (Fighter).png;System.Drawing.Bitmap, System.Drawing, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b03f5f7f11d50a3a</value>
+  </data>
+  <data name="Marcolin_s_CR_42CN__Fighter_" type="System.Resources.ResXFileRef, System.Windows.Forms">
+    <value>..\Images\Aircraft\Marcolin's CR.42CN (Fighter).png;System.Drawing.Bitmap, System.Drawing, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b03f5f7f11d50a3a</value>
+  </data>
+  <data name="Meteor_F__Mk_3__Fighter_" type="System.Resources.ResXFileRef, System.Windows.Forms">
+    <value>..\Images\Aircraft\Meteor F. Mk.3 (Fighter).png;System.Drawing.Bitmap, System.Drawing, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b03f5f7f11d50a3a</value>
+  </data>
+  <data name="Meteor_F__Mk_4_type_G_41F__Fighter_" type="System.Resources.ResXFileRef, System.Windows.Forms">
+    <value>..\Images\Aircraft\Meteor F. Mk.4 type G.41F (Fighter).png;System.Drawing.Bitmap, System.Drawing, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b03f5f7f11d50a3a</value>
+  </data>
+  <data name="Meteor_F__Mk_4_type_G_41G__Fighter_" type="System.Resources.ResXFileRef, System.Windows.Forms">
+    <value>..\Images\Aircraft\Meteor F. Mk.4 type G.41G (Fighter).png;System.Drawing.Bitmap, System.Drawing, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b03f5f7f11d50a3a</value>
+  </data>
+  <data name="Meteor_F__Mk_8__Fighter_" type="System.Resources.ResXFileRef, System.Windows.Forms">
+    <value>..\Images\Aircraft\Meteor F. Mk.8 (Fighter).png;System.Drawing.Bitmap, System.Drawing, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b03f5f7f11d50a3a</value>
+  </data>
+  <data name="Me_163B__Fighter_" type="System.Resources.ResXFileRef, System.Windows.Forms">
+    <value>..\Images\Aircraft\Me 163B (Fighter).png;System.Drawing.Bitmap, System.Drawing, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b03f5f7f11d50a3a</value>
+  </data>
+  <data name="Me_262_A_1a_Schwalbe__Fighter_" type="System.Resources.ResXFileRef, System.Windows.Forms">
+    <value>..\Images\Aircraft\Me 262 A-1a Schwalbe (Fighter).png;System.Drawing.Bitmap, System.Drawing, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b03f5f7f11d50a3a</value>
+  </data>
+  <data name="Me_262_A_1U4_Pulkzerstorer__Fighter_" type="System.Resources.ResXFileRef, System.Windows.Forms">
+    <value>..\Images\Aircraft\Me 262 A-1U4 Pulkzerstorer (Fighter).png;System.Drawing.Bitmap, System.Drawing, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b03f5f7f11d50a3a</value>
+  </data>
+  <data name="Me_262_C_1a_Heimatschutzer_I__Fighter_" type="System.Resources.ResXFileRef, System.Windows.Forms">
+    <value>..\Images\Aircraft\Me 262 C-1a Heimatschutzer I (Fighter).png;System.Drawing.Bitmap, System.Drawing, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b03f5f7f11d50a3a</value>
+  </data>
+  <data name="Me_262_C_2b_Heimatschutzer_II__Fighter_" type="System.Resources.ResXFileRef, System.Windows.Forms">
+    <value>..\Images\Aircraft\Me 262 C-2b Heimatschutzer II (Fighter).png;System.Drawing.Bitmap, System.Drawing, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b03f5f7f11d50a3a</value>
+  </data>
+  <data name="Me_410_A_1U2__Attacker_" type="System.Resources.ResXFileRef, System.Windows.Forms">
+    <value>..\Images\Aircraft\Me 410 A-1U2 (Attacker).png;System.Drawing.Bitmap, System.Drawing, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b03f5f7f11d50a3a</value>
+  </data>
+  <data name="Me_410_A_1U4__Attacker_" type="System.Resources.ResXFileRef, System.Windows.Forms">
+    <value>..\Images\Aircraft\Me 410 A-1U4 (Attacker).png;System.Drawing.Bitmap, System.Drawing, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b03f5f7f11d50a3a</value>
+  </data>
+  <data name="Me_410_A_1__Attacker_" type="System.Resources.ResXFileRef, System.Windows.Forms">
+    <value>..\Images\Aircraft\Me 410 A-1 (Attacker).jpg;System.Drawing.Bitmap, System.Drawing, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b03f5f7f11d50a3a</value>
+  </data>
+  <data name="Me_410_B_1U2__Attacker_" type="System.Resources.ResXFileRef, System.Windows.Forms">
+    <value>..\Images\Aircraft\Me 410 B-1U2 (Attacker).png;System.Drawing.Bitmap, System.Drawing, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b03f5f7f11d50a3a</value>
+  </data>
+  <data name="Me_410_B_1__Attacker_" type="System.Resources.ResXFileRef, System.Windows.Forms">
+    <value>..\Images\Aircraft\Me 410 B-1 (Attacker).png;System.Drawing.Bitmap, System.Drawing, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b03f5f7f11d50a3a</value>
+  </data>
+  <data name="Me_410_B_2U4__Attacker_" type="System.Resources.ResXFileRef, System.Windows.Forms">
+    <value>..\Images\Aircraft\Me 410 B-2U4 (Attacker).png;System.Drawing.Bitmap, System.Drawing, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b03f5f7f11d50a3a</value>
+  </data>
+  <data name="Me_410_B_6R3__Attacker_" type="System.Resources.ResXFileRef, System.Windows.Forms">
+    <value>..\Images\Aircraft\Me 410 B-6R3 (Attacker).png;System.Drawing.Bitmap, System.Drawing, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b03f5f7f11d50a3a</value>
+  </data>
+  <data name="MiG_15bis_GDR__Fighter_" type="System.Resources.ResXFileRef, System.Windows.Forms">
+    <value>..\Images\Aircraft\MiG-15bis GDR (Fighter).png;System.Drawing.Bitmap, System.Drawing, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b03f5f7f11d50a3a</value>
+  </data>
+  <data name="MiG_15bis__Fighter_" type="System.Resources.ResXFileRef, System.Windows.Forms">
+    <value>..\Images\Aircraft\MiG-15bis (Fighter).png;System.Drawing.Bitmap, System.Drawing, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b03f5f7f11d50a3a</value>
+  </data>
+  <data name="MiG_15__Fighter_" type="System.Resources.ResXFileRef, System.Windows.Forms">
+    <value>..\Images\Aircraft\MiG-15 (Fighter).png;System.Drawing.Bitmap, System.Drawing, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b03f5f7f11d50a3a</value>
+  </data>
+  <data name="MiG_3_15_BK__Fighter_" type="System.Resources.ResXFileRef, System.Windows.Forms">
+    <value>..\Images\Aircraft\MiG-3-15 BK (Fighter).png;System.Drawing.Bitmap, System.Drawing, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b03f5f7f11d50a3a</value>
+  </data>
+  <data name="MiG_3_15__Fighter_" type="System.Resources.ResXFileRef, System.Windows.Forms">
+    <value>..\Images\Aircraft\MiG-3-15 (Fighter).png;System.Drawing.Bitmap, System.Drawing, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b03f5f7f11d50a3a</value>
+  </data>
+  <data name="MiG_3_34__Fighter_" type="System.Resources.ResXFileRef, System.Windows.Forms">
+    <value>..\Images\Aircraft\MiG-3-34 (Fighter).png;System.Drawing.Bitmap, System.Drawing, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b03f5f7f11d50a3a</value>
+  </data>
+  <data name="MiG_9_Late__Fighter_" type="System.Resources.ResXFileRef, System.Windows.Forms">
+    <value>..\Images\Aircraft\MiG-9 Late (Fighter).png;System.Drawing.Bitmap, System.Drawing, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b03f5f7f11d50a3a</value>
+  </data>
+  <data name="MiG_9__Fighter_" type="System.Resources.ResXFileRef, System.Windows.Forms">
+    <value>..\Images\Aircraft\MiG-9 (Fighter).png;System.Drawing.Bitmap, System.Drawing, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b03f5f7f11d50a3a</value>
+  </data>
+  <data name="Mosquito_FB_Mk_VI__Attacker_" type="System.Resources.ResXFileRef, System.Windows.Forms">
+    <value>..\Images\Aircraft\Mosquito FB Mk VI (Attacker).png;System.Drawing.Bitmap, System.Drawing, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b03f5f7f11d50a3a</value>
+  </data>
+  <data name="Mosquito_FB_Mk_XVIII__Attacker_" type="System.Resources.ResXFileRef, System.Windows.Forms">
+    <value>..\Images\Aircraft\Mosquito FB Mk XVIII (Attacker).png;System.Drawing.Bitmap, System.Drawing, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b03f5f7f11d50a3a</value>
+  </data>
+  <data name="Mustang_Mk_IA__Prem___Fighter_" type="System.Resources.ResXFileRef, System.Windows.Forms">
+    <value>..\Images\Aircraft\Mustang Mk IA (Prem) (Fighter).png;System.Drawing.Bitmap, System.Drawing, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b03f5f7f11d50a3a</value>
+  </data>
+  <data name="M_C_200_series_7__Fighter_" type="System.Resources.ResXFileRef, System.Windows.Forms">
+    <value>..\Images\Aircraft\M.C.200 series 7 (Fighter).png;System.Drawing.Bitmap, System.Drawing, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b03f5f7f11d50a3a</value>
+  </data>
+  <data name="M_C_200_serie_3__Fighter_" type="System.Resources.ResXFileRef, System.Windows.Forms">
+    <value>..\Images\Aircraft\M.C.200 serie 3 (Fighter).jpg;System.Drawing.Bitmap, System.Drawing, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b03f5f7f11d50a3a</value>
+  </data>
+  <data name="M_C_202_Folgore__Fighter_" type="System.Resources.ResXFileRef, System.Windows.Forms">
+    <value>..\Images\Aircraft\M.C.202 Folgore (Fighter).png;System.Drawing.Bitmap, System.Drawing, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b03f5f7f11d50a3a</value>
+  </data>
+  <data name="N1K2_Ja_Shiden_Kai__Fighter_" type="System.Resources.ResXFileRef, System.Windows.Forms">
+    <value>..\Images\Aircraft\N1K2-Ja Shiden-Kai (Fighter).jpg;System.Drawing.Bitmap, System.Drawing, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b03f5f7f11d50a3a</value>
+  </data>
+  <data name="N1K2_J_Shiden_Kai__Fighter_" type="System.Resources.ResXFileRef, System.Windows.Forms">
+    <value>..\Images\Aircraft\N1K2-J Shiden-Kai (Fighter).png;System.Drawing.Bitmap, System.Drawing, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b03f5f7f11d50a3a</value>
+  </data>
+  <data name="Nimrod_Mk_II__Fighter_" type="System.Resources.ResXFileRef, System.Windows.Forms">
+    <value>..\Images\Aircraft\Nimrod Mk II (Fighter).png;System.Drawing.Bitmap, System.Drawing, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b03f5f7f11d50a3a</value>
+  </data>
+  <data name="Nimrod_Mk_I__Fighter_" type="System.Resources.ResXFileRef, System.Windows.Forms">
+    <value>..\Images\Aircraft\Nimrod Mk I (Fighter).png;System.Drawing.Bitmap, System.Drawing, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b03f5f7f11d50a3a</value>
+  </data>
+  <data name="OS2U_1_Kingfisher__Bomber_" type="System.Resources.ResXFileRef, System.Windows.Forms">
+    <value>..\Images\Aircraft\OS2U-1 Kingfisher (Bomber).png;System.Drawing.Bitmap, System.Drawing, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b03f5f7f11d50a3a</value>
+  </data>
+  <data name="OS2U_3_Kingfisher__Bomber_" type="System.Resources.ResXFileRef, System.Windows.Forms">
+    <value>..\Images\Aircraft\OS2U-3 Kingfisher (Bomber).png;System.Drawing.Bitmap, System.Drawing, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b03f5f7f11d50a3a</value>
+  </data>
+  <data name="PBJ_1H_Mitchell__Attacker_" type="System.Resources.ResXFileRef, System.Windows.Forms">
+    <value>..\Images\Aircraft\PBJ-1H Mitchell (Attacker).png;System.Drawing.Bitmap, System.Drawing, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b03f5f7f11d50a3a</value>
+  </data>
+  <data name="PBJ_1J_Mitchell__Attacker_" type="System.Resources.ResXFileRef, System.Windows.Forms">
+    <value>..\Images\Aircraft\PBJ-1J Mitchell (Attacker).png;System.Drawing.Bitmap, System.Drawing, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b03f5f7f11d50a3a</value>
+  </data>
+  <data name="PBY_5a_Catalina__Bomber_" type="System.Resources.ResXFileRef, System.Windows.Forms">
+    <value>..\Images\Aircraft\PBY-5a Catalina (Bomber).png;System.Drawing.Bitmap, System.Drawing, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b03f5f7f11d50a3a</value>
+  </data>
+  <data name="PBY_5_Catalina__Bomber_" type="System.Resources.ResXFileRef, System.Windows.Forms">
+    <value>..\Images\Aircraft\PBY-5 Catalina (Bomber).png;System.Drawing.Bitmap, System.Drawing, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b03f5f7f11d50a3a</value>
+  </data>
+  <data name="Pe_2_110_Peshka__Bomber_" type="System.Resources.ResXFileRef, System.Windows.Forms">
+    <value>..\Images\Aircraft\Pe-2-110 Peshka (Bomber).png;System.Drawing.Bitmap, System.Drawing, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b03f5f7f11d50a3a</value>
+  </data>
+  <data name="Pe_2_1_Peshka__Bomber_" type="System.Resources.ResXFileRef, System.Windows.Forms">
+    <value>..\Images\Aircraft\Pe-2-1 Peshka (Bomber).png;System.Drawing.Bitmap, System.Drawing, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b03f5f7f11d50a3a</value>
+  </data>
+  <data name="Pe_2_205_Peshka__Prem___Bomber_" type="System.Resources.ResXFileRef, System.Windows.Forms">
+    <value>..\Images\Aircraft\Pe-2-205 Peshka (Prem) (Bomber).jpg;System.Drawing.Bitmap, System.Drawing, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b03f5f7f11d50a3a</value>
+  </data>
+  <data name="Pe_2_31_Peshka__Bomber_" type="System.Resources.ResXFileRef, System.Windows.Forms">
+    <value>..\Images\Aircraft\Pe-2-31 Peshka (Bomber).png;System.Drawing.Bitmap, System.Drawing, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b03f5f7f11d50a3a</value>
+  </data>
+  <data name="Pe_2_359_Peshka__Bomber_" type="System.Resources.ResXFileRef, System.Windows.Forms">
+    <value>..\Images\Aircraft\Pe-2-359 Peshka (Bomber).png;System.Drawing.Bitmap, System.Drawing, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b03f5f7f11d50a3a</value>
+  </data>
+  <data name="Pe_2_83_Peshka__Bomber_" type="System.Resources.ResXFileRef, System.Windows.Forms">
+    <value>..\Images\Aircraft\Pe-2-83 Peshka (Bomber).jpg;System.Drawing.Bitmap, System.Drawing, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b03f5f7f11d50a3a</value>
+  </data>
+  <data name="Pe_3bis__Attacker_" type="System.Resources.ResXFileRef, System.Windows.Forms">
+    <value>..\Images\Aircraft\Pe-3bis (Attacker).png;System.Drawing.Bitmap, System.Drawing, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b03f5f7f11d50a3a</value>
+  </data>
+  <data name="Pe_3_Early__Attacker_" type="System.Resources.ResXFileRef, System.Windows.Forms">
+    <value>..\Images\Aircraft\Pe-3 Early (Attacker).png;System.Drawing.Bitmap, System.Drawing, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b03f5f7f11d50a3a</value>
+  </data>
+  <data name="Pe_3__Attacker_" type="System.Resources.ResXFileRef, System.Windows.Forms">
+    <value>..\Images\Aircraft\Pe-3 (Attacker).jpg;System.Drawing.Bitmap, System.Drawing, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b03f5f7f11d50a3a</value>
+  </data>
+  <data name="Plagis__Spitfire_LF__Mk_IX__Prem___Fighter_" type="System.Resources.ResXFileRef, System.Windows.Forms">
+    <value>..\Images\Aircraft\Plagis' Spitfire LF. Mk IX (Prem) (Fighter).png;System.Drawing.Bitmap, System.Drawing, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b03f5f7f11d50a3a</value>
+  </data>
+  <data name="Pokryshkin_s_P_39N_0_Airacobra__Prem___Fighter_" type="System.Resources.ResXFileRef, System.Windows.Forms">
+    <value>..\Images\Aircraft\Pokryshkin's P-39N-0 Airacobra (Prem) (Fighter).png;System.Drawing.Bitmap, System.Drawing, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b03f5f7f11d50a3a</value>
+  </data>
+  <data name="Po_2__Bomber_" type="System.Resources.ResXFileRef, System.Windows.Forms">
+    <value>..\Images\Aircraft\Po-2 (Bomber).png;System.Drawing.Bitmap, System.Drawing, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b03f5f7f11d50a3a</value>
+  </data>
+  <data name="Prendergast_s_Spitfire_FR_Mk_XIVe__Prem___Fighter_" type="System.Resources.ResXFileRef, System.Windows.Forms">
+    <value>..\Images\Aircraft\Prendergast's Spitfire FR Mk.XIVe (Prem) (Fighter).png;System.Drawing.Bitmap, System.Drawing, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b03f5f7f11d50a3a</value>
+  </data>
+  <data name="P_26A_33_Peashooter__Fighter_" type="System.Resources.ResXFileRef, System.Windows.Forms">
+    <value>..\Images\Aircraft\P-26A-33 Peashooter (Fighter).png;System.Drawing.Bitmap, System.Drawing, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b03f5f7f11d50a3a</value>
+  </data>
+  <data name="P_26A_34_M2_Peashooter__Fighter_" type="System.Resources.ResXFileRef, System.Windows.Forms">
+    <value>..\Images\Aircraft\P-26A-34 M2 Peashooter (Fighter).png;System.Drawing.Bitmap, System.Drawing, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b03f5f7f11d50a3a</value>
+  </data>
+  <data name="P_26A_34_Peashooter__Fighter_" type="System.Resources.ResXFileRef, System.Windows.Forms">
+    <value>..\Images\Aircraft\P-26A-34 Peashooter (Fighter).png;System.Drawing.Bitmap, System.Drawing, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b03f5f7f11d50a3a</value>
+  </data>
+  <data name="P_26B_35_Peashooter__Fighter_" type="System.Resources.ResXFileRef, System.Windows.Forms">
+    <value>..\Images\Aircraft\P-26B-35 Peashooter (Fighter).png;System.Drawing.Bitmap, System.Drawing, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b03f5f7f11d50a3a</value>
+  </data>
+  <data name="P_36A_Hawk__Fighter_" type="System.Resources.ResXFileRef, System.Windows.Forms">
+    <value>..\Images\Aircraft\P-36A Hawk (Fighter).png;System.Drawing.Bitmap, System.Drawing, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b03f5f7f11d50a3a</value>
+  </data>
+  <data name="P_36C_Hawk__Fighter_" type="System.Resources.ResXFileRef, System.Windows.Forms">
+    <value>..\Images\Aircraft\P-36C Hawk (Fighter).png;System.Drawing.Bitmap, System.Drawing, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b03f5f7f11d50a3a</value>
+  </data>
+  <data name="P_36G_Hawk__Fighter_" type="System.Resources.ResXFileRef, System.Windows.Forms">
+    <value>..\Images\Aircraft\P-36G Hawk (Fighter).png;System.Drawing.Bitmap, System.Drawing, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b03f5f7f11d50a3a</value>
+  </data>
+  <data name="P_38G_1_Lightning__Attacker_" type="System.Resources.ResXFileRef, System.Windows.Forms">
+    <value>..\Images\Aircraft\P-38G-1 Lightning (Attacker).png;System.Drawing.Bitmap, System.Drawing, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b03f5f7f11d50a3a</value>
+  </data>
+  <data name="P_39K_1_Airacobra__Prem___Fighter_" type="System.Resources.ResXFileRef, System.Windows.Forms">
+    <value>..\Images\Aircraft\P-39K-1 Airacobra (Prem) (Fighter).png;System.Drawing.Bitmap, System.Drawing, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b03f5f7f11d50a3a</value>
+  </data>
+  <data name="P_39N_0_Airacobra__Fighter_" type="System.Resources.ResXFileRef, System.Windows.Forms">
+    <value>..\Images\Aircraft\P-39N-0 Airacobra (Fighter).png;System.Drawing.Bitmap, System.Drawing, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b03f5f7f11d50a3a</value>
+  </data>
+  <data name="P_39Q_15_Airacobra__Prem___Fighter_" type="System.Resources.ResXFileRef, System.Windows.Forms">
+    <value>..\Images\Aircraft\P-39Q-15 Airacobra (Prem) (Fighter).png;System.Drawing.Bitmap, System.Drawing, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b03f5f7f11d50a3a</value>
+  </data>
+  <data name="P_39Q_5_Airacobra__Fighter_" type="System.Resources.ResXFileRef, System.Windows.Forms">
+    <value>..\Images\Aircraft\P-39Q-5 Airacobra (Fighter).jpg;System.Drawing.Bitmap, System.Drawing, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b03f5f7f11d50a3a</value>
+  </data>
+  <data name="P_400__Fighter_" type="System.Resources.ResXFileRef, System.Windows.Forms">
+    <value>..\Images\Aircraft\P-400 (Fighter).png;System.Drawing.Bitmap, System.Drawing, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b03f5f7f11d50a3a</value>
+  </data>
+  <data name="P_40E_1_Kittyhawk__Fighter_" type="System.Resources.ResXFileRef, System.Windows.Forms">
+    <value>..\Images\Aircraft\P-40E-1 Kittyhawk (Fighter).jpg;System.Drawing.Bitmap, System.Drawing, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b03f5f7f11d50a3a</value>
+  </data>
+  <data name="P_40E_1_Kittyhawk__Prem___Fighter_" type="System.Resources.ResXFileRef, System.Windows.Forms">
+    <value>..\Images\Aircraft\P-40E-1 Kittyhawk (Prem) (Fighter).png;System.Drawing.Bitmap, System.Drawing, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b03f5f7f11d50a3a</value>
+  </data>
+  <data name="P_47D_25_Thunderbolt__Fighter_" type="System.Resources.ResXFileRef, System.Windows.Forms">
+    <value>..\Images\Aircraft\P-47D-25 Thunderbolt (Fighter).png;System.Drawing.Bitmap, System.Drawing, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b03f5f7f11d50a3a</value>
+  </data>
+  <data name="P_47D_27_Thunderbolt__Prem___Fighter_" type="System.Resources.ResXFileRef, System.Windows.Forms">
+    <value>..\Images\Aircraft\P-47D-27 Thunderbolt (Prem) (Fighter).png;System.Drawing.Bitmap, System.Drawing, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b03f5f7f11d50a3a</value>
+  </data>
+  <data name="P_47D_28_Thunderbolt__Fighter_" type="System.Resources.ResXFileRef, System.Windows.Forms">
+    <value>..\Images\Aircraft\P-47D-28 Thunderbolt (Fighter).png;System.Drawing.Bitmap, System.Drawing, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b03f5f7f11d50a3a</value>
+  </data>
+  <data name="P_47D_Thunderbolt__Prem___Fighter_" type="System.Resources.ResXFileRef, System.Windows.Forms">
+    <value>..\Images\Aircraft\P-47D Thunderbolt (Prem) (Fighter).png;System.Drawing.Bitmap, System.Drawing, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b03f5f7f11d50a3a</value>
+  </data>
+  <data name="P_51D_20_NA_Mustang__Fighter_" type="System.Resources.ResXFileRef, System.Windows.Forms">
+    <value>..\Images\Aircraft\P-51D-20 NA Mustang (Fighter).png;System.Drawing.Bitmap, System.Drawing, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b03f5f7f11d50a3a</value>
+  </data>
+  <data name="P_51D_20_NA_Mustang__Prem___Fighter_" type="System.Resources.ResXFileRef, System.Windows.Forms">
+    <value>..\Images\Aircraft\P-51D-20 NA Mustang (Prem) (Fighter).png;System.Drawing.Bitmap, System.Drawing, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b03f5f7f11d50a3a</value>
+  </data>
+  <data name="P_51D_30_Mustang__Fighter_" type="System.Resources.ResXFileRef, System.Windows.Forms">
+    <value>..\Images\Aircraft\P-51D-30 Mustang (Fighter).jpg;System.Drawing.Bitmap, System.Drawing, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b03f5f7f11d50a3a</value>
+  </data>
+  <data name="P_51D_5_Mustang__Fighter_" type="System.Resources.ResXFileRef, System.Windows.Forms">
+    <value>..\Images\Aircraft\P-51D-5 Mustang (Fighter).png;System.Drawing.Bitmap, System.Drawing, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b03f5f7f11d50a3a</value>
+  </data>
+  <data name="P_51_Mustang__Fighter_" type="System.Resources.ResXFileRef, System.Windows.Forms">
+    <value>..\Images\Aircraft\P-51 Mustang (Fighter).png;System.Drawing.Bitmap, System.Drawing, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b03f5f7f11d50a3a</value>
+  </data>
+  <data name="P_63A_10_Kingcobra__Fighter_" type="System.Resources.ResXFileRef, System.Windows.Forms">
+    <value>..\Images\Aircraft\P-63A-10 Kingcobra (Fighter).png;System.Drawing.Bitmap, System.Drawing, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b03f5f7f11d50a3a</value>
+  </data>
+  <data name="P_63A_10_Kingcobra__Prem___Fighter_" type="System.Resources.ResXFileRef, System.Windows.Forms">
+    <value>..\Images\Aircraft\P-63A-10 Kingcobra (Prem) (Fighter).png;System.Drawing.Bitmap, System.Drawing, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b03f5f7f11d50a3a</value>
+  </data>
+  <data name="P_63A_5_Kingcobra__Fighter_" type="System.Resources.ResXFileRef, System.Windows.Forms">
+    <value>..\Images\Aircraft\P-63A-5 Kingcobra (Fighter).jpg;System.Drawing.Bitmap, System.Drawing, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b03f5f7f11d50a3a</value>
+  </data>
+  <data name="P_63A_5_Kingcobra__Prem___Fighter_" type="System.Resources.ResXFileRef, System.Windows.Forms">
+    <value>..\Images\Aircraft\P-63A-5 Kingcobra (Prem) (Fighter).jpg;System.Drawing.Bitmap, System.Drawing, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b03f5f7f11d50a3a</value>
+  </data>
+  <data name="P_63C_5_Kingcobra__Fighter_" type="System.Resources.ResXFileRef, System.Windows.Forms">
+    <value>..\Images\Aircraft\P-63C-5 Kingcobra (Fighter).png;System.Drawing.Bitmap, System.Drawing, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b03f5f7f11d50a3a</value>
+  </data>
+  <data name="P_80A_5__Fighter_" type="System.Resources.ResXFileRef, System.Windows.Forms">
+    <value>..\Images\Aircraft\P-80A-5 (Fighter).png;System.Drawing.Bitmap, System.Drawing, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b03f5f7f11d50a3a</value>
+  </data>
+  <data name="R2Y2_Keiun_KAI_V1__Bomber_" type="System.Resources.ResXFileRef, System.Windows.Forms">
+    <value>..\Images\Aircraft\R2Y2 Keiun-KAI V1 (Bomber).png;System.Drawing.Bitmap, System.Drawing, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b03f5f7f11d50a3a</value>
+  </data>
+  <data name="R2Y2_Keiun_KAI_V2__Bomber_" type="System.Resources.ResXFileRef, System.Windows.Forms">
+    <value>..\Images\Aircraft\R2Y2 Keiun-KAI V2 (Bomber).png;System.Drawing.Bitmap, System.Drawing, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b03f5f7f11d50a3a</value>
+  </data>
+  <data name="R2Y2_Keiun_KAI_V3__Bomber_" type="System.Resources.ResXFileRef, System.Windows.Forms">
+    <value>..\Images\Aircraft\R2Y2 Keiun-KAI V3 (Bomber).png;System.Drawing.Bitmap, System.Drawing, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b03f5f7f11d50a3a</value>
+  </data>
+  <data name="Rasmussen_s_P_36A_Hawk__Prem___Fighter_" type="System.Resources.ResXFileRef, System.Windows.Forms">
+    <value>..\Images\Aircraft\Rasmussen's P-36A Hawk (Prem) (Fighter).png;System.Drawing.Bitmap, System.Drawing, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b03f5f7f11d50a3a</value>
+  </data>
+  <data name="SB2C_1c__Bomber_" type="System.Resources.ResXFileRef, System.Windows.Forms">
+    <value>..\Images\Aircraft\SB2C-1c (Bomber).png;System.Drawing.Bitmap, System.Drawing, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b03f5f7f11d50a3a</value>
+  </data>
+  <data name="SBD_3_Dauntless__Bomber_" type="System.Resources.ResXFileRef, System.Windows.Forms">
+    <value>..\Images\Aircraft\SBD-3 Dauntless (Bomber).png;System.Drawing.Bitmap, System.Drawing, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b03f5f7f11d50a3a</value>
+  </data>
+  <data name="SB_2M_100__Bomber_" type="System.Resources.ResXFileRef, System.Windows.Forms">
+    <value>..\Images\Aircraft\SB 2M-100 (Bomber).png;System.Drawing.Bitmap, System.Drawing, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b03f5f7f11d50a3a</value>
+  </data>
+  <data name="SB_2M_103U_MV_3__Bomber_" type="System.Resources.ResXFileRef, System.Windows.Forms">
+    <value>..\Images\Aircraft\SB 2M-103U MV-3 (Bomber).png;System.Drawing.Bitmap, System.Drawing, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b03f5f7f11d50a3a</value>
+  </data>
+  <data name="SB_2M_103U__Bomber_" type="System.Resources.ResXFileRef, System.Windows.Forms">
+    <value>..\Images\Aircraft\SB 2M-103U (Bomber).png;System.Drawing.Bitmap, System.Drawing, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b03f5f7f11d50a3a</value>
+  </data>
+  <data name="SB_2M_103_MV_3__Bomber_" type="System.Resources.ResXFileRef, System.Windows.Forms">
+    <value>..\Images\Aircraft\SB 2M-103 MV-3 (Bomber).png;System.Drawing.Bitmap, System.Drawing, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b03f5f7f11d50a3a</value>
+  </data>
+  <data name="SB_2M_103__Bomber_" type="System.Resources.ResXFileRef, System.Windows.Forms">
+    <value>..\Images\Aircraft\SB 2M-103 (Bomber).png;System.Drawing.Bitmap, System.Drawing, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b03f5f7f11d50a3a</value>
+  </data>
+  <data name="SB_2M_105__Bomber_" type="System.Resources.ResXFileRef, System.Windows.Forms">
+    <value>..\Images\Aircraft\SB 2M-105 (Bomber).png;System.Drawing.Bitmap, System.Drawing, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b03f5f7f11d50a3a</value>
+  </data>
+  <data name="Seafire_FR_47__Fighter_" type="System.Resources.ResXFileRef, System.Windows.Forms">
+    <value>..\Images\Aircraft\Seafire FR 47 (Fighter).png;System.Drawing.Bitmap, System.Drawing, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b03f5f7f11d50a3a</value>
+  </data>
+  <data name="Seafire_Mk_XVII__Fighter_" type="System.Resources.ResXFileRef, System.Windows.Forms">
+    <value>..\Images\Aircraft\Seafire Mk XVII (Fighter).png;System.Drawing.Bitmap, System.Drawing, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b03f5f7f11d50a3a</value>
+  </data>
+  <data name="Sea_Fury_FB_11__Fighter_" type="System.Resources.ResXFileRef, System.Windows.Forms">
+    <value>..\Images\Aircraft\Sea Fury FB 11 (Fighter).png;System.Drawing.Bitmap, System.Drawing, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b03f5f7f11d50a3a</value>
+  </data>
+  <data name="Sea_Gladiator_Mk_I__Fighter_" type="System.Resources.ResXFileRef, System.Windows.Forms">
+    <value>..\Images\Aircraft\Sea Gladiator Mk.I (Fighter).png;System.Drawing.Bitmap, System.Drawing, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b03f5f7f11d50a3a</value>
+  </data>
+  <data name="Sea_Hurricane_Mk_IB__Fighter_" type="System.Resources.ResXFileRef, System.Windows.Forms">
+    <value>..\Images\Aircraft\Sea Hurricane Mk.IB (Fighter).png;System.Drawing.Bitmap, System.Drawing, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b03f5f7f11d50a3a</value>
+  </data>
+  <data name="Sea_Hurricane_Mk_IС__Fighter_" type="System.Resources.ResXFileRef, System.Windows.Forms">
+    <value>..\Images\Aircraft\Sea Hurricane Mk.IС (Fighter).png;System.Drawing.Bitmap, System.Drawing, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b03f5f7f11d50a3a</value>
+  </data>
+  <data name="Sea_Meteor_F__Mk_3__Fighter_" type="System.Resources.ResXFileRef, System.Windows.Forms">
+    <value>..\Images\Aircraft\Sea Meteor F. Mk.3 (Fighter).png;System.Drawing.Bitmap, System.Drawing, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b03f5f7f11d50a3a</value>
+  </data>
+  <data name="SM_79bis_Sparviero_Late__Bomber_" type="System.Resources.ResXFileRef, System.Windows.Forms">
+    <value>..\Images\Aircraft\SM.79bis Sparviero Late (Bomber).png;System.Drawing.Bitmap, System.Drawing, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b03f5f7f11d50a3a</value>
+  </data>
+  <data name="SM_79B_Sparviero__Bomber_" type="System.Resources.ResXFileRef, System.Windows.Forms">
+    <value>..\Images\Aircraft\SM.79B Sparviero (Bomber).jpg;System.Drawing.Bitmap, System.Drawing, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b03f5f7f11d50a3a</value>
+  </data>
+  <data name="SM_79_Sparviero__1936___Bomber_" type="System.Resources.ResXFileRef, System.Windows.Forms">
+    <value>..\Images\Aircraft\SM.79 Sparviero (1936) (Bomber).png;System.Drawing.Bitmap, System.Drawing, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b03f5f7f11d50a3a</value>
+  </data>
+  <data name="SM_79_Sparviero__1937___Bomber_" type="System.Resources.ResXFileRef, System.Windows.Forms">
+    <value>..\Images\Aircraft\SM.79 Sparviero (1937) (Bomber).png;System.Drawing.Bitmap, System.Drawing, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b03f5f7f11d50a3a</value>
+  </data>
+  <data name="SM_79_Sparviero__1939___Bomber_" type="System.Resources.ResXFileRef, System.Windows.Forms">
+    <value>..\Images\Aircraft\SM.79 Sparviero (1939) (Bomber).png;System.Drawing.Bitmap, System.Drawing, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b03f5f7f11d50a3a</value>
+  </data>
+  <data name="SM_79_Sparviero__1941___Bomber_" type="System.Resources.ResXFileRef, System.Windows.Forms">
+    <value>..\Images\Aircraft\SM.79 Sparviero (1941) (Bomber).png;System.Drawing.Bitmap, System.Drawing, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b03f5f7f11d50a3a</value>
+  </data>
+  <data name="Spitfire_F_Mk_22__Fighter_" type="System.Resources.ResXFileRef, System.Windows.Forms">
+    <value>..\Images\Aircraft\Spitfire F Mk.22 (Fighter).png;System.Drawing.Bitmap, System.Drawing, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b03f5f7f11d50a3a</value>
+  </data>
+  <data name="Spitfire_F_Mk_24__Fighter_" type="System.Resources.ResXFileRef, System.Windows.Forms">
+    <value>..\Images\Aircraft\Spitfire F Mk.24 (Fighter).png;System.Drawing.Bitmap, System.Drawing, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b03f5f7f11d50a3a</value>
+  </data>
+  <data name="Spitfire_F_Mk_XIVc__Fighter_" type="System.Resources.ResXFileRef, System.Windows.Forms">
+    <value>..\Images\Aircraft\Spitfire F Mk.XIVc (Fighter).png;System.Drawing.Bitmap, System.Drawing, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b03f5f7f11d50a3a</value>
+  </data>
+  <data name="Spitfire_F_Mk_XIVe__Fighter_" type="System.Resources.ResXFileRef, System.Windows.Forms">
+    <value>..\Images\Aircraft\Spitfire F Mk.XIVe (Fighter).png;System.Drawing.Bitmap, System.Drawing, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b03f5f7f11d50a3a</value>
+  </data>
+  <data name="Spitfire_F_Mk_XVIIIe__Fighter_" type="System.Resources.ResXFileRef, System.Windows.Forms">
+    <value>..\Images\Aircraft\Spitfire F Mk.XVIIIe (Fighter).png;System.Drawing.Bitmap, System.Drawing, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b03f5f7f11d50a3a</value>
+  </data>
+  <data name="Spitfire_F__Mk_IX__Fighter_" type="System.Resources.ResXFileRef, System.Windows.Forms">
+    <value>..\Images\Aircraft\Spitfire F. Mk IX (Fighter).png;System.Drawing.Bitmap, System.Drawing, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b03f5f7f11d50a3a</value>
+  </data>
+  <data name="Spitfire_F__Mk_XVI__Fighter_" type="System.Resources.ResXFileRef, System.Windows.Forms">
+    <value>..\Images\Aircraft\Spitfire F. Mk XVI (Fighter).png;System.Drawing.Bitmap, System.Drawing, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b03f5f7f11d50a3a</value>
+  </data>
+  <data name="Spitfire_LF_Mk_IX_US__Prem___Fighter_" type="System.Resources.ResXFileRef, System.Windows.Forms">
+    <value>..\Images\Aircraft\Spitfire LF Mk.IX US (Prem) (Fighter).png;System.Drawing.Bitmap, System.Drawing, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b03f5f7f11d50a3a</value>
+  </data>
+  <data name="Spitfire_LF__Mk_IX__Fighter_" type="System.Resources.ResXFileRef, System.Windows.Forms">
+    <value>..\Images\Aircraft\Spitfire LF. Mk IX (Fighter).png;System.Drawing.Bitmap, System.Drawing, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b03f5f7f11d50a3a</value>
+  </data>
+  <data name="Spitfire_Mk_IIa__Fighter_" type="System.Resources.ResXFileRef, System.Windows.Forms">
+    <value>..\Images\Aircraft\Spitfire Mk IIa (Fighter).png;System.Drawing.Bitmap, System.Drawing, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b03f5f7f11d50a3a</value>
+  </data>
+  <data name="Spitfire_Mk_IIb__Fighter_" type="System.Resources.ResXFileRef, System.Windows.Forms">
+    <value>..\Images\Aircraft\Spitfire Mk IIb (Fighter).png;System.Drawing.Bitmap, System.Drawing, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b03f5f7f11d50a3a</value>
+  </data>
+  <data name="Spitfire_Mk_IX_USSR__Prem___Fighter_" type="System.Resources.ResXFileRef, System.Windows.Forms">
+    <value>..\Images\Aircraft\Spitfire Mk.IX USSR (Prem) (Fighter).png;System.Drawing.Bitmap, System.Drawing, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b03f5f7f11d50a3a</value>
+  </data>
+  <data name="Spitfire_Mk_Vb_trop__Fighter_" type="System.Resources.ResXFileRef, System.Windows.Forms">
+    <value>..\Images\Aircraft\Spitfire Mk Vb trop (Fighter).png;System.Drawing.Bitmap, System.Drawing, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b03f5f7f11d50a3a</value>
+  </data>
+  <data name="Spitfire_Mk_Vc__Fighter_" type="System.Resources.ResXFileRef, System.Windows.Forms">
+    <value>..\Images\Aircraft\Spitfire Mk Vc (Fighter).png;System.Drawing.Bitmap, System.Drawing, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b03f5f7f11d50a3a</value>
+  </data>
+  <data name="Spitfire_Mk__Ia__Fighter_" type="System.Resources.ResXFileRef, System.Windows.Forms">
+    <value>..\Images\Aircraft\Spitfire Mk. Ia (Fighter).png;System.Drawing.Bitmap, System.Drawing, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b03f5f7f11d50a3a</value>
+  </data>
+  <data name="Su_2_MV_5__Bomber_" type="System.Resources.ResXFileRef, System.Windows.Forms">
+    <value>..\Images\Aircraft\Su-2 MV-5 (Bomber).jpg;System.Drawing.Bitmap, System.Drawing, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b03f5f7f11d50a3a</value>
+  </data>
+  <data name="Su_2_M_82__Bomber_" type="System.Resources.ResXFileRef, System.Windows.Forms">
+    <value>..\Images\Aircraft\Su-2 M-82 (Bomber).png;System.Drawing.Bitmap, System.Drawing, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b03f5f7f11d50a3a</value>
+  </data>
+  <data name="Su_2_TSS_1__Bomber_" type="System.Resources.ResXFileRef, System.Windows.Forms">
+    <value>..\Images\Aircraft\Su-2 TSS-1 (Bomber).jpg;System.Drawing.Bitmap, System.Drawing, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b03f5f7f11d50a3a</value>
+  </data>
+  <data name="Swordfish_Mk_I__Bomber_" type="System.Resources.ResXFileRef, System.Windows.Forms">
+    <value>..\Images\Aircraft\Swordfish Mk I (Bomber).png;System.Drawing.Bitmap, System.Drawing, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b03f5f7f11d50a3a</value>
+  </data>
+  <data name="Ta_152_H_1__Fighter_" type="System.Resources.ResXFileRef, System.Windows.Forms">
+    <value>..\Images\Aircraft\Ta 152 H-1 (Fighter).png;System.Drawing.Bitmap, System.Drawing, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b03f5f7f11d50a3a</value>
+  </data>
+  <data name="TBF_1c_Avenger__Bomber_" type="System.Resources.ResXFileRef, System.Windows.Forms">
+    <value>..\Images\Aircraft\TBF-1c Avenger (Bomber).png;System.Drawing.Bitmap, System.Drawing, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b03f5f7f11d50a3a</value>
+  </data>
+  <data name="TB_3M_17_32__Bomber_" type="System.Resources.ResXFileRef, System.Windows.Forms">
+    <value>..\Images\Aircraft\TB-3M-17-32 (Bomber).png;System.Drawing.Bitmap, System.Drawing, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b03f5f7f11d50a3a</value>
+  </data>
+  <data name="Tempest_Mk_II__Fighter_" type="System.Resources.ResXFileRef, System.Windows.Forms">
+    <value>..\Images\Aircraft\Tempest Mk II (Fighter).png;System.Drawing.Bitmap, System.Drawing, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b03f5f7f11d50a3a</value>
+  </data>
+  <data name="Tempest_Mk_V_Vickers_P__Attacker_" type="System.Resources.ResXFileRef, System.Windows.Forms">
+    <value>..\Images\Aircraft\Tempest Mk.V Vickers P (Attacker).png;System.Drawing.Bitmap, System.Drawing, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b03f5f7f11d50a3a</value>
+  </data>
+  <data name="Tempest_Mk_V__Fighter_" type="System.Resources.ResXFileRef, System.Windows.Forms">
+    <value>..\Images\Aircraft\Tempest Mk V (Fighter).png;System.Drawing.Bitmap, System.Drawing, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b03f5f7f11d50a3a</value>
+  </data>
+  <data name="Tuck_s_Gladiator_Mk_II__Fighter_" type="System.Resources.ResXFileRef, System.Windows.Forms">
+    <value>..\Images\Aircraft\Tuck's Gladiator Mk.II (Fighter).png;System.Drawing.Bitmap, System.Drawing, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b03f5f7f11d50a3a</value>
+  </data>
+  <data name="Tu_2S_44__Bomber_" type="System.Resources.ResXFileRef, System.Windows.Forms">
+    <value>..\Images\Aircraft\Tu-2S-44 (Bomber).png;System.Drawing.Bitmap, System.Drawing, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b03f5f7f11d50a3a</value>
+  </data>
+  <data name="Tu_2S_59__Bomber_" type="System.Resources.ResXFileRef, System.Windows.Forms">
+    <value>..\Images\Aircraft\Tu-2S-59 (Bomber).png;System.Drawing.Bitmap, System.Drawing, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b03f5f7f11d50a3a</value>
+  </data>
+  <data name="Tu_2S__Bomber_" type="System.Resources.ResXFileRef, System.Windows.Forms">
+    <value>..\Images\Aircraft\Tu-2S (Bomber).png;System.Drawing.Bitmap, System.Drawing, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b03f5f7f11d50a3a</value>
+  </data>
+  <data name="Tu_2__Bomber_" type="System.Resources.ResXFileRef, System.Windows.Forms">
+    <value>..\Images\Aircraft\Tu-2 (Bomber).png;System.Drawing.Bitmap, System.Drawing, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b03f5f7f11d50a3a</value>
+  </data>
+  <data name="Typhoon_Mk_1a__Fighter_" type="System.Resources.ResXFileRef, System.Windows.Forms">
+    <value>..\Images\Aircraft\Typhoon Mk.1a (Fighter).png;System.Drawing.Bitmap, System.Drawing, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b03f5f7f11d50a3a</value>
+  </data>
+  <data name="Typhoon_Mk_1b_Late__Fighter_" type="System.Resources.ResXFileRef, System.Windows.Forms">
+    <value>..\Images\Aircraft\Typhoon Mk 1b Late (Fighter).png;System.Drawing.Bitmap, System.Drawing, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b03f5f7f11d50a3a</value>
+  </data>
+  <data name="Typhoon_Mk_1b__Prem___Fighter_" type="System.Resources.ResXFileRef, System.Windows.Forms">
+    <value>..\Images\Aircraft\Typhoon Mk 1b (Prem) (Fighter).png;System.Drawing.Bitmap, System.Drawing, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b03f5f7f11d50a3a</value>
+  </data>
+  <data name="Vampire_FB_5__Fighter_" type="System.Resources.ResXFileRef, System.Windows.Forms">
+    <value>..\Images\Aircraft\Vampire FB.5 (Fighter).png;System.Drawing.Bitmap, System.Drawing, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b03f5f7f11d50a3a</value>
+  </data>
+  <data name="Venom_FB_4__Fighter_" type="System.Resources.ResXFileRef, System.Windows.Forms">
+    <value>..\Images\Aircraft\Venom FB.4 (Fighter).png;System.Drawing.Bitmap, System.Drawing, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b03f5f7f11d50a3a</value>
+  </data>
+  <data name="Wellington_Mk_Ic_Late__Bomber_" type="System.Resources.ResXFileRef, System.Windows.Forms">
+    <value>..\Images\Aircraft\Wellington Mk Ic Late (Bomber).png;System.Drawing.Bitmap, System.Drawing, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b03f5f7f11d50a3a</value>
+  </data>
+  <data name="Wellington_Mk_Ic__Bomber_" type="System.Resources.ResXFileRef, System.Windows.Forms">
+    <value>..\Images\Aircraft\Wellington Mk Ic (Bomber).png;System.Drawing.Bitmap, System.Drawing, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b03f5f7f11d50a3a</value>
+  </data>
+  <data name="Wellington_Mk_Ic__Prem___Bomber_" type="System.Resources.ResXFileRef, System.Windows.Forms">
+    <value>..\Images\Aircraft\Wellington Mk Ic (Prem) (Bomber).png;System.Drawing.Bitmap, System.Drawing, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b03f5f7f11d50a3a</value>
+  </data>
+  <data name="Wellington_Mk_III__Bomber_" type="System.Resources.ResXFileRef, System.Windows.Forms">
+    <value>..\Images\Aircraft\Wellington Mk.III (Bomber).png;System.Drawing.Bitmap, System.Drawing, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b03f5f7f11d50a3a</value>
+  </data>
+  <data name="Wellington_Mk_X__Bomber_" type="System.Resources.ResXFileRef, System.Windows.Forms">
+    <value>..\Images\Aircraft\Wellington Mk X (Bomber).png;System.Drawing.Bitmap, System.Drawing, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b03f5f7f11d50a3a</value>
+  </data>
+  <data name="Wetmore_s_P_51D_10_Mustang__Prem___Fighter_" type="System.Resources.ResXFileRef, System.Windows.Forms">
+    <value>..\Images\Aircraft\Wetmore's P-51D-10 Mustang (Prem) (Fighter).png;System.Drawing.Bitmap, System.Drawing, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b03f5f7f11d50a3a</value>
+  </data>
+  <data name="Wirraway__Prem___Bomber_" type="System.Resources.ResXFileRef, System.Windows.Forms">
+    <value>..\Images\Aircraft\Wirraway (Prem) (Bomber).png;System.Drawing.Bitmap, System.Drawing, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b03f5f7f11d50a3a</value>
+  </data>
+  <data name="XF5F_Skyrocket__Prem___Fighter_" type="System.Resources.ResXFileRef, System.Windows.Forms">
+    <value>..\Images\Aircraft\XF5F Skyrocket (Prem) (Fighter).png;System.Drawing.Bitmap, System.Drawing, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b03f5f7f11d50a3a</value>
+  </data>
+  <data name="Yak_15P__Fighter_" type="System.Resources.ResXFileRef, System.Windows.Forms">
+    <value>..\Images\Aircraft\Yak-15P (Fighter).png;System.Drawing.Bitmap, System.Drawing, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b03f5f7f11d50a3a</value>
+  </data>
+  <data name="Yak_15__Fighter_" type="System.Resources.ResXFileRef, System.Windows.Forms">
+    <value>..\Images\Aircraft\Yak-15 (Fighter).png;System.Drawing.Bitmap, System.Drawing, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b03f5f7f11d50a3a</value>
+  </data>
+  <data name="Yak_17__Fighter_" type="System.Resources.ResXFileRef, System.Windows.Forms">
+    <value>..\Images\Aircraft\Yak-17 (Fighter).png;System.Drawing.Bitmap, System.Drawing, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b03f5f7f11d50a3a</value>
+  </data>
+  <data name="Yak_1B__Fighter_" type="System.Resources.ResXFileRef, System.Windows.Forms">
+    <value>..\Images\Aircraft\Yak-1B (Fighter).png;System.Drawing.Bitmap, System.Drawing, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b03f5f7f11d50a3a</value>
+  </data>
+  <data name="Yak_1__Fighter_" type="System.Resources.ResXFileRef, System.Windows.Forms">
+    <value>..\Images\Aircraft\Yak-1 (Fighter).png;System.Drawing.Bitmap, System.Drawing, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b03f5f7f11d50a3a</value>
+  </data>
+  <data name="Yak_3P__Fighter_" type="System.Resources.ResXFileRef, System.Windows.Forms">
+    <value>..\Images\Aircraft\Yak-3P (Fighter).png;System.Drawing.Bitmap, System.Drawing, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b03f5f7f11d50a3a</value>
+  </data>
+  <data name="Yak_3__Fighter_" type="System.Resources.ResXFileRef, System.Windows.Forms">
+    <value>..\Images\Aircraft\Yak-3 (Fighter).png;System.Drawing.Bitmap, System.Drawing, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b03f5f7f11d50a3a</value>
+  </data>
+  <data name="Yak_3__VK_107___Prem___Fighter_" type="System.Resources.ResXFileRef, System.Windows.Forms">
+    <value>..\Images\Aircraft\Yak-3 (VK-107) (Prem) (Fighter).png;System.Drawing.Bitmap, System.Drawing, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b03f5f7f11d50a3a</value>
+  </data>
+  <data name="Yak_7B__Fighter_" type="System.Resources.ResXFileRef, System.Windows.Forms">
+    <value>..\Images\Aircraft\Yak-7B (Fighter).png;System.Drawing.Bitmap, System.Drawing, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b03f5f7f11d50a3a</value>
+  </data>
+  <data name="Yak_9K__Fighter_" type="System.Resources.ResXFileRef, System.Windows.Forms">
+    <value>..\Images\Aircraft\Yak-9K (Fighter).png;System.Drawing.Bitmap, System.Drawing, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b03f5f7f11d50a3a</value>
+  </data>
+  <data name="Yak_9P__Fighter_" type="System.Resources.ResXFileRef, System.Windows.Forms">
+    <value>..\Images\Aircraft\Yak-9P (Fighter).png;System.Drawing.Bitmap, System.Drawing, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b03f5f7f11d50a3a</value>
+  </data>
+  <data name="Yak_9T__Fighter_" type="System.Resources.ResXFileRef, System.Windows.Forms">
+    <value>..\Images\Aircraft\Yak-9T (Fighter).png;System.Drawing.Bitmap, System.Drawing, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b03f5f7f11d50a3a</value>
+  </data>
+  <data name="Yak_9UT__Fighter_" type="System.Resources.ResXFileRef, System.Windows.Forms">
+    <value>..\Images\Aircraft\Yak-9UT (Fighter).png;System.Drawing.Bitmap, System.Drawing, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b03f5f7f11d50a3a</value>
+  </data>
+  <data name="Yak_9U__Fighter_" type="System.Resources.ResXFileRef, System.Windows.Forms">
+    <value>..\Images\Aircraft\Yak-9U (Fighter).png;System.Drawing.Bitmap, System.Drawing, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b03f5f7f11d50a3a</value>
+  </data>
+  <data name="Yak_9__Fighter_" type="System.Resources.ResXFileRef, System.Windows.Forms">
+    <value>..\Images\Aircraft\Yak-9 (Fighter).png;System.Drawing.Bitmap, System.Drawing, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b03f5f7f11d50a3a</value>
+  </data>
+  <data name="Yer_2_ACh_30B_Early__Bomber_" type="System.Resources.ResXFileRef, System.Windows.Forms">
+    <value>..\Images\Aircraft\Yer-2 ACh-30B Early (Bomber).png;System.Drawing.Bitmap, System.Drawing, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b03f5f7f11d50a3a</value>
+  </data>
+  <data name="Yer_2_ACh_30B_Late__Bomber_" type="System.Resources.ResXFileRef, System.Windows.Forms">
+    <value>..\Images\Aircraft\Yer-2 ACh-30B Late (Bomber).png;System.Drawing.Bitmap, System.Drawing, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b03f5f7f11d50a3a</value>
+  </data>
+  <data name="Yer_2_M_105R_LU_MV_2B__Bomber_" type="System.Resources.ResXFileRef, System.Windows.Forms">
+    <value>..\Images\Aircraft\Yer-2 M-105R LU-MV-2B (Bomber).jpg;System.Drawing.Bitmap, System.Drawing, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b03f5f7f11d50a3a</value>
+  </data>
+  <data name="Yer_2_M_105__Bomber_" type="System.Resources.ResXFileRef, System.Windows.Forms">
+    <value>..\Images\Aircraft\Yer-2 M-105 (Bomber).png;System.Drawing.Bitmap, System.Drawing, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b03f5f7f11d50a3a</value>
+  </data>
+  <data name="Zhukovsky_s_I_153_M62__Fighter_" type="System.Resources.ResXFileRef, System.Windows.Forms">
+    <value>..\Images\Aircraft\Zhukovsky's I-153-M62 (Fighter).png;System.Drawing.Bitmap, System.Drawing, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b03f5f7f11d50a3a</value>
+  </data>
+</root>
