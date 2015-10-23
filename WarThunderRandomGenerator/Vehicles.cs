@@ -1,22 +1,41 @@
 ﻿using System;
+using System.Linq;
+using System.Windows.Media;
 
 namespace WarThunderRandomGenerator
 {
-    class Vehicle
+    public class Vehicles
     {
-        public Vehicle(string fullName, string country, int tier, string vType)
+        public Vehicles(string fullName, string country, int tier, string vType)
         {
             this.ImagePath = new Uri($"pack://application:,,,/Images/{vType}/{fullName}");
             this.VehicleType = vType;
             this.Country = country;
             this.Tier = tier;
-            this.Premium = IsPremium(fullName);
-            this.PlaneName = GetName(fullName);
+            this.Premium = SetPremium(fullName);
+            this.VehicleClass = SetVehicleClass(fullName);
+            this.PlaneName = SetName(fullName);
         }
 
-        static private string GetName(string fullName)
+        private string SetVehicleClass(string fullName)
         {
-            int fileExtPos = fullName.LastIndexOf(".");
+            if (fullName.Contains("(Fighter)"))
+            {
+                return "Figter";
+            }
+            else if (fullName.Contains("(Attacker)"))
+            {
+                return "Attacker";
+            }
+            else
+            {
+                return "Bomber";
+            }
+        }
+
+        static private string SetName(string fullName)
+        {
+            int fileExtPos = fullName.IndexOf("(") - 1;
             string name = string.Empty;
 
             if (fileExtPos >= 0)
@@ -27,7 +46,7 @@ namespace WarThunderRandomGenerator
             return name;
         }
 
-        private bool IsPremium(string fullName)
+        private bool SetPremium(string fullName)
         {
             bool isPrem;
 
@@ -52,6 +71,11 @@ namespace WarThunderRandomGenerator
         public Uri ImagePath { get; set; }
         public string PlaneName { get; set; }
         public string VehicleType { get; set; }
+        public string VehicleClass { get; set; }
 
+        public override string ToString()
+        {
+            return ($"{this.PlaneName} Tier {this.Tier} {this.Country} {this.PremiumLabel}");
+        }
     }
 }

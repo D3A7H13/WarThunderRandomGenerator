@@ -14,6 +14,7 @@ namespace WarThunderRandomGenerator
             AirBattles battle = new AirBattles();
             battle.CreatingWindow = this;
             battle.Show();
+            
         }
     }
 }
