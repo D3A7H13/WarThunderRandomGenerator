@@ -1,0 +1,431 @@
+﻿USA
+Tier 1
+F2A-1 Buffalo (Fighter).png
+F2A-3 Buffalo (Fighter).png
+OS2U-1 Kingfisher (Bomber).png
+OS2U-3 Kingfisher (Bomber).png
+P-26A-33 Peashooter (Fighter).png
+P-26A-34 M2 Peashooter (Fighter).png
+P-26A-34 Peashooter (Fighter).png
+P-26B-35 Peashooter (Fighter).png
+P-36A Hawk (Fighter).png
+P-36C Hawk (Fighter).png
+P-36G Hawk (Fighter).png
+PBY-5 Catalina (Bomber).png
+PBY-5a Catalina (Bomber).png
+Rasmussen's P-36A Hawk (Prem) (Fighter).png
+SBD-3 Dauntless (Bomber).png
+Tier 2
+A-20G-25 Havoc (Attacker).jpg
+A-36 Apache (Attacker).png
+A6M2 Reisen (Prem) (Fighter).png
+B-25J-1 Mitchell (Bomber).png
+F4F-3 Wildcat (Fighter).png
+F4U-1a Corsair (Fighter).png
+F4U-1a USMC Corsair (Fighter).png
+F6F-3 Hellcat (Fighter).png
+Ki-61-Ib Hien (Prem) (Fighter).png
+P-38G-1 Lightning (Attacker).png
+P-40E-1 Kittyhawk (Fighter).jpg
+P-400 (Fighter).png
+P-39N-0 Airacobra (Fighter).png
+P-39Q-5 Airacobra (Fighter).jpg
+SB2C-1c (Bomber).png
+TBF-1c Avenger (Bomber).png
+Tier 3
+B-17E Flying Fortress (Bomber).png
+B-17E Flying Fortress Late (Bomber).png
+B-25J-20 Mitchell (Bomber).png
+Bf 109 F-4 (Prem) (Fighter).png
+P-47D-25 Thunderbolt (Fighter).png
+P-47D-28 Thunderbolt (Fighter).png
+P-51 Mustang (Fighter).png
+P-63A-5 Kingcobra (Fighter).jpg
+P-63A-10 Kingcobra (Fighter).png
+P-63C-5 Kingcobra (Fighter).png
+F4U-1c Corsair (Fighter).png
+F4U-1d Corsair (Fighter).png
+PBJ-1H Mitchell (Attacker).png
+PBJ-1J Mitchell (Attacker).png
+XF5F Skyrocket (Prem) (Fighter).png
+Tier 4
+A-26C-45 Invader (Prem) (Bomber).png
+A-26C-45DT (Prem) (Bomber).png
+AD-2 Skyraider (Attacker).png
+B-17G Flying Fortress (Bomber).png
+B-24D Liberator (Bomber).png
+B-29 Superfortress (Bomber).png
+Bostwick's P-47M-1-RE Thunderbolt (Prem) (Fighter).png
+F-82E Twin Mustang (Fighter).png
+F7F-1 Tigercat (Fighter).png
+F8F-1 Bearcat (Fighter).png
+F8F-1B Bearcat (Fighter).png
+Fw 190A-8 (Prem) (Fighter).png
+P-51D-5 Mustang (Fighter).png
+P-51D-20 NA Mustang (Prem) (Fighter).png
+P-51D-30 Mustang (Fighter).jpg
+Wetmore's P-51D-10 Mustang (Prem) (Fighter).png
+Spitfire LF Mk.IX US (Prem) (Fighter).png
+Tier 5
+B-57A (Bomber).png
+B-57B (Bomber).png
+P-80A-5 (Fighter).png
+F-80C-10 Shooting Star (Fighter).png
+F-84B-26 (Fighter).png
+F-86A-5 Sabre (Fighter).png
+F-86F-2 Sabre (Fighter).png
+F-86F-25 Sabre (Fighter).png
+F2H-2 Banshee (Fighter).png
+F9F-2 Panther (Fighter).png
+F9F-5 Panther (Fighter).png
+Germany
+Tier 1
+Bf 110 C-4 (Attacker).png
+CR.42 Falco (Fighter).png
+Do 17 E-1 (Bomber).png
+G.50 Freccia series 7AS (Fighter).png
+G.50 Freccia series 2 (Fighter).jpg
+He 111 H-3 (Bomber).png
+He 112 A-0 (Fighter).jpg
+He 112 B-0 (Fighter).png
+He 112 B-1 U2 (Prem) (Fighter).png
+He 112 B-2 U2 (Prem) (Fighter).png
+He 112 V-5 (Fighter).jpg
+He 51 B-2  Hydroplane (Prem) (Fighter).png
+He 51 C-1  Late (Fighter).png
+He 51 C-1 (Fighter).png
+M.C.200 serie 3 (Fighter).jpg
+M.C.200 series 7 (Fighter).png
+M.C.202 Folgore (Fighter).png
+Marcolin's CR.42CN (Fighter).png
+Ju 87 B-2 (Bomber).png
+Ju 87 R-2 (Bomber).png
+Ju 88A-4 (Bomber).png
+Tier 2
+Bf 109B-1  Late (Fighter).png
+Bf 109 E-1 (Fighter).png
+Bf 109 E-3 (Fighter).png
+Bf 109 F-1 (Fighter).png
+Bf 109 F-2 (Fighter).png
+Do 217 J-1 (Attacker).png
+Do 217 J-2 (Attacker).png
+Fw 190 A-1 (Fighter).png
+Fw 190 A-4 (Fighter).png
+Fw 200 C-1 (Bomber).png
+He 111 H-6 (Bomber).png
+Ju 87 D-3 (Bomber).png
+Ju 87 D-5 (Attacker).png
+Ju 87 G-1(Attacker).png
+Ju 87 G-2 (Attacker).png
+SM.79 Sparviero (1936) (Bomber).png
+SM.79 Sparviero (1937) (Bomber).png
+SM.79 Sparviero (1939) (Bomber).png
+SM.79 Sparviero (1941) (Bomber).png
+SM.79B Sparviero (Bomber).jpg
+SM.79bis Sparviero Late (Bomber).png
+Wellington Mk Ic (Prem) (Bomber).png
+Tier 3
+Bf 109 F-4 (Fighter).png
+Bf 109 F-4 trop (Fighter).png
+Bf 109 G-2 (Prem) (Fighter).png
+Bf 109 G-2 trop (Fighter).png
+Do 217 E-2 (Bomber).png
+Do 217 E-4 (Bomber).png
+Do 217 N-1 (Attacker).png
+Do 217 N-2 (Attacker).png
+Fw 190 A-5 (Fighter).png
+Fw 190 A-5 U2 (Fighter).png
+He 111 H-16 (Bomber).png
+Hs 129 B-2 (Attacker).png
+Hs 129 B-2 (Prem) (Attacker).png
+Hs 129 B-3 (Attacker).png
+La-5FN (Prem) (Fighter).png
+Me 410 A-1 (Attacker).jpg
+Me 410 A-1U2 (Attacker).png
+Me 410 B-1 (Attacker).png
+Me 410 B-1U2 (Attacker).png
+P-47D Thunderbolt (Prem) (Fighter).png
+Tier 4
+Bf 109 G-6 (Fighter).png
+Bf 109 G-10 (Fighter).png
+Bf 109 G-14 (Fighter).png
+Bf 109 K-4 (Fighter).png
+Do 217 K-1 (Bomber).png
+Do 217 M-1 (Bomber).png
+Fw 190 A-8 (Fighter).png
+Fw 190 F-8 (Fighter).png
+Fw 190 D-9 (Fighter).png
+Fw 190 D-12 (Fighter).png
+Fw 190 D-13 (Prem) (Fighter).png
+Me 410 A-1U4 (Attacker).png
+Me 410 B-2U4 (Attacker).png
+Me 410 B-6R3 (Attacker).png
+Ta 152 H-1 (Fighter).png
+Tier 5
+Arado 234B-2 (Bomber).png
+Arado 234C-3 (Bomber).png
+CL-13A Sabre Mk.5 (Fighter).png
+Ho 229 V3 (Fighter).png
+Me 163B (Fighter).png
+Me 262 A-1a Schwalbe (Fighter).png
+Me 262 A-1U4 Pulkzerstorer (Fighter).png
+Me 262 C-1a Heimatschutzer I (Fighter).png
+Me 262 C-2b Heimatschutzer II (Fighter).png
+MiG-15bis GDR (Fighter).png
+He 162 A-2 (Fighter).png
+USSR
+Tier 1
+BB-1 (Bomber).png
+I-15R (Fighter).png
+I-16 type 5 Ishak (Fighter).png
+I-16 type 10 Ishak (Fighter).png
+I-16 Type 18 Ishak (Fighter).png
+I-16 type 24 Ishak (Fighter).png
+I-301 (Prem) (Fighter).png
+LaGG-3-4 (Fighter).png
+LaGG-3-8 (Fighter).png
+LaGG-3-11 (Fighter).jpg
+LaGG-3-23 (Prem) (Fighter).png
+Po-2 (Bomber).png
+SB 2M-100 (Bomber).png
+SB 2M-103 (Bomber).png
+SB 2M-103U MV-3 (Bomber).png
+SB 2M-105 (Bomber).png
+SB 2M-103 MV-3 (Bomber).png
+SB 2M-103U (Bomber).png
+Su-2 M-82 (Bomber).png
+Su-2 MV-5 (Bomber).jpg
+Su-2 TSS-1 (Bomber).jpg
+TB-3M-17-32 (Bomber).png
+Yak-1 (Fighter).png
+Zhukovsky's I-153-M62 (Fighter).png
+Tier 2
+Ar-2 (Bomber).png
+I-153P Chaika (Prem) (Fighter).png
+I-16 type 27 Ishak (Fighter).png
+I-16 type 28 Ishak (Prem) (Fighter).png
+IL-2 (1941) (Attacker).png
+IL-2 (1942) (Attacker).png
+IL-4 (Bomber).png
+La-5 (Fighter).png
+Hurricane Mk IIB (Prem) (Fighter).png
+LaGG-3-34 (Prem) (Fighter).png
+LaGG-3-35 (Fighter).jpg
+LaGG-3-66 (Fighter).jpg
+MiG-3-15 (Fighter).png
+MiG-3-15 BK (Fighter).png
+MiG-3-34 (Fighter).png
+P-39K-1 Airacobra (Prem) (Fighter).png
+P-40E-1 Kittyhawk (Prem) (Fighter).png
+Pe-3 Early (Attacker).png
+Yak-1B (Fighter).png
+Yak-7B (Fighter).png
+Yak-9 (Fighter).png
+Tier 3
+B-25J-30 Mitchell (Prem) (Bomber).png
+Golovachev's Yak-9M (Prem) (Fighter).png
+I-185 (M-82) (Fighter).png
+IL-2-37 (Attacker).png
+IL-2M (1943) (Attacker).png
+IL-2M type 3 (Attacker).png
+IL-2M 'Avenger' (Prem) (Attacker).png
+La-5F (Fighter).jpg
+La-5FN (Fighter).png
+P-47D-27 Thunderbolt (Prem) (Fighter).png
+P-63A-5 Kingcobra (Prem) (Fighter).jpg
+Pe-2-1 Peshka (Bomber).png
+Pe-2-31 Peshka (Bomber).png
+Pe-2-83 Peshka (Bomber).jpg
+Pe-2-205 Peshka (Prem) (Bomber).jpg
+Pe-3 (Attacker).jpg
+Pe-3bis (Attacker).png
+Pokryshkin's P-39N-0 Airacobra (Prem) (Fighter).png
+P-39Q-15 Airacobra (Prem) (Fighter).png
+Tu-2 (Bomber).png
+Yak-9T (Fighter).png
+Yak-9K (Fighter).png
+Yak-3 (Fighter).png
+Yak-3P (Fighter).png
+Yer-2 M-105 (Bomber).png
+Yer-2 M-105R LU-MV-2B (Bomber).jpg
+Yer-2 ACh-30B Early (Bomber).png
+Yer-2 ACh-30B Late (Bomber).png
+Tier 4
+Dolgushin's La-7 (Prem) (Fighter).png
+I-185 (M-71) (Fighter).png
+IL-10 (Attacker).png
+IL-10 (1946) (Attacker).png
+La-7 (Fighter).png
+La-7B-20 (Fighter).jpg
+La-9 (Fighter).png
+P-63A-10 Kingcobra (Prem) (Fighter).png
+Pe-2-110 Peshka (Bomber).png
+Pe-2-359 Peshka (Bomber).png
+Spitfire Mk.IX USSR (Prem) (Fighter).png
+Tu-2S (Bomber).png
+Tu-2S-44 (Bomber).png
+Tu-2S-59 (Bomber).png
+Yak-9U (Fighter).png
+Yak-9P (Fighter).png
+Yak-9UT (Fighter).png
+Yak-3 (VK-107) (Prem) (Fighter).png
+Fw 190D-9 (Prem) (Fighter).png
+Tier 5
+IL-28 (Bomber).jpg
+La-15 (Fighter).png
+La-174 (Fighter).png
+MiG-9 (Fighter).png
+MiG-9 Late (Fighter).png
+MiG-15 (Fighter).png
+MiG-15bis (Fighter).png
+Yak-15 (Fighter).png
+Yak-15P (Fighter).png
+Yak-17 (Fighter).png
+Britain
+Tier 1
+Beaufort Mk VIII (Bomber).png
+Blenheim Mk IV (Bomber).png
+Boston Mk I (Prem) (Bomber).png
+Catalina Mk. IVa (Prem) (Bomber).png
+Fury Mk I (Fighter).png
+Fury Mk II (Fighter).png
+Gladiator Mk II (Fighter).png
+Gladiator Mk IIF (Prem) (Fighter).png
+Gladiator Mk IIS (Prem) (Fighter).png
+Hurricane Mk I Late (Fighter).png
+Nimrod Mk I (Fighter).png
+Nimrod Mk II (Fighter).png
+Swordfish Mk I (Bomber).png
+Sea Gladiator Mk.I (Fighter).png
+Tuck's Gladiator Mk.II (Fighter).png
+Wirraway (Prem) (Bomber).png
+Tier 2
+Avenger Mk.1 (Prem) (Bomber).png
+Beaufighter Mk VIc (Attacker).png
+Boomerang Mk I (Prem) (Fighter).png
+Boomerang Mk II (Prem) (Fighter).png
+D.520 (Prem) (Fighter).png
+D.521 (Prem) (Fighter).png
+DB-7 (Prem) (Bomber).png
+Hurricane Mk IIB (Fighter).png
+Sea Hurricane Mk.IB (Fighter).png
+Sea Hurricane Mk.IС (Fighter).png
+Hurricane Mk IV (Fighter).png
+Spitfire Mk. Ia (Fighter).png
+Spitfire Mk IIa (Fighter).png
+Spitfire Mk IIb (Fighter).png
+Typhoon Mk.1a (Fighter).png
+Wellington Mk Ic (Bomber).png
+Wellington Mk Ic Late (Bomber).png
+Tier 3
+Beaufighter Mk X (Attacker).png
+Beaufighter Mk 21 (Attacker).png
+Firebrand TF Mk IV (Fighter).png
+Firefly F Mk.I (Fighter).png
+Firefly FR Mk V (Fighter).png
+Hellcat Mk.I (Prem) (Fighter).png
+Mustang Mk IA (Prem) (Fighter).png
+Spitfire Mk Vb trop (Fighter).png
+Spitfire Mk Vc (Fighter).png
+Spitfire F. Mk IX (Fighter).png
+Typhoon Mk 1b (Prem) (Fighter).png
+Typhoon Mk 1b Late (Fighter).png
+Wellington Mk.III (Bomber).png
+Tier 4
+Lancaster B Mk I (Bomber).png
+Lancaster B Mk III (Bomber).png
+Mosquito FB Mk VI (Attacker).png
+Mosquito FB Mk XVIII (Attacker).png
+Prendergast's Spitfire FR Mk.XIVe (Prem) (Fighter).png
+Plagis' Spitfire LF. Mk IX (Prem) (Fighter).png
+Sea Fury FB 11 (Fighter).png
+Seafire FR 47 (Fighter).png
+Seafire Mk XVII (Fighter).png
+Spitfire F Mk.22 (Fighter).png
+Spitfire F Mk.24 (Fighter).png
+Spitfire F Mk.XIVc (Fighter).png
+Spitfire F Mk.XIVe (Fighter).png
+Spitfire F Mk.XVIIIe (Fighter).png
+Spitfire F. Mk XVI (Fighter).png
+Spitfire LF. Mk IX (Fighter).png
+Tempest Mk II (Fighter).png
+Tempest Mk V (Fighter).png
+Tempest Mk.V Vickers P (Attacker).png
+Wellington Mk X (Bomber).png
+Tier 5
+Attacker FB 1 (Fighter).png
+Canberra B (I) Mk. 6 (Bomber).png
+Canberra B Mk.2 (Bomber).png
+Meteor F. Mk.3 (Fighter).png
+Meteor F. Mk.4 type G.41F (Fighter).png
+Meteor F. Mk.4 type G.41G (Fighter).png
+Meteor F. Mk.8 (Fighter).png
+Sea Meteor F. Mk.3 (Fighter).png
+Vampire FB.5 (Fighter).png
+Venom FB.4 (Fighter).png
+Japan
+Tier 1
+A5M4 (Fighter).png
+A7He1 (Prem) (Fighter).png
+D3A1 (Bomber).png
+H6K4 (Bomber).png
+Hagiri's A5M4 (Prem) (Fighter).png
+Ki-10-I (Fighter).png
+Ki-10-II (Fighter).png
+Ki-10-II C (Fighter).png
+Ki-21-Ia (Bomber).png
+Ki-27 otsu (Fighter).png
+Ki-45 ko Toryu (Attacker).png
+Tier 2
+A6M2 mod. 11 (Fighter).png
+A6M2 Reisen (Fighter).png
+A6M2-N (Fighter).png
+B5N2 (Bomber).png
+G4M1 (Bomber).png
+J2M2 Raiden (Fighter).png
+Ki-43-I Hayabusa (Fighter).png
+Ki-43-II Hayabusa (Fighter).png
+Ki-44-I (Fighter).png
+Ki-45 hei Toryu (Attacker).png
+Ki-45 otsu Toryu (Attacker).png
+Ki-45 tei Toryu (Attacker).png
+Ki-49-I Donryu (Bomber).png
+Ki-49-IIa Donryu (Bomber).png
+Ki-61-I ko Hien (Fighter).png
+Ki-61-I otsu Hien (Fighter).png
+Tier 3
+B7A2 Ryusei (Bomber).png
+A6M3 Reisen (Fighter).png
+A6M3 Reisen mod. 22 (Fighter).png
+A6M3 Reisen mod. 22Ko (Fighter).png
+A6M5 otsu (Fighter).png
+A6M5 Reisen (Fighter).png
+Fw 190 A-5 (Prem) (Fighter).png
+Ki- 102 otsu (Attacker).jpg
+Ki-43-III otsu Hayabusa (Fighter).png
+Ki-49-IIb Donryu (Bomber).png
+Ki-49-IIb Donryu Late (Bomber).png
+Ki-61-I hei Hien (Fighter).png
+Ki-96 (Prem) (Attacker).jpg
+Tier 4
+A6M5 Ko Reisen (Prem) (Fighter).png
+B-17E Flying Fortress (Prem) (Bomber).png
+G5N1 Shinzan (Bomber).png
+G8N1 Renzan (Bomber).png
+J2M3 Raiden (Fighter).png
+J2M4 Kai Raiden (Prem) (Fighter).png
+J2M5 Raiden (Fighter).png
+J2M5 Raiden (Prem) (Fighter).png
+J7W1 Shinden (Fighter).png
+Ki-84 hei Hayate (Fighter).png
+Ki-84 ko Hayate (Fighter).png
+Ki-84 otsu Hayate (Fighter).png
+N1K2-J Shiden-Kai (Fighter).png
+N1K2-Ja Shiden-Kai (Fighter).jpg
+Tier 5
+Kikka (Fighter).png
+R2Y2 Keiun-KAI V1 (Bomber).png
+R2Y2 Keiun-KAI V2 (Bomber).png
+R2Y2 Keiun-KAI V3 (Bomber).png
+F-86F-30 Sabre (Fighter).png
+Ki-200 Shusui (Fighter).png
