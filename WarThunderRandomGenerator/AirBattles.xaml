@@ -5,11 +5,15 @@
         xmlns:mc="http://schemas.openxmlformats.org/markup-compatibility/2006"
         xmlns:local="clr-namespace:WarThunderRandomGenerator"
         mc:Ignorable="d"
-        Title="AirBattles" Height="300" Width="300">
+        Title="AirBattles" Height="374" Width="821">
     <Grid>
-        <Image x:Name="TestImage" HorizontalAlignment="Left" Height="124" Margin="70,22,0,0" VerticalAlignment="Top" Width="152"/>
-        <Label x:Name="TestLabel" HorizontalAlignment="Left" Margin="39,191,0,0" VerticalAlignment="Top" Width="230" Height="40"/>
-        <Button x:Name="Exit" Content="Exit" HorizontalAlignment="Left" Margin="194,166,0,0" VerticalAlignment="Top" Width="75" Click="Exit_Click"/>
+        <Grid.Background>
+            <ImageBrush ImageSource="Images/ResourcePics/BG.png"/>
+        </Grid.Background>
+        <Button x:Name="Exit" Content="Exit" HorizontalAlignment="Right" Margin="0,0,10,10" VerticalAlignment="Bottom" Width="75" Click="Exit_Click"/>
+        <Image x:Name="VehicleImage" HorizontalAlignment="Left" Height="200" Margin="35,20,0,0" VerticalAlignment="Top" Width="312"/>
+        <Button Template="{DynamicResource TButtonStyle}" x:Name="GenerateVehicle" Content="Generate" HorizontalAlignment="Right" Margin="0,0,138,51" VerticalAlignment="Bottom" Width="112" Background="#FF242F33" FontSize="16" FontFamily="Verdana" Foreground="#FFD5D7D8" Click="GenerateVehicle_Click"/>
+        <Label x:Name="VehicleNameLabel" Content="" HorizontalAlignment="Left" Margin="35,277,0,0" VerticalAlignment="Top" Width="312" Foreground="#FFBFCD36" FontWeight="Bold" FontSize="18.667"/>
 
     </Grid>
 </Window>

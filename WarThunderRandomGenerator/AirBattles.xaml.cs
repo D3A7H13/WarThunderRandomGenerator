@@ -20,13 +20,21 @@ namespace WarThunderRandomGenerator
         private void AirBattlesLoaded(object sender, RoutedEventArgs e)
         {
             CreatingWindow.Close();
-            string vehicles = File.ReadAllText("VehicleList.json");
+            string vehicles = File.ReadAllText("Resources/VehicleList.json");
             VehicleList = JsonConvert.DeserializeObject<List<Vehicles>>(vehicles);
         }
 
         private void Exit_Click(object sender, RoutedEventArgs e)
         {
             Application.Current.Shutdown();
+        }
+
+        private void GenerateVehicle_Click(object sender, RoutedEventArgs e)
+        {
+            Random rng = new Random();
+            int randomVehicle = rng.Next(0, VehicleList.Count);
+            VehicleImage.Source = new BitmapImage(VehicleList[randomVehicle].ImagePath);
+            VehicleNameLabel.Content = VehicleList[randomVehicle].ToString();
         }
     }
 }

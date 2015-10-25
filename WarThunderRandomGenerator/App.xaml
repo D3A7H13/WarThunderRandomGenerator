@@ -4,6 +4,10 @@
              xmlns:local="clr-namespace:WarThunderRandomGenerator"
              StartupUri="MainMenu.xaml">
     <Application.Resources>
-         
+        <ResourceDictionary>
+            <ResourceDictionary.MergedDictionaries>
+                <ResourceDictionary Source="ResourceDictionary.xaml"/>
+            </ResourceDictionary.MergedDictionaries>
+        </ResourceDictionary>
     </Application.Resources>
 </Application>

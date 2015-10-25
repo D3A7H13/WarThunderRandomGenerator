@@ -59,5 +59,15 @@ namespace WarThunderRandomGenerator.Properties {
                 resourceCulture = value;
             }
         }
+        
+        /// <summary>
+        ///   Looks up a localized resource of type System.Byte[].
+        /// </summary>
+        internal static byte[] VehicleList {
+            get {
+                object obj = ResourceManager.GetObject("VehicleList", resourceCulture);
+                return ((byte[])(obj));
+            }
+        }
     }
 }
