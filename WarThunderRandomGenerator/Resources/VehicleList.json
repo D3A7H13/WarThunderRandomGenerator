@@ -5,7 +5,7 @@
     "Premium": false,
     "PremiumLabel": "",
     "ImagePath": "pack://application:,,,/Images/Aircraft/F2A-1 Buffalo (Fighter).png",
-    "PlaneName": "F2A-1 Buffalo",
+    "VehicleName": "F2A-1 Buffalo",
     "VehicleType": "Aircraft",
     "VehicleClass": "Fighter"
   },
@@ -15,7 +15,7 @@
     "Premium": false,
     "PremiumLabel": "",
     "ImagePath": "pack://application:,,,/Images/Aircraft/F2A-3 Buffalo (Fighter).png",
-    "PlaneName": "F2A-3 Buffalo",
+    "VehicleName": "F2A-3 Buffalo",
     "VehicleType": "Aircraft",
     "VehicleClass": "Fighter"
   },
@@ -25,7 +25,7 @@
     "Premium": false,
     "PremiumLabel": "",
     "ImagePath": "pack://application:,,,/Images/Aircraft/OS2U-1 Kingfisher (Bomber).png",
-    "PlaneName": "OS2U-1 Kingfisher",
+    "VehicleName": "OS2U-1 Kingfisher",
     "VehicleType": "Aircraft",
     "VehicleClass": "Bomber"
   },
@@ -35,7 +35,7 @@
     "Premium": false,
     "PremiumLabel": "",
     "ImagePath": "pack://application:,,,/Images/Aircraft/OS2U-3 Kingfisher (Bomber).png",
-    "PlaneName": "OS2U-3 Kingfisher",
+    "VehicleName": "OS2U-3 Kingfisher",
     "VehicleType": "Aircraft",
     "VehicleClass": "Bomber"
   },
@@ -45,7 +45,7 @@
     "Premium": false,
     "PremiumLabel": "",
     "ImagePath": "pack://application:,,,/Images/Aircraft/P-26A-33 Peashooter (Fighter).png",
-    "PlaneName": "P-26A-33 Peashooter",
+    "VehicleName": "P-26A-33 Peashooter",
     "VehicleType": "Aircraft",
     "VehicleClass": "Fighter"
   },
@@ -55,7 +55,7 @@
     "Premium": false,
     "PremiumLabel": "",
     "ImagePath": "pack://application:,,,/Images/Aircraft/P-26A-34 M2 Peashooter (Fighter).png",
-    "PlaneName": "P-26A-34 M2 Peashooter",
+    "VehicleName": "P-26A-34 M2 Peashooter",
     "VehicleType": "Aircraft",
     "VehicleClass": "Fighter"
   },
@@ -65,7 +65,7 @@
     "Premium": false,
     "PremiumLabel": "",
     "ImagePath": "pack://application:,,,/Images/Aircraft/P-26A-34 Peashooter (Fighter).png",
-    "PlaneName": "P-26A-34 Peashooter",
+    "VehicleName": "P-26A-34 Peashooter",
     "VehicleType": "Aircraft",
     "VehicleClass": "Fighter"
   },
@@ -75,7 +75,7 @@
     "Premium": false,
     "PremiumLabel": "",
     "ImagePath": "pack://application:,,,/Images/Aircraft/P-26B-35 Peashooter (Fighter).png",
-    "PlaneName": "P-26B-35 Peashooter",
+    "VehicleName": "P-26B-35 Peashooter",
     "VehicleType": "Aircraft",
     "VehicleClass": "Fighter"
   },
@@ -85,7 +85,7 @@
     "Premium": false,
     "PremiumLabel": "",
     "ImagePath": "pack://application:,,,/Images/Aircraft/P-36A Hawk (Fighter).png",
-    "PlaneName": "P-36A Hawk",
+    "VehicleName": "P-36A Hawk",
     "VehicleType": "Aircraft",
     "VehicleClass": "Fighter"
   },
@@ -95,7 +95,7 @@
     "Premium": false,
     "PremiumLabel": "",
     "ImagePath": "pack://application:,,,/Images/Aircraft/P-36C Hawk (Fighter).png",
-    "PlaneName": "P-36C Hawk",
+    "VehicleName": "P-36C Hawk",
     "VehicleType": "Aircraft",
     "VehicleClass": "Fighter"
   },
@@ -105,7 +105,7 @@
     "Premium": false,
     "PremiumLabel": "",
     "ImagePath": "pack://application:,,,/Images/Aircraft/P-36G Hawk (Fighter).png",
-    "PlaneName": "P-36G Hawk",
+    "VehicleName": "P-36G Hawk",
     "VehicleType": "Aircraft",
     "VehicleClass": "Fighter"
   },
@@ -115,7 +115,7 @@
     "Premium": false,
     "PremiumLabel": "",
     "ImagePath": "pack://application:,,,/Images/Aircraft/PBY-5 Catalina (Bomber).png",
-    "PlaneName": "PBY-5 Catalina",
+    "VehicleName": "PBY-5 Catalina",
     "VehicleType": "Aircraft",
     "VehicleClass": "Bomber"
   },
@@ -125,7 +125,7 @@
     "Premium": false,
     "PremiumLabel": "",
     "ImagePath": "pack://application:,,,/Images/Aircraft/PBY-5a Catalina (Bomber).png",
-    "PlaneName": "PBY-5a Catalina",
+    "VehicleName": "PBY-5a Catalina",
     "VehicleType": "Aircraft",
     "VehicleClass": "Bomber"
   },
@@ -135,7 +135,7 @@
     "Premium": true,
     "PremiumLabel": "Premium",
     "ImagePath": "pack://application:,,,/Images/Aircraft/Rasmussen's P-36A Hawk (Prem) (Fighter).png",
-    "PlaneName": "Rasmussen's P-36A Hawk",
+    "VehicleName": "Rasmussen's P-36A Hawk",
     "VehicleType": "Aircraft",
     "VehicleClass": "Fighter"
   },
@@ -145,7 +145,7 @@
     "Premium": false,
     "PremiumLabel": "",
     "ImagePath": "pack://application:,,,/Images/Aircraft/SBD-3 Dauntless (Bomber).png",
-    "PlaneName": "SBD-3 Dauntless",
+    "VehicleName": "SBD-3 Dauntless",
     "VehicleType": "Aircraft",
     "VehicleClass": "Bomber"
   },
@@ -155,7 +155,7 @@
     "Premium": false,
     "PremiumLabel": "",
     "ImagePath": "pack://application:,,,/Images/Aircraft/A-20G-25 Havoc (Attacker).jpg",
-    "PlaneName": "A-20G-25 Havoc",
+    "VehicleName": "A-20G-25 Havoc",
     "VehicleType": "Aircraft",
     "VehicleClass": "Attacker"
   },
@@ -165,7 +165,7 @@
     "Premium": false,
     "PremiumLabel": "",
     "ImagePath": "pack://application:,,,/Images/Aircraft/A-36 Apache (Attacker).png",
-    "PlaneName": "A-36 Apache",
+    "VehicleName": "A-36 Apache",
     "VehicleType": "Aircraft",
     "VehicleClass": "Attacker"
   },
@@ -175,7 +175,7 @@
     "Premium": true,
     "PremiumLabel": "Premium",
     "ImagePath": "pack://application:,,,/Images/Aircraft/A6M2 Reisen (Prem) (Fighter).png",
-    "PlaneName": "A6M2 Reisen",
+    "VehicleName": "A6M2 Reisen",
     "VehicleType": "Aircraft",
     "VehicleClass": "Fighter"
   },
@@ -185,7 +185,7 @@
     "Premium": false,
     "PremiumLabel": "",
     "ImagePath": "pack://application:,,,/Images/Aircraft/B-25J-1 Mitchell (Bomber).png",
-    "PlaneName": "B-25J-1 Mitchell",
+    "VehicleName": "B-25J-1 Mitchell",
     "VehicleType": "Aircraft",
     "VehicleClass": "Bomber"
   },
@@ -195,7 +195,7 @@
     "Premium": false,
     "PremiumLabel": "",
     "ImagePath": "pack://application:,,,/Images/Aircraft/F4F-3 Wildcat (Fighter).png",
-    "PlaneName": "F4F-3 Wildcat",
+    "VehicleName": "F4F-3 Wildcat",
     "VehicleType": "Aircraft",
     "VehicleClass": "Fighter"
   },
@@ -205,7 +205,7 @@
     "Premium": false,
     "PremiumLabel": "",
     "ImagePath": "pack://application:,,,/Images/Aircraft/F4U-1a Corsair (Fighter).png",
-    "PlaneName": "F4U-1a Corsair",
+    "VehicleName": "F4U-1a Corsair",
     "VehicleType": "Aircraft",
     "VehicleClass": "Fighter"
   },
@@ -215,7 +215,7 @@
     "Premium": false,
     "PremiumLabel": "",
     "ImagePath": "pack://application:,,,/Images/Aircraft/F4U-1a USMC Corsair (Fighter).png",
-    "PlaneName": "F4U-1a USMC Corsair",
+    "VehicleName": "F4U-1a USMC Corsair",
     "VehicleType": "Aircraft",
     "VehicleClass": "Fighter"
   },
@@ -225,7 +225,7 @@
     "Premium": false,
     "PremiumLabel": "",
     "ImagePath": "pack://application:,,,/Images/Aircraft/F6F-3 Hellcat (Fighter).png",
-    "PlaneName": "F6F-3 Hellcat",
+    "VehicleName": "F6F-3 Hellcat",
     "VehicleType": "Aircraft",
     "VehicleClass": "Fighter"
   },
@@ -235,7 +235,7 @@
     "Premium": true,
     "PremiumLabel": "Premium",
     "ImagePath": "pack://application:,,,/Images/Aircraft/Ki-61-Ib Hien (Prem) (Fighter).png",
-    "PlaneName": "Ki-61-Ib Hien",
+    "VehicleName": "Ki-61-Ib Hien",
     "VehicleType": "Aircraft",
     "VehicleClass": "Fighter"
   },
@@ -245,7 +245,7 @@
     "Premium": false,
     "PremiumLabel": "",
     "ImagePath": "pack://application:,,,/Images/Aircraft/P-38G-1 Lightning (Attacker).png",
-    "PlaneName": "P-38G-1 Lightning",
+    "VehicleName": "P-38G-1 Lightning",
     "VehicleType": "Aircraft",
     "VehicleClass": "Attacker"
   },
@@ -255,7 +255,7 @@
     "Premium": false,
     "PremiumLabel": "",
     "ImagePath": "pack://application:,,,/Images/Aircraft/P-40E-1 Kittyhawk (Fighter).jpg",
-    "PlaneName": "P-40E-1 Kittyhawk",
+    "VehicleName": "P-40E-1 Kittyhawk",
     "VehicleType": "Aircraft",
     "VehicleClass": "Fighter"
   },
@@ -265,7 +265,7 @@
     "Premium": false,
     "PremiumLabel": "",
     "ImagePath": "pack://application:,,,/Images/Aircraft/P-400 (Fighter).png",
-    "PlaneName": "P-400",
+    "VehicleName": "P-400",
     "VehicleType": "Aircraft",
     "VehicleClass": "Fighter"
   },
@@ -275,7 +275,7 @@
     "Premium": false,
     "PremiumLabel": "",
     "ImagePath": "pack://application:,,,/Images/Aircraft/P-39N-0 Airacobra (Fighter).png",
-    "PlaneName": "P-39N-0 Airacobra",
+    "VehicleName": "P-39N-0 Airacobra",
     "VehicleType": "Aircraft",
     "VehicleClass": "Fighter"
   },
@@ -285,7 +285,7 @@
     "Premium": false,
     "PremiumLabel": "",
     "ImagePath": "pack://application:,,,/Images/Aircraft/P-39Q-5 Airacobra (Fighter).jpg",
-    "PlaneName": "P-39Q-5 Airacobra",
+    "VehicleName": "P-39Q-5 Airacobra",
     "VehicleType": "Aircraft",
     "VehicleClass": "Fighter"
   },
@@ -295,7 +295,7 @@
     "Premium": false,
     "PremiumLabel": "",
     "ImagePath": "pack://application:,,,/Images/Aircraft/SB2C-1c (Bomber).png",
-    "PlaneName": "SB2C-1c",
+    "VehicleName": "SB2C-1c",
     "VehicleType": "Aircraft",
     "VehicleClass": "Bomber"
   },
@@ -305,7 +305,7 @@
     "Premium": false,
     "PremiumLabel": "",
     "ImagePath": "pack://application:,,,/Images/Aircraft/TBF-1c Avenger (Bomber).png",
-    "PlaneName": "TBF-1c Avenger",
+    "VehicleName": "TBF-1c Avenger",
     "VehicleType": "Aircraft",
     "VehicleClass": "Bomber"
   },
@@ -315,7 +315,7 @@
     "Premium": false,
     "PremiumLabel": "",
     "ImagePath": "pack://application:,,,/Images/Aircraft/B-17E Flying Fortress (Bomber).png",
-    "PlaneName": "B-17E Flying Fortress",
+    "VehicleName": "B-17E Flying Fortress",
     "VehicleType": "Aircraft",
     "VehicleClass": "Bomber"
   },
@@ -325,7 +325,7 @@
     "Premium": false,
     "PremiumLabel": "",
     "ImagePath": "pack://application:,,,/Images/Aircraft/B-17E Flying Fortress Late (Bomber).png",
-    "PlaneName": "B-17E Flying Fortress Late",
+    "VehicleName": "B-17E Flying Fortress Late",
     "VehicleType": "Aircraft",
     "VehicleClass": "Bomber"
   },
@@ -335,7 +335,7 @@
     "Premium": false,
     "PremiumLabel": "",
     "ImagePath": "pack://application:,,,/Images/Aircraft/B-25J-20 Mitchell (Bomber).png",
-    "PlaneName": "B-25J-20 Mitchell",
+    "VehicleName": "B-25J-20 Mitchell",
     "VehicleType": "Aircraft",
     "VehicleClass": "Bomber"
   },
@@ -345,7 +345,7 @@
     "Premium": true,
     "PremiumLabel": "Premium",
     "ImagePath": "pack://application:,,,/Images/Aircraft/Bf 109 F-4 (Prem) (Fighter).png",
-    "PlaneName": "Bf 109 F-4",
+    "VehicleName": "Bf 109 F-4",
     "VehicleType": "Aircraft",
     "VehicleClass": "Fighter"
   },
@@ -355,7 +355,7 @@
     "Premium": false,
     "PremiumLabel": "",
     "ImagePath": "pack://application:,,,/Images/Aircraft/P-47D-25 Thunderbolt (Fighter).png",
-    "PlaneName": "P-47D-25 Thunderbolt",
+    "VehicleName": "P-47D-25 Thunderbolt",
     "VehicleType": "Aircraft",
     "VehicleClass": "Fighter"
   },
@@ -365,7 +365,7 @@
     "Premium": false,
     "PremiumLabel": "",
     "ImagePath": "pack://application:,,,/Images/Aircraft/P-47D-28 Thunderbolt (Fighter).png",
-    "PlaneName": "P-47D-28 Thunderbolt",
+    "VehicleName": "P-47D-28 Thunderbolt",
     "VehicleType": "Aircraft",
     "VehicleClass": "Fighter"
   },
@@ -375,7 +375,7 @@
     "Premium": false,
     "PremiumLabel": "",
     "ImagePath": "pack://application:,,,/Images/Aircraft/P-51 Mustang (Fighter).png",
-    "PlaneName": "P-51 Mustang",
+    "VehicleName": "P-51 Mustang",
     "VehicleType": "Aircraft",
     "VehicleClass": "Fighter"
   },
@@ -385,7 +385,7 @@
     "Premium": false,
     "PremiumLabel": "",
     "ImagePath": "pack://application:,,,/Images/Aircraft/P-63A-5 Kingcobra (Fighter).jpg",
-    "PlaneName": "P-63A-5 Kingcobra",
+    "VehicleName": "P-63A-5 Kingcobra",
     "VehicleType": "Aircraft",
     "VehicleClass": "Fighter"
   },
@@ -395,7 +395,7 @@
     "Premium": false,
     "PremiumLabel": "",
     "ImagePath": "pack://application:,,,/Images/Aircraft/P-63A-10 Kingcobra (Fighter).png",
-    "PlaneName": "P-63A-10 Kingcobra",
+    "VehicleName": "P-63A-10 Kingcobra",
     "VehicleType": "Aircraft",
     "VehicleClass": "Fighter"
   },
@@ -405,7 +405,7 @@
     "Premium": false,
     "PremiumLabel": "",
     "ImagePath": "pack://application:,,,/Images/Aircraft/P-63C-5 Kingcobra (Fighter).png",
-    "PlaneName": "P-63C-5 Kingcobra",
+    "VehicleName": "P-63C-5 Kingcobra",
     "VehicleType": "Aircraft",
     "VehicleClass": "Fighter"
   },
@@ -415,7 +415,7 @@
     "Premium": false,
     "PremiumLabel": "",
     "ImagePath": "pack://application:,,,/Images/Aircraft/F4U-1c Corsair (Fighter).png",
-    "PlaneName": "F4U-1c Corsair",
+    "VehicleName": "F4U-1c Corsair",
     "VehicleType": "Aircraft",
     "VehicleClass": "Fighter"
   },
@@ -425,7 +425,7 @@
     "Premium": false,
     "PremiumLabel": "",
     "ImagePath": "pack://application:,,,/Images/Aircraft/F4U-1d Corsair (Fighter).png",
-    "PlaneName": "F4U-1d Corsair",
+    "VehicleName": "F4U-1d Corsair",
     "VehicleType": "Aircraft",
     "VehicleClass": "Fighter"
   },
@@ -435,7 +435,7 @@
     "Premium": false,
     "PremiumLabel": "",
     "ImagePath": "pack://application:,,,/Images/Aircraft/PBJ-1H Mitchell (Attacker).png",
-    "PlaneName": "PBJ-1H Mitchell",
+    "VehicleName": "PBJ-1H Mitchell",
     "VehicleType": "Aircraft",
     "VehicleClass": "Attacker"
   },
@@ -445,7 +445,7 @@
     "Premium": false,
     "PremiumLabel": "",
     "ImagePath": "pack://application:,,,/Images/Aircraft/PBJ-1J Mitchell (Attacker).png",
-    "PlaneName": "PBJ-1J Mitchell",
+    "VehicleName": "PBJ-1J Mitchell",
     "VehicleType": "Aircraft",
     "VehicleClass": "Attacker"
   },
@@ -455,7 +455,7 @@
     "Premium": true,
     "PremiumLabel": "Premium",
     "ImagePath": "pack://application:,,,/Images/Aircraft/XF5F Skyrocket (Prem) (Fighter).png",
-    "PlaneName": "XF5F Skyrocket",
+    "VehicleName": "XF5F Skyrocket",
     "VehicleType": "Aircraft",
     "VehicleClass": "Fighter"
   },
@@ -465,7 +465,7 @@
     "Premium": true,
     "PremiumLabel": "Premium",
     "ImagePath": "pack://application:,,,/Images/Aircraft/A-26C-45 Invader (Prem) (Bomber).png",
-    "PlaneName": "A-26C-45 Invader",
+    "VehicleName": "A-26C-45 Invader",
     "VehicleType": "Aircraft",
     "VehicleClass": "Bomber"
   },
@@ -475,7 +475,7 @@
     "Premium": true,
     "PremiumLabel": "Premium",
     "ImagePath": "pack://application:,,,/Images/Aircraft/A-26C-45DT (Prem) (Bomber).png",
-    "PlaneName": "A-26C-45DT",
+    "VehicleName": "A-26C-45DT",
     "VehicleType": "Aircraft",
     "VehicleClass": "Bomber"
   },
@@ -485,7 +485,7 @@
     "Premium": false,
     "PremiumLabel": "",
     "ImagePath": "pack://application:,,,/Images/Aircraft/AD-2 Skyraider (Attacker).png",
-    "PlaneName": "AD-2 Skyraider",
+    "VehicleName": "AD-2 Skyraider",
     "VehicleType": "Aircraft",
     "VehicleClass": "Attacker"
   },
@@ -495,7 +495,7 @@
     "Premium": false,
     "PremiumLabel": "",
     "ImagePath": "pack://application:,,,/Images/Aircraft/B-17G Flying Fortress (Bomber).png",
-    "PlaneName": "B-17G Flying Fortress",
+    "VehicleName": "B-17G Flying Fortress",
     "VehicleType": "Aircraft",
     "VehicleClass": "Bomber"
   },
@@ -505,7 +505,7 @@
     "Premium": false,
     "PremiumLabel": "",
     "ImagePath": "pack://application:,,,/Images/Aircraft/B-24D Liberator (Bomber).png",
-    "PlaneName": "B-24D Liberator",
+    "VehicleName": "B-24D Liberator",
     "VehicleType": "Aircraft",
     "VehicleClass": "Bomber"
   },
@@ -515,7 +515,7 @@
     "Premium": false,
     "PremiumLabel": "",
     "ImagePath": "pack://application:,,,/Images/Aircraft/B-29 Superfortress (Bomber).png",
-    "PlaneName": "B-29 Superfortress",
+    "VehicleName": "B-29 Superfortress",
     "VehicleType": "Aircraft",
     "VehicleClass": "Bomber"
   },
@@ -525,7 +525,7 @@
     "Premium": true,
     "PremiumLabel": "Premium",
     "ImagePath": "pack://application:,,,/Images/Aircraft/Bostwick's P-47M-1-RE Thunderbolt (Prem) (Fighter).png",
-    "PlaneName": "Bostwick's P-47M-1-RE Thunderbolt",
+    "VehicleName": "Bostwick's P-47M-1-RE Thunderbolt",
     "VehicleType": "Aircraft",
     "VehicleClass": "Fighter"
   },
@@ -535,7 +535,7 @@
     "Premium": false,
     "PremiumLabel": "",
     "ImagePath": "pack://application:,,,/Images/Aircraft/F-82E Twin Mustang (Fighter).png",
-    "PlaneName": "F-82E Twin Mustang",
+    "VehicleName": "F-82E Twin Mustang",
     "VehicleType": "Aircraft",
     "VehicleClass": "Fighter"
   },
@@ -545,7 +545,7 @@
     "Premium": false,
     "PremiumLabel": "",
     "ImagePath": "pack://application:,,,/Images/Aircraft/F7F-1 Tigercat (Fighter).png",
-    "PlaneName": "F7F-1 Tigercat",
+    "VehicleName": "F7F-1 Tigercat",
     "VehicleType": "Aircraft",
     "VehicleClass": "Fighter"
   },
@@ -555,7 +555,7 @@
     "Premium": false,
     "PremiumLabel": "",
     "ImagePath": "pack://application:,,,/Images/Aircraft/F8F-1 Bearcat (Fighter).png",
-    "PlaneName": "F8F-1 Bearcat",
+    "VehicleName": "F8F-1 Bearcat",
     "VehicleType": "Aircraft",
     "VehicleClass": "Fighter"
   },
@@ -565,7 +565,7 @@
     "Premium": false,
     "PremiumLabel": "",
     "ImagePath": "pack://application:,,,/Images/Aircraft/F8F-1B Bearcat (Fighter).png",
-    "PlaneName": "F8F-1B Bearcat",
+    "VehicleName": "F8F-1B Bearcat",
     "VehicleType": "Aircraft",
     "VehicleClass": "Fighter"
   },
@@ -575,7 +575,7 @@
     "Premium": true,
     "PremiumLabel": "Premium",
     "ImagePath": "pack://application:,,,/Images/Aircraft/Fw 190A-8 (Prem) (Fighter).png",
-    "PlaneName": "Fw 190A-8",
+    "VehicleName": "Fw 190A-8",
     "VehicleType": "Aircraft",
     "VehicleClass": "Fighter"
   },
@@ -585,7 +585,7 @@
     "Premium": false,
     "PremiumLabel": "",
     "ImagePath": "pack://application:,,,/Images/Aircraft/P-51D-5 Mustang (Fighter).png",
-    "PlaneName": "P-51D-5 Mustang",
+    "VehicleName": "P-51D-5 Mustang",
     "VehicleType": "Aircraft",
     "VehicleClass": "Fighter"
   },
@@ -595,7 +595,7 @@
     "Premium": true,
     "PremiumLabel": "Premium",
     "ImagePath": "pack://application:,,,/Images/Aircraft/P-51D-20 NA Mustang (Prem) (Fighter).png",
-    "PlaneName": "P-51D-20 NA Mustang",
+    "VehicleName": "P-51D-20 NA Mustang",
     "VehicleType": "Aircraft",
     "VehicleClass": "Fighter"
   },
@@ -605,7 +605,7 @@
     "Premium": false,
     "PremiumLabel": "",
     "ImagePath": "pack://application:,,,/Images/Aircraft/P-51D-30 Mustang (Fighter).jpg",
-    "PlaneName": "P-51D-30 Mustang",
+    "VehicleName": "P-51D-30 Mustang",
     "VehicleType": "Aircraft",
     "VehicleClass": "Fighter"
   },
@@ -615,7 +615,7 @@
     "Premium": true,
     "PremiumLabel": "Premium",
     "ImagePath": "pack://application:,,,/Images/Aircraft/Wetmore's P-51D-10 Mustang (Prem) (Fighter).png",
-    "PlaneName": "Wetmore's P-51D-10 Mustang",
+    "VehicleName": "Wetmore's P-51D-10 Mustang",
     "VehicleType": "Aircraft",
     "VehicleClass": "Fighter"
   },
@@ -625,7 +625,7 @@
     "Premium": true,
     "PremiumLabel": "Premium",
     "ImagePath": "pack://application:,,,/Images/Aircraft/Spitfire LF Mk.IX US (Prem) (Fighter).png",
-    "PlaneName": "Spitfire LF Mk.IX US",
+    "VehicleName": "Spitfire LF Mk.IX US",
     "VehicleType": "Aircraft",
     "VehicleClass": "Fighter"
   },
@@ -635,7 +635,7 @@
     "Premium": false,
     "PremiumLabel": "",
     "ImagePath": "pack://application:,,,/Images/Aircraft/B-57A (Bomber).png",
-    "PlaneName": "B-57A",
+    "VehicleName": "B-57A",
     "VehicleType": "Aircraft",
     "VehicleClass": "Bomber"
   },
@@ -645,7 +645,7 @@
     "Premium": false,
     "PremiumLabel": "",
     "ImagePath": "pack://application:,,,/Images/Aircraft/B-57B (Bomber).png",
-    "PlaneName": "B-57B",
+    "VehicleName": "B-57B",
     "VehicleType": "Aircraft",
     "VehicleClass": "Bomber"
   },
@@ -655,7 +655,7 @@
     "Premium": false,
     "PremiumLabel": "",
     "ImagePath": "pack://application:,,,/Images/Aircraft/P-80A-5 (Fighter).png",
-    "PlaneName": "P-80A-5",
+    "VehicleName": "P-80A-5",
     "VehicleType": "Aircraft",
     "VehicleClass": "Fighter"
   },
@@ -665,7 +665,7 @@
     "Premium": false,
     "PremiumLabel": "",
     "ImagePath": "pack://application:,,,/Images/Aircraft/F-80C-10 Shooting Star (Fighter).png",
-    "PlaneName": "F-80C-10 Shooting Star",
+    "VehicleName": "F-80C-10 Shooting Star",
     "VehicleType": "Aircraft",
     "VehicleClass": "Fighter"
   },
@@ -675,7 +675,7 @@
     "Premium": false,
     "PremiumLabel": "",
     "ImagePath": "pack://application:,,,/Images/Aircraft/F-84B-26 (Fighter).png",
-    "PlaneName": "F-84B-26",
+    "VehicleName": "F-84B-26",
     "VehicleType": "Aircraft",
     "VehicleClass": "Fighter"
   },
@@ -685,7 +685,7 @@
     "Premium": false,
     "PremiumLabel": "",
     "ImagePath": "pack://application:,,,/Images/Aircraft/F-86A-5 Sabre (Fighter).png",
-    "PlaneName": "F-86A-5 Sabre",
+    "VehicleName": "F-86A-5 Sabre",
     "VehicleType": "Aircraft",
     "VehicleClass": "Fighter"
   },
@@ -695,7 +695,7 @@
     "Premium": false,
     "PremiumLabel": "",
     "ImagePath": "pack://application:,,,/Images/Aircraft/F-86F-2 Sabre (Fighter).png",
-    "PlaneName": "F-86F-2 Sabre",
+    "VehicleName": "F-86F-2 Sabre",
     "VehicleType": "Aircraft",
     "VehicleClass": "Fighter"
   },
@@ -705,7 +705,7 @@
     "Premium": false,
     "PremiumLabel": "",
     "ImagePath": "pack://application:,,,/Images/Aircraft/F-86F-25 Sabre (Fighter).png",
-    "PlaneName": "F-86F-25 Sabre",
+    "VehicleName": "F-86F-25 Sabre",
     "VehicleType": "Aircraft",
     "VehicleClass": "Fighter"
   },
@@ -715,7 +715,7 @@
     "Premium": false,
     "PremiumLabel": "",
     "ImagePath": "pack://application:,,,/Images/Aircraft/F2H-2 Banshee (Fighter).png",
-    "PlaneName": "F2H-2 Banshee",
+    "VehicleName": "F2H-2 Banshee",
     "VehicleType": "Aircraft",
     "VehicleClass": "Fighter"
   },
@@ -725,7 +725,7 @@
     "Premium": false,
     "PremiumLabel": "",
     "ImagePath": "pack://application:,,,/Images/Aircraft/F9F-2 Panther (Fighter).png",
-    "PlaneName": "F9F-2 Panther",
+    "VehicleName": "F9F-2 Panther",
     "VehicleType": "Aircraft",
     "VehicleClass": "Fighter"
   },
@@ -735,7 +735,7 @@
     "Premium": false,
     "PremiumLabel": "",
     "ImagePath": "pack://application:,,,/Images/Aircraft/F9F-5 Panther (Fighter).png",
-    "PlaneName": "F9F-5 Panther",
+    "VehicleName": "F9F-5 Panther",
     "VehicleType": "Aircraft",
     "VehicleClass": "Fighter"
   },
@@ -745,7 +745,7 @@
     "Premium": false,
     "PremiumLabel": "",
     "ImagePath": "pack://application:,,,/Images/Aircraft/Bf 110 C-4 (Attacker).png",
-    "PlaneName": "Bf 110 C-4",
+    "VehicleName": "Bf 110 C-4",
     "VehicleType": "Aircraft",
     "VehicleClass": "Attacker"
   },
@@ -755,7 +755,7 @@
     "Premium": false,
     "PremiumLabel": "",
     "ImagePath": "pack://application:,,,/Images/Aircraft/CR.42 Falco (Fighter).png",
-    "PlaneName": "CR.42 Falco",
+    "VehicleName": "CR.42 Falco",
     "VehicleType": "Aircraft",
     "VehicleClass": "Fighter"
   },
@@ -765,7 +765,7 @@
     "Premium": false,
     "PremiumLabel": "",
     "ImagePath": "pack://application:,,,/Images/Aircraft/Do 17 E-1 (Bomber).png",
-    "PlaneName": "Do 17 E-1",
+    "VehicleName": "Do 17 E-1",
     "VehicleType": "Aircraft",
     "VehicleClass": "Bomber"
   },
@@ -775,7 +775,7 @@
     "Premium": false,
     "PremiumLabel": "",
     "ImagePath": "pack://application:,,,/Images/Aircraft/G.50 Freccia series 7AS (Fighter).png",
-    "PlaneName": "G.50 Freccia series 7AS",
+    "VehicleName": "G.50 Freccia series 7AS",
     "VehicleType": "Aircraft",
     "VehicleClass": "Fighter"
   },
@@ -785,7 +785,7 @@
     "Premium": false,
     "PremiumLabel": "",
     "ImagePath": "pack://application:,,,/Images/Aircraft/G.50 Freccia series 2 (Fighter).jpg",
-    "PlaneName": "G.50 Freccia series 2",
+    "VehicleName": "G.50 Freccia series 2",
     "VehicleType": "Aircraft",
     "VehicleClass": "Fighter"
   },
@@ -795,7 +795,7 @@
     "Premium": false,
     "PremiumLabel": "",
     "ImagePath": "pack://application:,,,/Images/Aircraft/He 111 H-3 (Bomber).png",
-    "PlaneName": "He 111 H-3",
+    "VehicleName": "He 111 H-3",
     "VehicleType": "Aircraft",
     "VehicleClass": "Bomber"
   },
@@ -805,7 +805,7 @@
     "Premium": false,
     "PremiumLabel": "",
     "ImagePath": "pack://application:,,,/Images/Aircraft/He 112 A-0 (Fighter).jpg",
-    "PlaneName": "He 112 A-0",
+    "VehicleName": "He 112 A-0",
     "VehicleType": "Aircraft",
     "VehicleClass": "Fighter"
   },
@@ -815,7 +815,7 @@
     "Premium": false,
     "PremiumLabel": "",
     "ImagePath": "pack://application:,,,/Images/Aircraft/He 112 B-0 (Fighter).png",
-    "PlaneName": "He 112 B-0",
+    "VehicleName": "He 112 B-0",
     "VehicleType": "Aircraft",
     "VehicleClass": "Fighter"
   },
@@ -825,7 +825,7 @@
     "Premium": true,
     "PremiumLabel": "Premium",
     "ImagePath": "pack://application:,,,/Images/Aircraft/He 112 B-1 U2 (Prem) (Fighter).png",
-    "PlaneName": "He 112 B-1 U2",
+    "VehicleName": "He 112 B-1 U2",
     "VehicleType": "Aircraft",
     "VehicleClass": "Fighter"
   },
@@ -835,7 +835,7 @@
     "Premium": true,
     "PremiumLabel": "Premium",
     "ImagePath": "pack://application:,,,/Images/Aircraft/He 112 B-2 U2 (Prem) (Fighter).png",
-    "PlaneName": "He 112 B-2 U2",
+    "VehicleName": "He 112 B-2 U2",
     "VehicleType": "Aircraft",
     "VehicleClass": "Fighter"
   },
@@ -845,7 +845,7 @@
     "Premium": false,
     "PremiumLabel": "",
     "ImagePath": "pack://application:,,,/Images/Aircraft/He 112 V-5 (Fighter).jpg",
-    "PlaneName": "He 112 V-5",
+    "VehicleName": "He 112 V-5",
     "VehicleType": "Aircraft",
     "VehicleClass": "Fighter"
   },
@@ -855,7 +855,7 @@
     "Premium": true,
     "PremiumLabel": "Premium",
     "ImagePath": "pack://application:,,,/Images/Aircraft/He 51 B-2  Hydroplane (Prem) (Fighter).png",
-    "PlaneName": "He 51 B-2  Hydroplane",
+    "VehicleName": "He 51 B-2  Hydroplane",
     "VehicleType": "Aircraft",
     "VehicleClass": "Fighter"
   },
@@ -865,7 +865,7 @@
     "Premium": false,
     "PremiumLabel": "",
     "ImagePath": "pack://application:,,,/Images/Aircraft/He 51 C-1  Late (Fighter).png",
-    "PlaneName": "He 51 C-1  Late",
+    "VehicleName": "He 51 C-1  Late",
     "VehicleType": "Aircraft",
     "VehicleClass": "Fighter"
   },
@@ -875,7 +875,7 @@
     "Premium": false,
     "PremiumLabel": "",
     "ImagePath": "pack://application:,,,/Images/Aircraft/He 51 C-1 (Fighter).png",
-    "PlaneName": "He 51 C-1",
+    "VehicleName": "He 51 C-1",
     "VehicleType": "Aircraft",
     "VehicleClass": "Fighter"
   },
@@ -885,7 +885,7 @@
     "Premium": false,
     "PremiumLabel": "",
     "ImagePath": "pack://application:,,,/Images/Aircraft/M.C.200 serie 3 (Fighter).jpg",
-    "PlaneName": "M.C.200 serie 3",
+    "VehicleName": "M.C.200 serie 3",
     "VehicleType": "Aircraft",
     "VehicleClass": "Fighter"
   },
@@ -895,7 +895,7 @@
     "Premium": false,
     "PremiumLabel": "",
     "ImagePath": "pack://application:,,,/Images/Aircraft/M.C.200 series 7 (Fighter).png",
-    "PlaneName": "M.C.200 series 7",
+    "VehicleName": "M.C.200 series 7",
     "VehicleType": "Aircraft",
     "VehicleClass": "Fighter"
   },
@@ -905,7 +905,7 @@
     "Premium": false,
     "PremiumLabel": "",
     "ImagePath": "pack://application:,,,/Images/Aircraft/M.C.202 Folgore (Fighter).png",
-    "PlaneName": "M.C.202 Folgore",
+    "VehicleName": "M.C.202 Folgore",
     "VehicleType": "Aircraft",
     "VehicleClass": "Fighter"
   },
@@ -915,7 +915,7 @@
     "Premium": false,
     "PremiumLabel": "",
     "ImagePath": "pack://application:,,,/Images/Aircraft/Marcolin's CR.42CN (Fighter).png",
-    "PlaneName": "Marcolin's CR.42CN",
+    "VehicleName": "Marcolin's CR.42CN",
     "VehicleType": "Aircraft",
     "VehicleClass": "Fighter"
   },
@@ -925,7 +925,7 @@
     "Premium": false,
     "PremiumLabel": "",
     "ImagePath": "pack://application:,,,/Images/Aircraft/Ju 87 B-2 (Bomber).png",
-    "PlaneName": "Ju 87 B-2",
+    "VehicleName": "Ju 87 B-2",
     "VehicleType": "Aircraft",
     "VehicleClass": "Bomber"
   },
@@ -935,7 +935,7 @@
     "Premium": false,
     "PremiumLabel": "",
     "ImagePath": "pack://application:,,,/Images/Aircraft/Ju 87 R-2 (Bomber).png",
-    "PlaneName": "Ju 87 R-2",
+    "VehicleName": "Ju 87 R-2",
     "VehicleType": "Aircraft",
     "VehicleClass": "Bomber"
   },
@@ -945,7 +945,7 @@
     "Premium": false,
     "PremiumLabel": "",
     "ImagePath": "pack://application:,,,/Images/Aircraft/Ju 88A-4 (Bomber).png",
-    "PlaneName": "Ju 88A-4",
+    "VehicleName": "Ju 88A-4",
     "VehicleType": "Aircraft",
     "VehicleClass": "Bomber"
   },
@@ -955,7 +955,7 @@
     "Premium": false,
     "PremiumLabel": "",
     "ImagePath": "pack://application:,,,/Images/Aircraft/Bf 109B-1  Late (Fighter).png",
-    "PlaneName": "Bf 109B-1  Late",
+    "VehicleName": "Bf 109B-1  Late",
     "VehicleType": "Aircraft",
     "VehicleClass": "Fighter"
   },
@@ -965,7 +965,7 @@
     "Premium": false,
     "PremiumLabel": "",
     "ImagePath": "pack://application:,,,/Images/Aircraft/Bf 109 E-1 (Fighter).png",
-    "PlaneName": "Bf 109 E-1",
+    "VehicleName": "Bf 109 E-1",
     "VehicleType": "Aircraft",
     "VehicleClass": "Fighter"
   },
@@ -975,7 +975,7 @@
     "Premium": false,
     "PremiumLabel": "",
     "ImagePath": "pack://application:,,,/Images/Aircraft/Bf 109 E-3 (Fighter).png",
-    "PlaneName": "Bf 109 E-3",
+    "VehicleName": "Bf 109 E-3",
     "VehicleType": "Aircraft",
     "VehicleClass": "Fighter"
   },
@@ -985,7 +985,7 @@
     "Premium": false,
     "PremiumLabel": "",
     "ImagePath": "pack://application:,,,/Images/Aircraft/Bf 109 F-1 (Fighter).png",
-    "PlaneName": "Bf 109 F-1",
+    "VehicleName": "Bf 109 F-1",
     "VehicleType": "Aircraft",
     "VehicleClass": "Fighter"
   },
@@ -995,7 +995,7 @@
     "Premium": false,
     "PremiumLabel": "",
     "ImagePath": "pack://application:,,,/Images/Aircraft/Bf 109 F-2 (Fighter).png",
-    "PlaneName": "Bf 109 F-2",
+    "VehicleName": "Bf 109 F-2",
     "VehicleType": "Aircraft",
     "VehicleClass": "Fighter"
   },
@@ -1005,7 +1005,7 @@
     "Premium": false,
     "PremiumLabel": "",
     "ImagePath": "pack://application:,,,/Images/Aircraft/Do 217 J-1 (Attacker).png",
-    "PlaneName": "Do 217 J-1",
+    "VehicleName": "Do 217 J-1",
     "VehicleType": "Aircraft",
     "VehicleClass": "Attacker"
   },
@@ -1015,7 +1015,7 @@
     "Premium": false,
     "PremiumLabel": "",
     "ImagePath": "pack://application:,,,/Images/Aircraft/Do 217 J-2 (Attacker).png",
-    "PlaneName": "Do 217 J-2",
+    "VehicleName": "Do 217 J-2",
     "VehicleType": "Aircraft",
     "VehicleClass": "Attacker"
   },
@@ -1025,7 +1025,7 @@
     "Premium": false,
     "PremiumLabel": "",
     "ImagePath": "pack://application:,,,/Images/Aircraft/Fw 190 A-1 (Fighter).png",
-    "PlaneName": "Fw 190 A-1",
+    "VehicleName": "Fw 190 A-1",
     "VehicleType": "Aircraft",
     "VehicleClass": "Fighter"
   },
@@ -1035,7 +1035,7 @@
     "Premium": false,
     "PremiumLabel": "",
     "ImagePath": "pack://application:,,,/Images/Aircraft/Fw 190 A-4 (Fighter).png",
-    "PlaneName": "Fw 190 A-4",
+    "VehicleName": "Fw 190 A-4",
     "VehicleType": "Aircraft",
     "VehicleClass": "Fighter"
   },
@@ -1045,7 +1045,7 @@
     "Premium": false,
     "PremiumLabel": "",
     "ImagePath": "pack://application:,,,/Images/Aircraft/Fw 200 C-1 (Bomber).png",
-    "PlaneName": "Fw 200 C-1",
+    "VehicleName": "Fw 200 C-1",
     "VehicleType": "Aircraft",
     "VehicleClass": "Bomber"
   },
@@ -1055,7 +1055,7 @@
     "Premium": false,
     "PremiumLabel": "",
     "ImagePath": "pack://application:,,,/Images/Aircraft/He 111 H-6 (Bomber).png",
-    "PlaneName": "He 111 H-6",
+    "VehicleName": "He 111 H-6",
     "VehicleType": "Aircraft",
     "VehicleClass": "Bomber"
   },
@@ -1065,7 +1065,7 @@
     "Premium": false,
     "PremiumLabel": "",
     "ImagePath": "pack://application:,,,/Images/Aircraft/Ju 87 D-3 (Bomber).png",
-    "PlaneName": "Ju 87 D-3",
+    "VehicleName": "Ju 87 D-3",
     "VehicleType": "Aircraft",
     "VehicleClass": "Bomber"
   },
@@ -1075,7 +1075,7 @@
     "Premium": false,
     "PremiumLabel": "",
     "ImagePath": "pack://application:,,,/Images/Aircraft/Ju 87 D-5 (Attacker).png",
-    "PlaneName": "Ju 87 D-5",
+    "VehicleName": "Ju 87 D-5",
     "VehicleType": "Aircraft",
     "VehicleClass": "Attacker"
   },
@@ -1085,7 +1085,7 @@
     "Premium": false,
     "PremiumLabel": "",
     "ImagePath": "pack://application:,,,/Images/Aircraft/Ju 87 G-1(Attacker).png",
-    "PlaneName": "Ju 87 G-",
+    "VehicleName": "Ju 87 G-",
     "VehicleType": "Aircraft",
     "VehicleClass": "Attacker"
   },
@@ -1095,7 +1095,7 @@
     "Premium": false,
     "PremiumLabel": "",
     "ImagePath": "pack://application:,,,/Images/Aircraft/Ju 87 G-2 (Attacker).png",
-    "PlaneName": "Ju 87 G-2",
+    "VehicleName": "Ju 87 G-2",
     "VehicleType": "Aircraft",
     "VehicleClass": "Attacker"
   },
@@ -1105,7 +1105,7 @@
     "Premium": false,
     "PremiumLabel": "",
     "ImagePath": "pack://application:,,,/Images/Aircraft/SM.79 Sparviero (1936) (Bomber).png",
-    "PlaneName": "SM.79 Sparviero",
+    "VehicleName": "SM.79 Sparviero",
     "VehicleType": "Aircraft",
     "VehicleClass": "Bomber"
   },
@@ -1115,7 +1115,7 @@
     "Premium": false,
     "PremiumLabel": "",
     "ImagePath": "pack://application:,,,/Images/Aircraft/SM.79 Sparviero (1937) (Bomber).png",
-    "PlaneName": "SM.79 Sparviero",
+    "VehicleName": "SM.79 Sparviero",
     "VehicleType": "Aircraft",
     "VehicleClass": "Bomber"
   },
@@ -1125,7 +1125,7 @@
     "Premium": false,
     "PremiumLabel": "",
     "ImagePath": "pack://application:,,,/Images/Aircraft/SM.79 Sparviero (1939) (Bomber).png",
-    "PlaneName": "SM.79 Sparviero",
+    "VehicleName": "SM.79 Sparviero",
     "VehicleType": "Aircraft",
     "VehicleClass": "Bomber"
   },
@@ -1135,7 +1135,7 @@
     "Premium": false,
     "PremiumLabel": "",
     "ImagePath": "pack://application:,,,/Images/Aircraft/SM.79 Sparviero (1941) (Bomber).png",
-    "PlaneName": "SM.79 Sparviero",
+    "VehicleName": "SM.79 Sparviero",
     "VehicleType": "Aircraft",
     "VehicleClass": "Bomber"
   },
@@ -1145,7 +1145,7 @@
     "Premium": false,
     "PremiumLabel": "",
     "ImagePath": "pack://application:,,,/Images/Aircraft/SM.79B Sparviero (Bomber).jpg",
-    "PlaneName": "SM.79B Sparviero",
+    "VehicleName": "SM.79B Sparviero",
     "VehicleType": "Aircraft",
     "VehicleClass": "Bomber"
   },
@@ -1155,7 +1155,7 @@
     "Premium": false,
     "PremiumLabel": "",
     "ImagePath": "pack://application:,,,/Images/Aircraft/SM.79bis Sparviero Late (Bomber).png",
-    "PlaneName": "SM.79bis Sparviero Late",
+    "VehicleName": "SM.79bis Sparviero Late",
     "VehicleType": "Aircraft",
     "VehicleClass": "Bomber"
   },
@@ -1165,7 +1165,7 @@
     "Premium": true,
     "PremiumLabel": "Premium",
     "ImagePath": "pack://application:,,,/Images/Aircraft/Wellington Mk Ic (Prem) (Bomber).png",
-    "PlaneName": "Wellington Mk Ic",
+    "VehicleName": "Wellington Mk Ic",
     "VehicleType": "Aircraft",
     "VehicleClass": "Bomber"
   },
@@ -1175,7 +1175,7 @@
     "Premium": false,
     "PremiumLabel": "",
     "ImagePath": "pack://application:,,,/Images/Aircraft/Bf 109 F-4 (Fighter).png",
-    "PlaneName": "Bf 109 F-4",
+    "VehicleName": "Bf 109 F-4",
     "VehicleType": "Aircraft",
     "VehicleClass": "Fighter"
   },
@@ -1185,7 +1185,7 @@
     "Premium": false,
     "PremiumLabel": "",
     "ImagePath": "pack://application:,,,/Images/Aircraft/Bf 109 F-4 trop (Fighter).png",
-    "PlaneName": "Bf 109 F-4 trop",
+    "VehicleName": "Bf 109 F-4 trop",
     "VehicleType": "Aircraft",
     "VehicleClass": "Fighter"
   },
@@ -1195,7 +1195,7 @@
     "Premium": true,
     "PremiumLabel": "Premium",
     "ImagePath": "pack://application:,,,/Images/Aircraft/Bf 109 G-2 (Prem) (Fighter).png",
-    "PlaneName": "Bf 109 G-2",
+    "VehicleName": "Bf 109 G-2",
     "VehicleType": "Aircraft",
     "VehicleClass": "Fighter"
   },
@@ -1205,7 +1205,7 @@
     "Premium": false,
     "PremiumLabel": "",
     "ImagePath": "pack://application:,,,/Images/Aircraft/Bf 109 G-2 trop (Fighter).png",
-    "PlaneName": "Bf 109 G-2 trop",
+    "VehicleName": "Bf 109 G-2 trop",
     "VehicleType": "Aircraft",
     "VehicleClass": "Fighter"
   },
@@ -1215,7 +1215,7 @@
     "Premium": false,
     "PremiumLabel": "",
     "ImagePath": "pack://application:,,,/Images/Aircraft/Do 217 E-2 (Bomber).png",
-    "PlaneName": "Do 217 E-2",
+    "VehicleName": "Do 217 E-2",
     "VehicleType": "Aircraft",
     "VehicleClass": "Bomber"
   },
@@ -1225,7 +1225,7 @@
     "Premium": false,
     "PremiumLabel": "",
     "ImagePath": "pack://application:,,,/Images/Aircraft/Do 217 E-4 (Bomber).png",
-    "PlaneName": "Do 217 E-4",
+    "VehicleName": "Do 217 E-4",
     "VehicleType": "Aircraft",
     "VehicleClass": "Bomber"
   },
@@ -1235,7 +1235,7 @@
     "Premium": false,
     "PremiumLabel": "",
     "ImagePath": "pack://application:,,,/Images/Aircraft/Do 217 N-1 (Attacker).png",
-    "PlaneName": "Do 217 N-1",
+    "VehicleName": "Do 217 N-1",
     "VehicleType": "Aircraft",
     "VehicleClass": "Attacker"
   },
@@ -1245,7 +1245,7 @@
     "Premium": false,
     "PremiumLabel": "",
     "ImagePath": "pack://application:,,,/Images/Aircraft/Do 217 N-2 (Attacker).png",
-    "PlaneName": "Do 217 N-2",
+    "VehicleName": "Do 217 N-2",
     "VehicleType": "Aircraft",
     "VehicleClass": "Attacker"
   },
@@ -1255,7 +1255,7 @@
     "Premium": false,
     "PremiumLabel": "",
     "ImagePath": "pack://application:,,,/Images/Aircraft/Fw 190 A-5 (Fighter).png",
-    "PlaneName": "Fw 190 A-5",
+    "VehicleName": "Fw 190 A-5",
     "VehicleType": "Aircraft",
     "VehicleClass": "Fighter"
   },
@@ -1265,7 +1265,7 @@
     "Premium": false,
     "PremiumLabel": "",
     "ImagePath": "pack://application:,,,/Images/Aircraft/Fw 190 A-5 U2 (Fighter).png",
-    "PlaneName": "Fw 190 A-5 U2",
+    "VehicleName": "Fw 190 A-5 U2",
     "VehicleType": "Aircraft",
     "VehicleClass": "Fighter"
   },
@@ -1275,7 +1275,7 @@
     "Premium": false,
     "PremiumLabel": "",
     "ImagePath": "pack://application:,,,/Images/Aircraft/He 111 H-16 (Bomber).png",
-    "PlaneName": "He 111 H-16",
+    "VehicleName": "He 111 H-16",
     "VehicleType": "Aircraft",
     "VehicleClass": "Bomber"
   },
@@ -1285,7 +1285,7 @@
     "Premium": false,
     "PremiumLabel": "",
     "ImagePath": "pack://application:,,,/Images/Aircraft/Hs 129 B-2 (Attacker).png",
-    "PlaneName": "Hs 129 B-2",
+    "VehicleName": "Hs 129 B-2",
     "VehicleType": "Aircraft",
     "VehicleClass": "Attacker"
   },
@@ -1295,7 +1295,7 @@
     "Premium": true,
     "PremiumLabel": "Premium",
     "ImagePath": "pack://application:,,,/Images/Aircraft/Hs 129 B-2 (Prem) (Attacker).png",
-    "PlaneName": "Hs 129 B-2",
+    "VehicleName": "Hs 129 B-2",
     "VehicleType": "Aircraft",
     "VehicleClass": "Attacker"
   },
@@ -1305,7 +1305,7 @@
     "Premium": false,
     "PremiumLabel": "",
     "ImagePath": "pack://application:,,,/Images/Aircraft/Hs 129 B-3 (Attacker).png",
-    "PlaneName": "Hs 129 B-3",
+    "VehicleName": "Hs 129 B-3",
     "VehicleType": "Aircraft",
     "VehicleClass": "Attacker"
   },
@@ -1315,7 +1315,7 @@
     "Premium": true,
     "PremiumLabel": "Premium",
     "ImagePath": "pack://application:,,,/Images/Aircraft/La-5FN (Prem) (Fighter).png",
-    "PlaneName": "La-5FN",
+    "VehicleName": "La-5FN",
     "VehicleType": "Aircraft",
     "VehicleClass": "Fighter"
   },
@@ -1325,7 +1325,7 @@
     "Premium": false,
     "PremiumLabel": "",
     "ImagePath": "pack://application:,,,/Images/Aircraft/Me 410 A-1 (Attacker).jpg",
-    "PlaneName": "Me 410 A-1",
+    "VehicleName": "Me 410 A-1",
     "VehicleType": "Aircraft",
     "VehicleClass": "Attacker"
   },
@@ -1335,7 +1335,7 @@
     "Premium": false,
     "PremiumLabel": "",
     "ImagePath": "pack://application:,,,/Images/Aircraft/Me 410 A-1U2 (Attacker).png",
-    "PlaneName": "Me 410 A-1U2",
+    "VehicleName": "Me 410 A-1U2",
     "VehicleType": "Aircraft",
     "VehicleClass": "Attacker"
   },
@@ -1345,7 +1345,7 @@
     "Premium": false,
     "PremiumLabel": "",
     "ImagePath": "pack://application:,,,/Images/Aircraft/Me 410 B-1 (Attacker).png",
-    "PlaneName": "Me 410 B-1",
+    "VehicleName": "Me 410 B-1",
     "VehicleType": "Aircraft",
     "VehicleClass": "Attacker"
   },
@@ -1355,7 +1355,7 @@
     "Premium": false,
     "PremiumLabel": "",
     "ImagePath": "pack://application:,,,/Images/Aircraft/Me 410 B-1U2 (Attacker).png",
-    "PlaneName": "Me 410 B-1U2",
+    "VehicleName": "Me 410 B-1U2",
     "VehicleType": "Aircraft",
     "VehicleClass": "Attacker"
   },
@@ -1365,7 +1365,7 @@
     "Premium": true,
     "PremiumLabel": "Premium",
     "ImagePath": "pack://application:,,,/Images/Aircraft/P-47D Thunderbolt (Prem) (Fighter).png",
-    "PlaneName": "P-47D Thunderbolt",
+    "VehicleName": "P-47D Thunderbolt",
     "VehicleType": "Aircraft",
     "VehicleClass": "Fighter"
   },
@@ -1375,7 +1375,7 @@
     "Premium": false,
     "PremiumLabel": "",
     "ImagePath": "pack://application:,,,/Images/Aircraft/Bf 109 G-6 (Fighter).png",
-    "PlaneName": "Bf 109 G-6",
+    "VehicleName": "Bf 109 G-6",
     "VehicleType": "Aircraft",
     "VehicleClass": "Fighter"
   },
@@ -1385,7 +1385,7 @@
     "Premium": false,
     "PremiumLabel": "",
     "ImagePath": "pack://application:,,,/Images/Aircraft/Bf 109 G-10 (Fighter).png",
-    "PlaneName": "Bf 109 G-10",
+    "VehicleName": "Bf 109 G-10",
     "VehicleType": "Aircraft",
     "VehicleClass": "Fighter"
   },
@@ -1395,7 +1395,7 @@
     "Premium": false,
     "PremiumLabel": "",
     "ImagePath": "pack://application:,,,/Images/Aircraft/Bf 109 G-14 (Fighter).png",
-    "PlaneName": "Bf 109 G-14",
+    "VehicleName": "Bf 109 G-14",
     "VehicleType": "Aircraft",
     "VehicleClass": "Fighter"
   },
@@ -1405,7 +1405,7 @@
     "Premium": false,
     "PremiumLabel": "",
     "ImagePath": "pack://application:,,,/Images/Aircraft/Bf 109 K-4 (Fighter).png",
-    "PlaneName": "Bf 109 K-4",
+    "VehicleName": "Bf 109 K-4",
     "VehicleType": "Aircraft",
     "VehicleClass": "Fighter"
   },
@@ -1415,7 +1415,7 @@
     "Premium": false,
     "PremiumLabel": "",
     "ImagePath": "pack://application:,,,/Images/Aircraft/Do 217 K-1 (Bomber).png",
-    "PlaneName": "Do 217 K-1",
+    "VehicleName": "Do 217 K-1",
     "VehicleType": "Aircraft",
     "VehicleClass": "Bomber"
   },
@@ -1425,7 +1425,7 @@
     "Premium": false,
     "PremiumLabel": "",
     "ImagePath": "pack://application:,,,/Images/Aircraft/Do 217 M-1 (Bomber).png",
-    "PlaneName": "Do 217 M-1",
+    "VehicleName": "Do 217 M-1",
     "VehicleType": "Aircraft",
     "VehicleClass": "Bomber"
   },
@@ -1435,7 +1435,7 @@
     "Premium": false,
     "PremiumLabel": "",
     "ImagePath": "pack://application:,,,/Images/Aircraft/Fw 190 A-8 (Fighter).png",
-    "PlaneName": "Fw 190 A-8",
+    "VehicleName": "Fw 190 A-8",
     "VehicleType": "Aircraft",
     "VehicleClass": "Fighter"
   },
@@ -1445,7 +1445,7 @@
     "Premium": false,
     "PremiumLabel": "",
     "ImagePath": "pack://application:,,,/Images/Aircraft/Fw 190 F-8 (Fighter).png",
-    "PlaneName": "Fw 190 F-8",
+    "VehicleName": "Fw 190 F-8",
     "VehicleType": "Aircraft",
     "VehicleClass": "Fighter"
   },
@@ -1455,7 +1455,7 @@
     "Premium": false,
     "PremiumLabel": "",
     "ImagePath": "pack://application:,,,/Images/Aircraft/Fw 190 D-9 (Fighter).png",
-    "PlaneName": "Fw 190 D-9",
+    "VehicleName": "Fw 190 D-9",
     "VehicleType": "Aircraft",
     "VehicleClass": "Fighter"
   },
@@ -1465,7 +1465,7 @@
     "Premium": false,
     "PremiumLabel": "",
     "ImagePath": "pack://application:,,,/Images/Aircraft/Fw 190 D-12 (Fighter).png",
-    "PlaneName": "Fw 190 D-12",
+    "VehicleName": "Fw 190 D-12",
     "VehicleType": "Aircraft",
     "VehicleClass": "Fighter"
   },
@@ -1475,7 +1475,7 @@
     "Premium": true,
     "PremiumLabel": "Premium",
     "ImagePath": "pack://application:,,,/Images/Aircraft/Fw 190 D-13 (Prem) (Fighter).png",
-    "PlaneName": "Fw 190 D-13",
+    "VehicleName": "Fw 190 D-13",
     "VehicleType": "Aircraft",
     "VehicleClass": "Fighter"
   },
@@ -1485,7 +1485,7 @@
     "Premium": false,
     "PremiumLabel": "",
     "ImagePath": "pack://application:,,,/Images/Aircraft/Me 410 A-1U4 (Attacker).png",
-    "PlaneName": "Me 410 A-1U4",
+    "VehicleName": "Me 410 A-1U4",
     "VehicleType": "Aircraft",
     "VehicleClass": "Attacker"
   },
@@ -1495,7 +1495,7 @@
     "Premium": false,
     "PremiumLabel": "",
     "ImagePath": "pack://application:,,,/Images/Aircraft/Me 410 B-2U4 (Attacker).png",
-    "PlaneName": "Me 410 B-2U4",
+    "VehicleName": "Me 410 B-2U4",
     "VehicleType": "Aircraft",
     "VehicleClass": "Attacker"
   },
@@ -1505,7 +1505,7 @@
     "Premium": false,
     "PremiumLabel": "",
     "ImagePath": "pack://application:,,,/Images/Aircraft/Me 410 B-6R3 (Attacker).png",
-    "PlaneName": "Me 410 B-6R3",
+    "VehicleName": "Me 410 B-6R3",
     "VehicleType": "Aircraft",
     "VehicleClass": "Attacker"
   },
@@ -1515,7 +1515,7 @@
     "Premium": false,
     "PremiumLabel": "",
     "ImagePath": "pack://application:,,,/Images/Aircraft/Ta 152 H-1 (Fighter).png",
-    "PlaneName": "Ta 152 H-1",
+    "VehicleName": "Ta 152 H-1",
     "VehicleType": "Aircraft",
     "VehicleClass": "Fighter"
   },
@@ -1525,7 +1525,7 @@
     "Premium": false,
     "PremiumLabel": "",
     "ImagePath": "pack://application:,,,/Images/Aircraft/Arado 234B-2 (Bomber).png",
-    "PlaneName": "Arado 234B-2",
+    "VehicleName": "Arado 234B-2",
     "VehicleType": "Aircraft",
     "VehicleClass": "Bomber"
   },
@@ -1535,7 +1535,7 @@
     "Premium": false,
     "PremiumLabel": "",
     "ImagePath": "pack://application:,,,/Images/Aircraft/Arado 234C-3 (Bomber).png",
-    "PlaneName": "Arado 234C-3",
+    "VehicleName": "Arado 234C-3",
     "VehicleType": "Aircraft",
     "VehicleClass": "Bomber"
   },
@@ -1545,7 +1545,7 @@
     "Premium": false,
     "PremiumLabel": "",
     "ImagePath": "pack://application:,,,/Images/Aircraft/CL-13A Sabre Mk.5 (Fighter).png",
-    "PlaneName": "CL-13A Sabre Mk.5",
+    "VehicleName": "CL-13A Sabre Mk.5",
     "VehicleType": "Aircraft",
     "VehicleClass": "Fighter"
   },
@@ -1555,7 +1555,7 @@
     "Premium": false,
     "PremiumLabel": "",
     "ImagePath": "pack://application:,,,/Images/Aircraft/Ho 229 V3 (Fighter).png",
-    "PlaneName": "Ho 229 V3",
+    "VehicleName": "Ho 229 V3",
     "VehicleType": "Aircraft",
     "VehicleClass": "Fighter"
   },
@@ -1565,7 +1565,7 @@
     "Premium": false,
     "PremiumLabel": "",
     "ImagePath": "pack://application:,,,/Images/Aircraft/Me 163B (Fighter).png",
-    "PlaneName": "Me 163B",
+    "VehicleName": "Me 163B",
     "VehicleType": "Aircraft",
     "VehicleClass": "Fighter"
   },
@@ -1575,7 +1575,7 @@
     "Premium": false,
     "PremiumLabel": "",
     "ImagePath": "pack://application:,,,/Images/Aircraft/Me 262 A-1a Schwalbe (Fighter).png",
-    "PlaneName": "Me 262 A-1a Schwalbe",
+    "VehicleName": "Me 262 A-1a Schwalbe",
     "VehicleType": "Aircraft",
     "VehicleClass": "Fighter"
   },
@@ -1585,7 +1585,7 @@
     "Premium": false,
     "PremiumLabel": "",
     "ImagePath": "pack://application:,,,/Images/Aircraft/Me 262 A-1U4 Pulkzerstorer (Fighter).png",
-    "PlaneName": "Me 262 A-1U4 Pulkzerstorer",
+    "VehicleName": "Me 262 A-1U4 Pulkzerstorer",
     "VehicleType": "Aircraft",
     "VehicleClass": "Fighter"
   },
@@ -1595,7 +1595,7 @@
     "Premium": false,
     "PremiumLabel": "",
     "ImagePath": "pack://application:,,,/Images/Aircraft/Me 262 C-1a Heimatschutzer I (Fighter).png",
-    "PlaneName": "Me 262 C-1a Heimatschutzer I",
+    "VehicleName": "Me 262 C-1a Heimatschutzer I",
     "VehicleType": "Aircraft",
     "VehicleClass": "Fighter"
   },
@@ -1605,7 +1605,7 @@
     "Premium": false,
     "PremiumLabel": "",
     "ImagePath": "pack://application:,,,/Images/Aircraft/Me 262 C-2b Heimatschutzer II (Fighter).png",
-    "PlaneName": "Me 262 C-2b Heimatschutzer II",
+    "VehicleName": "Me 262 C-2b Heimatschutzer II",
     "VehicleType": "Aircraft",
     "VehicleClass": "Fighter"
   },
@@ -1615,7 +1615,7 @@
     "Premium": false,
     "PremiumLabel": "",
     "ImagePath": "pack://application:,,,/Images/Aircraft/MiG-15bis GDR (Fighter).png",
-    "PlaneName": "MiG-15bis GDR",
+    "VehicleName": "MiG-15bis GDR",
     "VehicleType": "Aircraft",
     "VehicleClass": "Fighter"
   },
@@ -1625,7 +1625,7 @@
     "Premium": false,
     "PremiumLabel": "",
     "ImagePath": "pack://application:,,,/Images/Aircraft/He 162 A-2 (Fighter).png",
-    "PlaneName": "He 162 A-2",
+    "VehicleName": "He 162 A-2",
     "VehicleType": "Aircraft",
     "VehicleClass": "Fighter"
   },
@@ -1635,7 +1635,7 @@
     "Premium": false,
     "PremiumLabel": "",
     "ImagePath": "pack://application:,,,/Images/Aircraft/BB-1 (Bomber).png",
-    "PlaneName": "BB-1",
+    "VehicleName": "BB-1",
     "VehicleType": "Aircraft",
     "VehicleClass": "Bomber"
   },
@@ -1645,7 +1645,7 @@
     "Premium": false,
     "PremiumLabel": "",
     "ImagePath": "pack://application:,,,/Images/Aircraft/I-15R (Fighter).png",
-    "PlaneName": "I-15R",
+    "VehicleName": "I-15R",
     "VehicleType": "Aircraft",
     "VehicleClass": "Fighter"
   },
@@ -1655,7 +1655,7 @@
     "Premium": false,
     "PremiumLabel": "",
     "ImagePath": "pack://application:,,,/Images/Aircraft/I-16 type 5 Ishak (Fighter).png",
-    "PlaneName": "I-16 type 5 Ishak",
+    "VehicleName": "I-16 type 5 Ishak",
     "VehicleType": "Aircraft",
     "VehicleClass": "Fighter"
   },
@@ -1665,7 +1665,7 @@
     "Premium": false,
     "PremiumLabel": "",
     "ImagePath": "pack://application:,,,/Images/Aircraft/I-16 type 10 Ishak (Fighter).png",
-    "PlaneName": "I-16 type 10 Ishak",
+    "VehicleName": "I-16 type 10 Ishak",
     "VehicleType": "Aircraft",
     "VehicleClass": "Fighter"
   },
@@ -1675,7 +1675,7 @@
     "Premium": false,
     "PremiumLabel": "",
     "ImagePath": "pack://application:,,,/Images/Aircraft/I-16 Type 18 Ishak (Fighter).png",
-    "PlaneName": "I-16 Type 18 Ishak",
+    "VehicleName": "I-16 Type 18 Ishak",
     "VehicleType": "Aircraft",
     "VehicleClass": "Fighter"
   },
@@ -1685,7 +1685,7 @@
     "Premium": false,
     "PremiumLabel": "",
     "ImagePath": "pack://application:,,,/Images/Aircraft/I-16 type 24 Ishak (Fighter).png",
-    "PlaneName": "I-16 type 24 Ishak",
+    "VehicleName": "I-16 type 24 Ishak",
     "VehicleType": "Aircraft",
     "VehicleClass": "Fighter"
   },
@@ -1695,7 +1695,7 @@
     "Premium": true,
     "PremiumLabel": "Premium",
     "ImagePath": "pack://application:,,,/Images/Aircraft/I-301 (Prem) (Fighter).png",
-    "PlaneName": "I-301",
+    "VehicleName": "I-301",
     "VehicleType": "Aircraft",
     "VehicleClass": "Fighter"
   },
@@ -1705,7 +1705,7 @@
     "Premium": false,
     "PremiumLabel": "",
     "ImagePath": "pack://application:,,,/Images/Aircraft/LaGG-3-4 (Fighter).png",
-    "PlaneName": "LaGG-3-4",
+    "VehicleName": "LaGG-3-4",
     "VehicleType": "Aircraft",
     "VehicleClass": "Fighter"
   },
@@ -1715,7 +1715,7 @@
     "Premium": false,
     "PremiumLabel": "",
     "ImagePath": "pack://application:,,,/Images/Aircraft/LaGG-3-8 (Fighter).png",
-    "PlaneName": "LaGG-3-8",
+    "VehicleName": "LaGG-3-8",
     "VehicleType": "Aircraft",
     "VehicleClass": "Fighter"
   },
@@ -1725,7 +1725,7 @@
     "Premium": false,
     "PremiumLabel": "",
     "ImagePath": "pack://application:,,,/Images/Aircraft/LaGG-3-11 (Fighter).jpg",
-    "PlaneName": "LaGG-3-11",
+    "VehicleName": "LaGG-3-11",
     "VehicleType": "Aircraft",
     "VehicleClass": "Fighter"
   },
@@ -1735,7 +1735,7 @@
     "Premium": true,
     "PremiumLabel": "Premium",
     "ImagePath": "pack://application:,,,/Images/Aircraft/LaGG-3-23 (Prem) (Fighter).png",
-    "PlaneName": "LaGG-3-23",
+    "VehicleName": "LaGG-3-23",
     "VehicleType": "Aircraft",
     "VehicleClass": "Fighter"
   },
@@ -1745,7 +1745,7 @@
     "Premium": false,
     "PremiumLabel": "",
     "ImagePath": "pack://application:,,,/Images/Aircraft/Po-2 (Bomber).png",
-    "PlaneName": "Po-2",
+    "VehicleName": "Po-2",
     "VehicleType": "Aircraft",
     "VehicleClass": "Bomber"
   },
@@ -1755,7 +1755,7 @@
     "Premium": false,
     "PremiumLabel": "",
     "ImagePath": "pack://application:,,,/Images/Aircraft/SB 2M-100 (Bomber).png",
-    "PlaneName": "SB 2M-100",
+    "VehicleName": "SB 2M-100",
     "VehicleType": "Aircraft",
     "VehicleClass": "Bomber"
   },
@@ -1765,7 +1765,7 @@
     "Premium": false,
     "PremiumLabel": "",
     "ImagePath": "pack://application:,,,/Images/Aircraft/SB 2M-103 (Bomber).png",
-    "PlaneName": "SB 2M-103",
+    "VehicleName": "SB 2M-103",
     "VehicleType": "Aircraft",
     "VehicleClass": "Bomber"
   },
@@ -1775,7 +1775,7 @@
     "Premium": false,
     "PremiumLabel": "",
     "ImagePath": "pack://application:,,,/Images/Aircraft/SB 2M-103U MV-3 (Bomber).png",
-    "PlaneName": "SB 2M-103U MV-3",
+    "VehicleName": "SB 2M-103U MV-3",
     "VehicleType": "Aircraft",
     "VehicleClass": "Bomber"
   },
@@ -1785,7 +1785,7 @@
     "Premium": false,
     "PremiumLabel": "",
     "ImagePath": "pack://application:,,,/Images/Aircraft/SB 2M-105 (Bomber).png",
-    "PlaneName": "SB 2M-105",
+    "VehicleName": "SB 2M-105",
     "VehicleType": "Aircraft",
     "VehicleClass": "Bomber"
   },
@@ -1795,7 +1795,7 @@
     "Premium": false,
     "PremiumLabel": "",
     "ImagePath": "pack://application:,,,/Images/Aircraft/SB 2M-103 MV-3 (Bomber).png",
-    "PlaneName": "SB 2M-103 MV-3",
+    "VehicleName": "SB 2M-103 MV-3",
     "VehicleType": "Aircraft",
     "VehicleClass": "Bomber"
   },
@@ -1805,7 +1805,7 @@
     "Premium": false,
     "PremiumLabel": "",
     "ImagePath": "pack://application:,,,/Images/Aircraft/SB 2M-103U (Bomber).png",
-    "PlaneName": "SB 2M-103U",
+    "VehicleName": "SB 2M-103U",
     "VehicleType": "Aircraft",
     "VehicleClass": "Bomber"
   },
@@ -1815,7 +1815,7 @@
     "Premium": false,
     "PremiumLabel": "",
     "ImagePath": "pack://application:,,,/Images/Aircraft/Su-2 M-82 (Bomber).png",
-    "PlaneName": "Su-2 M-82",
+    "VehicleName": "Su-2 M-82",
     "VehicleType": "Aircraft",
     "VehicleClass": "Bomber"
   },
@@ -1825,7 +1825,7 @@
     "Premium": false,
     "PremiumLabel": "",
     "ImagePath": "pack://application:,,,/Images/Aircraft/Su-2 MV-5 (Bomber).jpg",
-    "PlaneName": "Su-2 MV-5",
+    "VehicleName": "Su-2 MV-5",
     "VehicleType": "Aircraft",
     "VehicleClass": "Bomber"
   },
@@ -1835,7 +1835,7 @@
     "Premium": false,
     "PremiumLabel": "",
     "ImagePath": "pack://application:,,,/Images/Aircraft/Su-2 TSS-1 (Bomber).jpg",
-    "PlaneName": "Su-2 TSS-1",
+    "VehicleName": "Su-2 TSS-1",
     "VehicleType": "Aircraft",
     "VehicleClass": "Bomber"
   },
@@ -1845,7 +1845,7 @@
     "Premium": false,
     "PremiumLabel": "",
     "ImagePath": "pack://application:,,,/Images/Aircraft/TB-3M-17-32 (Bomber).png",
-    "PlaneName": "TB-3M-17-32",
+    "VehicleName": "TB-3M-17-32",
     "VehicleType": "Aircraft",
     "VehicleClass": "Bomber"
   },
@@ -1855,7 +1855,7 @@
     "Premium": false,
     "PremiumLabel": "",
     "ImagePath": "pack://application:,,,/Images/Aircraft/Yak-1 (Fighter).png",
-    "PlaneName": "Yak-1",
+    "VehicleName": "Yak-1",
     "VehicleType": "Aircraft",
     "VehicleClass": "Fighter"
   },
@@ -1865,7 +1865,7 @@
     "Premium": false,
     "PremiumLabel": "",
     "ImagePath": "pack://application:,,,/Images/Aircraft/Zhukovsky's I-153-M62 (Fighter).png",
-    "PlaneName": "Zhukovsky's I-153-M62",
+    "VehicleName": "Zhukovsky's I-153-M62",
     "VehicleType": "Aircraft",
     "VehicleClass": "Fighter"
   },
@@ -1875,7 +1875,7 @@
     "Premium": false,
     "PremiumLabel": "",
     "ImagePath": "pack://application:,,,/Images/Aircraft/Ar-2 (Bomber).png",
-    "PlaneName": "Ar-2",
+    "VehicleName": "Ar-2",
     "VehicleType": "Aircraft",
     "VehicleClass": "Bomber"
   },
@@ -1885,7 +1885,7 @@
     "Premium": true,
     "PremiumLabel": "Premium",
     "ImagePath": "pack://application:,,,/Images/Aircraft/I-153P Chaika (Prem) (Fighter).png",
-    "PlaneName": "I-153P Chaika",
+    "VehicleName": "I-153P Chaika",
     "VehicleType": "Aircraft",
     "VehicleClass": "Fighter"
   },
@@ -1895,7 +1895,7 @@
     "Premium": false,
     "PremiumLabel": "",
     "ImagePath": "pack://application:,,,/Images/Aircraft/I-16 type 27 Ishak (Fighter).png",
-    "PlaneName": "I-16 type 27 Ishak",
+    "VehicleName": "I-16 type 27 Ishak",
     "VehicleType": "Aircraft",
     "VehicleClass": "Fighter"
   },
@@ -1905,7 +1905,7 @@
     "Premium": true,
     "PremiumLabel": "Premium",
     "ImagePath": "pack://application:,,,/Images/Aircraft/I-16 type 28 Ishak (Prem) (Fighter).png",
-    "PlaneName": "I-16 type 28 Ishak",
+    "VehicleName": "I-16 type 28 Ishak",
     "VehicleType": "Aircraft",
     "VehicleClass": "Fighter"
   },
@@ -1915,7 +1915,7 @@
     "Premium": false,
     "PremiumLabel": "",
     "ImagePath": "pack://application:,,,/Images/Aircraft/IL-2 (1941) (Attacker).png",
-    "PlaneName": "IL-2",
+    "VehicleName": "IL-2",
     "VehicleType": "Aircraft",
     "VehicleClass": "Attacker"
   },
@@ -1925,7 +1925,7 @@
     "Premium": false,
     "PremiumLabel": "",
     "ImagePath": "pack://application:,,,/Images/Aircraft/IL-2 (1942) (Attacker).png",
-    "PlaneName": "IL-2",
+    "VehicleName": "IL-2",
     "VehicleType": "Aircraft",
     "VehicleClass": "Attacker"
   },
@@ -1935,7 +1935,7 @@
     "Premium": false,
     "PremiumLabel": "",
     "ImagePath": "pack://application:,,,/Images/Aircraft/IL-4 (Bomber).png",
-    "PlaneName": "IL-4",
+    "VehicleName": "IL-4",
     "VehicleType": "Aircraft",
     "VehicleClass": "Bomber"
   },
@@ -1945,7 +1945,7 @@
     "Premium": false,
     "PremiumLabel": "",
     "ImagePath": "pack://application:,,,/Images/Aircraft/La-5 (Fighter).png",
-    "PlaneName": "La-5",
+    "VehicleName": "La-5",
     "VehicleType": "Aircraft",
     "VehicleClass": "Fighter"
   },
@@ -1955,7 +1955,7 @@
     "Premium": true,
     "PremiumLabel": "Premium",
     "ImagePath": "pack://application:,,,/Images/Aircraft/Hurricane Mk IIB (Prem) (Fighter).png",
-    "PlaneName": "Hurricane Mk IIB",
+    "VehicleName": "Hurricane Mk IIB",
     "VehicleType": "Aircraft",
     "VehicleClass": "Fighter"
   },
@@ -1965,7 +1965,7 @@
     "Premium": true,
     "PremiumLabel": "Premium",
     "ImagePath": "pack://application:,,,/Images/Aircraft/LaGG-3-34 (Prem) (Fighter).png",
-    "PlaneName": "LaGG-3-34",
+    "VehicleName": "LaGG-3-34",
     "VehicleType": "Aircraft",
     "VehicleClass": "Fighter"
   },
@@ -1975,7 +1975,7 @@
     "Premium": false,
     "PremiumLabel": "",
     "ImagePath": "pack://application:,,,/Images/Aircraft/LaGG-3-35 (Fighter).jpg",
-    "PlaneName": "LaGG-3-35",
+    "VehicleName": "LaGG-3-35",
     "VehicleType": "Aircraft",
     "VehicleClass": "Fighter"
   },
@@ -1985,7 +1985,7 @@
     "Premium": false,
     "PremiumLabel": "",
     "ImagePath": "pack://application:,,,/Images/Aircraft/LaGG-3-66 (Fighter).jpg",
-    "PlaneName": "LaGG-3-66",
+    "VehicleName": "LaGG-3-66",
     "VehicleType": "Aircraft",
     "VehicleClass": "Fighter"
   },
@@ -1995,7 +1995,7 @@
     "Premium": false,
     "PremiumLabel": "",
     "ImagePath": "pack://application:,,,/Images/Aircraft/MiG-3-15 (Fighter).png",
-    "PlaneName": "MiG-3-15",
+    "VehicleName": "MiG-3-15",
     "VehicleType": "Aircraft",
     "VehicleClass": "Fighter"
   },
@@ -2005,7 +2005,7 @@
     "Premium": false,
     "PremiumLabel": "",
     "ImagePath": "pack://application:,,,/Images/Aircraft/MiG-3-15 BK (Fighter).png",
-    "PlaneName": "MiG-3-15 BK",
+    "VehicleName": "MiG-3-15 BK",
     "VehicleType": "Aircraft",
     "VehicleClass": "Fighter"
   },
@@ -2015,7 +2015,7 @@
     "Premium": false,
     "PremiumLabel": "",
     "ImagePath": "pack://application:,,,/Images/Aircraft/MiG-3-34 (Fighter).png",
-    "PlaneName": "MiG-3-34",
+    "VehicleName": "MiG-3-34",
     "VehicleType": "Aircraft",
     "VehicleClass": "Fighter"
   },
@@ -2025,7 +2025,7 @@
     "Premium": true,
     "PremiumLabel": "Premium",
     "ImagePath": "pack://application:,,,/Images/Aircraft/P-39K-1 Airacobra (Prem) (Fighter).png",
-    "PlaneName": "P-39K-1 Airacobra",
+    "VehicleName": "P-39K-1 Airacobra",
     "VehicleType": "Aircraft",
     "VehicleClass": "Fighter"
   },
@@ -2035,7 +2035,7 @@
     "Premium": true,
     "PremiumLabel": "Premium",
     "ImagePath": "pack://application:,,,/Images/Aircraft/P-40E-1 Kittyhawk (Prem) (Fighter).png",
-    "PlaneName": "P-40E-1 Kittyhawk",
+    "VehicleName": "P-40E-1 Kittyhawk",
     "VehicleType": "Aircraft",
     "VehicleClass": "Fighter"
   },
@@ -2045,7 +2045,7 @@
     "Premium": false,
     "PremiumLabel": "",
     "ImagePath": "pack://application:,,,/Images/Aircraft/Pe-3 Early (Attacker).png",
-    "PlaneName": "Pe-3 Early",
+    "VehicleName": "Pe-3 Early",
     "VehicleType": "Aircraft",
     "VehicleClass": "Attacker"
   },
@@ -2055,7 +2055,7 @@
     "Premium": false,
     "PremiumLabel": "",
     "ImagePath": "pack://application:,,,/Images/Aircraft/Yak-1B (Fighter).png",
-    "PlaneName": "Yak-1B",
+    "VehicleName": "Yak-1B",
     "VehicleType": "Aircraft",
     "VehicleClass": "Fighter"
   },
@@ -2065,7 +2065,7 @@
     "Premium": false,
     "PremiumLabel": "",
     "ImagePath": "pack://application:,,,/Images/Aircraft/Yak-7B (Fighter).png",
-    "PlaneName": "Yak-7B",
+    "VehicleName": "Yak-7B",
     "VehicleType": "Aircraft",
     "VehicleClass": "Fighter"
   },
@@ -2075,7 +2075,7 @@
     "Premium": false,
     "PremiumLabel": "",
     "ImagePath": "pack://application:,,,/Images/Aircraft/Yak-9 (Fighter).png",
-    "PlaneName": "Yak-9",
+    "VehicleName": "Yak-9",
     "VehicleType": "Aircraft",
     "VehicleClass": "Fighter"
   },
@@ -2085,7 +2085,7 @@
     "Premium": true,
     "PremiumLabel": "Premium",
     "ImagePath": "pack://application:,,,/Images/Aircraft/B-25J-30 Mitchell (Prem) (Bomber).png",
-    "PlaneName": "B-25J-30 Mitchell",
+    "VehicleName": "B-25J-30 Mitchell",
     "VehicleType": "Aircraft",
     "VehicleClass": "Bomber"
   },
@@ -2095,7 +2095,7 @@
     "Premium": true,
     "PremiumLabel": "Premium",
     "ImagePath": "pack://application:,,,/Images/Aircraft/Golovachev's Yak-9M (Prem) (Fighter).png",
-    "PlaneName": "Golovachev's Yak-9M",
+    "VehicleName": "Golovachev's Yak-9M",
     "VehicleType": "Aircraft",
     "VehicleClass": "Fighter"
   },
@@ -2105,7 +2105,7 @@
     "Premium": false,
     "PremiumLabel": "",
     "ImagePath": "pack://application:,,,/Images/Aircraft/I-185 (M-82) (Fighter).png",
-    "PlaneName": "I-185",
+    "VehicleName": "I-185",
     "VehicleType": "Aircraft",
     "VehicleClass": "Fighter"
   },
@@ -2115,7 +2115,7 @@
     "Premium": false,
     "PremiumLabel": "",
     "ImagePath": "pack://application:,,,/Images/Aircraft/IL-2-37 (Attacker).png",
-    "PlaneName": "IL-2-37",
+    "VehicleName": "IL-2-37",
     "VehicleType": "Aircraft",
     "VehicleClass": "Attacker"
   },
@@ -2125,7 +2125,7 @@
     "Premium": false,
     "PremiumLabel": "",
     "ImagePath": "pack://application:,,,/Images/Aircraft/IL-2M (1943) (Attacker).png",
-    "PlaneName": "IL-2M",
+    "VehicleName": "IL-2M",
     "VehicleType": "Aircraft",
     "VehicleClass": "Attacker"
   },
@@ -2135,7 +2135,7 @@
     "Premium": false,
     "PremiumLabel": "",
     "ImagePath": "pack://application:,,,/Images/Aircraft/IL-2M type 3 (Attacker).png",
-    "PlaneName": "IL-2M type 3",
+    "VehicleName": "IL-2M type 3",
     "VehicleType": "Aircraft",
     "VehicleClass": "Attacker"
   },
@@ -2145,7 +2145,7 @@
     "Premium": true,
     "PremiumLabel": "Premium",
     "ImagePath": "pack://application:,,,/Images/Aircraft/IL-2M 'Avenger' (Prem) (Attacker).png",
-    "PlaneName": "IL-2M 'Avenger'",
+    "VehicleName": "IL-2M 'Avenger'",
     "VehicleType": "Aircraft",
     "VehicleClass": "Attacker"
   },
@@ -2155,7 +2155,7 @@
     "Premium": false,
     "PremiumLabel": "",
     "ImagePath": "pack://application:,,,/Images/Aircraft/La-5F (Fighter).jpg",
-    "PlaneName": "La-5F",
+    "VehicleName": "La-5F",
     "VehicleType": "Aircraft",
     "VehicleClass": "Fighter"
   },
@@ -2165,7 +2165,7 @@
     "Premium": false,
     "PremiumLabel": "",
     "ImagePath": "pack://application:,,,/Images/Aircraft/La-5FN (Fighter).png",
-    "PlaneName": "La-5FN",
+    "VehicleName": "La-5FN",
     "VehicleType": "Aircraft",
     "VehicleClass": "Fighter"
   },
@@ -2175,7 +2175,7 @@
     "Premium": true,
     "PremiumLabel": "Premium",
     "ImagePath": "pack://application:,,,/Images/Aircraft/P-47D-27 Thunderbolt (Prem) (Fighter).png",
-    "PlaneName": "P-47D-27 Thunderbolt",
+    "VehicleName": "P-47D-27 Thunderbolt",
     "VehicleType": "Aircraft",
     "VehicleClass": "Fighter"
   },
@@ -2185,7 +2185,7 @@
     "Premium": true,
     "PremiumLabel": "Premium",
     "ImagePath": "pack://application:,,,/Images/Aircraft/P-63A-5 Kingcobra (Prem) (Fighter).jpg",
-    "PlaneName": "P-63A-5 Kingcobra",
+    "VehicleName": "P-63A-5 Kingcobra",
     "VehicleType": "Aircraft",
     "VehicleClass": "Fighter"
   },
@@ -2195,7 +2195,7 @@
     "Premium": false,
     "PremiumLabel": "",
     "ImagePath": "pack://application:,,,/Images/Aircraft/Pe-2-1 Peshka (Bomber).png",
-    "PlaneName": "Pe-2-1 Peshka",
+    "VehicleName": "Pe-2-1 Peshka",
     "VehicleType": "Aircraft",
     "VehicleClass": "Bomber"
   },
@@ -2205,7 +2205,7 @@
     "Premium": false,
     "PremiumLabel": "",
     "ImagePath": "pack://application:,,,/Images/Aircraft/Pe-2-31 Peshka (Bomber).png",
-    "PlaneName": "Pe-2-31 Peshka",
+    "VehicleName": "Pe-2-31 Peshka",
     "VehicleType": "Aircraft",
     "VehicleClass": "Bomber"
   },
@@ -2215,7 +2215,7 @@
     "Premium": false,
     "PremiumLabel": "",
     "ImagePath": "pack://application:,,,/Images/Aircraft/Pe-2-83 Peshka (Bomber).jpg",
-    "PlaneName": "Pe-2-83 Peshka",
+    "VehicleName": "Pe-2-83 Peshka",
     "VehicleType": "Aircraft",
     "VehicleClass": "Bomber"
   },
@@ -2225,7 +2225,7 @@
     "Premium": true,
     "PremiumLabel": "Premium",
     "ImagePath": "pack://application:,,,/Images/Aircraft/Pe-2-205 Peshka (Prem) (Bomber).jpg",
-    "PlaneName": "Pe-2-205 Peshka",
+    "VehicleName": "Pe-2-205 Peshka",
     "VehicleType": "Aircraft",
     "VehicleClass": "Bomber"
   },
@@ -2235,7 +2235,7 @@
     "Premium": false,
     "PremiumLabel": "",
     "ImagePath": "pack://application:,,,/Images/Aircraft/Pe-3 (Attacker).jpg",
-    "PlaneName": "Pe-3",
+    "VehicleName": "Pe-3",
     "VehicleType": "Aircraft",
     "VehicleClass": "Attacker"
   },
@@ -2245,7 +2245,7 @@
     "Premium": false,
     "PremiumLabel": "",
     "ImagePath": "pack://application:,,,/Images/Aircraft/Pe-3bis (Attacker).png",
-    "PlaneName": "Pe-3bis",
+    "VehicleName": "Pe-3bis",
     "VehicleType": "Aircraft",
     "VehicleClass": "Attacker"
   },
@@ -2255,7 +2255,7 @@
     "Premium": true,
     "PremiumLabel": "Premium",
     "ImagePath": "pack://application:,,,/Images/Aircraft/Pokryshkin's P-39N-0 Airacobra (Prem) (Fighter).png",
-    "PlaneName": "Pokryshkin's P-39N-0 Airacobra",
+    "VehicleName": "Pokryshkin's P-39N-0 Airacobra",
     "VehicleType": "Aircraft",
     "VehicleClass": "Fighter"
   },
@@ -2265,7 +2265,7 @@
     "Premium": true,
     "PremiumLabel": "Premium",
     "ImagePath": "pack://application:,,,/Images/Aircraft/P-39Q-15 Airacobra (Prem) (Fighter).png",
-    "PlaneName": "P-39Q-15 Airacobra",
+    "VehicleName": "P-39Q-15 Airacobra",
     "VehicleType": "Aircraft",
     "VehicleClass": "Fighter"
   },
@@ -2275,7 +2275,7 @@
     "Premium": false,
     "PremiumLabel": "",
     "ImagePath": "pack://application:,,,/Images/Aircraft/Tu-2 (Bomber).png",
-    "PlaneName": "Tu-2",
+    "VehicleName": "Tu-2",
     "VehicleType": "Aircraft",
     "VehicleClass": "Bomber"
   },
@@ -2285,7 +2285,7 @@
     "Premium": false,
     "PremiumLabel": "",
     "ImagePath": "pack://application:,,,/Images/Aircraft/Yak-9T (Fighter).png",
-    "PlaneName": "Yak-9T",
+    "VehicleName": "Yak-9T",
     "VehicleType": "Aircraft",
     "VehicleClass": "Fighter"
   },
@@ -2295,7 +2295,7 @@
     "Premium": false,
     "PremiumLabel": "",
     "ImagePath": "pack://application:,,,/Images/Aircraft/Yak-9K (Fighter).png",
-    "PlaneName": "Yak-9K",
+    "VehicleName": "Yak-9K",
     "VehicleType": "Aircraft",
     "VehicleClass": "Fighter"
   },
@@ -2305,7 +2305,7 @@
     "Premium": false,
     "PremiumLabel": "",
     "ImagePath": "pack://application:,,,/Images/Aircraft/Yak-3 (Fighter).png",
-    "PlaneName": "Yak-3",
+    "VehicleName": "Yak-3",
     "VehicleType": "Aircraft",
     "VehicleClass": "Fighter"
   },
@@ -2315,7 +2315,7 @@
     "Premium": false,
     "PremiumLabel": "",
     "ImagePath": "pack://application:,,,/Images/Aircraft/Yak-3P (Fighter).png",
-    "PlaneName": "Yak-3P",
+    "VehicleName": "Yak-3P",
     "VehicleType": "Aircraft",
     "VehicleClass": "Fighter"
   },
@@ -2325,7 +2325,7 @@
     "Premium": false,
     "PremiumLabel": "",
     "ImagePath": "pack://application:,,,/Images/Aircraft/Yer-2 M-105 (Bomber).png",
-    "PlaneName": "Yer-2 M-105",
+    "VehicleName": "Yer-2 M-105",
     "VehicleType": "Aircraft",
     "VehicleClass": "Bomber"
   },
@@ -2335,7 +2335,7 @@
     "Premium": false,
     "PremiumLabel": "",
     "ImagePath": "pack://application:,,,/Images/Aircraft/Yer-2 M-105R LU-MV-2B (Bomber).jpg",
-    "PlaneName": "Yer-2 M-105R LU-MV-2B",
+    "VehicleName": "Yer-2 M-105R LU-MV-2B",
     "VehicleType": "Aircraft",
     "VehicleClass": "Bomber"
   },
@@ -2345,7 +2345,7 @@
     "Premium": false,
     "PremiumLabel": "",
     "ImagePath": "pack://application:,,,/Images/Aircraft/Yer-2 ACh-30B Early (Bomber).png",
-    "PlaneName": "Yer-2 ACh-30B Early",
+    "VehicleName": "Yer-2 ACh-30B Early",
     "VehicleType": "Aircraft",
     "VehicleClass": "Bomber"
   },
@@ -2355,7 +2355,7 @@
     "Premium": false,
     "PremiumLabel": "",
     "ImagePath": "pack://application:,,,/Images/Aircraft/Yer-2 ACh-30B Late (Bomber).png",
-    "PlaneName": "Yer-2 ACh-30B Late",
+    "VehicleName": "Yer-2 ACh-30B Late",
     "VehicleType": "Aircraft",
     "VehicleClass": "Bomber"
   },
@@ -2365,7 +2365,7 @@
     "Premium": true,
     "PremiumLabel": "Premium",
     "ImagePath": "pack://application:,,,/Images/Aircraft/Dolgushin's La-7 (Prem) (Fighter).png",
-    "PlaneName": "Dolgushin's La-7",
+    "VehicleName": "Dolgushin's La-7",
     "VehicleType": "Aircraft",
     "VehicleClass": "Fighter"
   },
@@ -2375,7 +2375,7 @@
     "Premium": false,
     "PremiumLabel": "",
     "ImagePath": "pack://application:,,,/Images/Aircraft/I-185 (M-71) (Fighter).png",
-    "PlaneName": "I-185",
+    "VehicleName": "I-185",
     "VehicleType": "Aircraft",
     "VehicleClass": "Fighter"
   },
@@ -2385,7 +2385,7 @@
     "Premium": false,
     "PremiumLabel": "",
     "ImagePath": "pack://application:,,,/Images/Aircraft/IL-10 (Attacker).png",
-    "PlaneName": "IL-10",
+    "VehicleName": "IL-10",
     "VehicleType": "Aircraft",
     "VehicleClass": "Attacker"
   },
@@ -2395,7 +2395,7 @@
     "Premium": false,
     "PremiumLabel": "",
     "ImagePath": "pack://application:,,,/Images/Aircraft/IL-10 (1946) (Attacker).png",
-    "PlaneName": "IL-10",
+    "VehicleName": "IL-10",
     "VehicleType": "Aircraft",
     "VehicleClass": "Attacker"
   },
@@ -2405,7 +2405,7 @@
     "Premium": false,
     "PremiumLabel": "",
     "ImagePath": "pack://application:,,,/Images/Aircraft/La-7 (Fighter).png",
-    "PlaneName": "La-7",
+    "VehicleName": "La-7",
     "VehicleType": "Aircraft",
     "VehicleClass": "Fighter"
   },
@@ -2415,7 +2415,7 @@
     "Premium": false,
     "PremiumLabel": "",
     "ImagePath": "pack://application:,,,/Images/Aircraft/La-7B-20 (Fighter).jpg",
-    "PlaneName": "La-7B-20",
+    "VehicleName": "La-7B-20",
     "VehicleType": "Aircraft",
     "VehicleClass": "Fighter"
   },
@@ -2425,7 +2425,7 @@
     "Premium": false,
     "PremiumLabel": "",
     "ImagePath": "pack://application:,,,/Images/Aircraft/La-9 (Fighter).png",
-    "PlaneName": "La-9",
+    "VehicleName": "La-9",
     "VehicleType": "Aircraft",
     "VehicleClass": "Fighter"
   },
@@ -2435,7 +2435,7 @@
     "Premium": true,
     "PremiumLabel": "Premium",
     "ImagePath": "pack://application:,,,/Images/Aircraft/P-63A-10 Kingcobra (Prem) (Fighter).png",
-    "PlaneName": "P-63A-10 Kingcobra",
+    "VehicleName": "P-63A-10 Kingcobra",
     "VehicleType": "Aircraft",
     "VehicleClass": "Fighter"
   },
@@ -2445,7 +2445,7 @@
     "Premium": false,
     "PremiumLabel": "",
     "ImagePath": "pack://application:,,,/Images/Aircraft/Pe-2-110 Peshka (Bomber).png",
-    "PlaneName": "Pe-2-110 Peshka",
+    "VehicleName": "Pe-2-110 Peshka",
     "VehicleType": "Aircraft",
     "VehicleClass": "Bomber"
   },
@@ -2455,7 +2455,7 @@
     "Premium": false,
     "PremiumLabel": "",
     "ImagePath": "pack://application:,,,/Images/Aircraft/Pe-2-359 Peshka (Bomber).png",
-    "PlaneName": "Pe-2-359 Peshka",
+    "VehicleName": "Pe-2-359 Peshka",
     "VehicleType": "Aircraft",
     "VehicleClass": "Bomber"
   },
@@ -2465,7 +2465,7 @@
     "Premium": true,
     "PremiumLabel": "Premium",
     "ImagePath": "pack://application:,,,/Images/Aircraft/Spitfire Mk.IX USSR (Prem) (Fighter).png",
-    "PlaneName": "Spitfire Mk.IX USSR",
+    "VehicleName": "Spitfire Mk.IX USSR",
     "VehicleType": "Aircraft",
     "VehicleClass": "Fighter"
   },
@@ -2475,7 +2475,7 @@
     "Premium": false,
     "PremiumLabel": "",
     "ImagePath": "pack://application:,,,/Images/Aircraft/Tu-2S (Bomber).png",
-    "PlaneName": "Tu-2S",
+    "VehicleName": "Tu-2S",
     "VehicleType": "Aircraft",
     "VehicleClass": "Bomber"
   },
@@ -2485,7 +2485,7 @@
     "Premium": false,
     "PremiumLabel": "",
     "ImagePath": "pack://application:,,,/Images/Aircraft/Tu-2S-44 (Bomber).png",
-    "PlaneName": "Tu-2S-44",
+    "VehicleName": "Tu-2S-44",
     "VehicleType": "Aircraft",
     "VehicleClass": "Bomber"
   },
@@ -2495,7 +2495,7 @@
     "Premium": false,
     "PremiumLabel": "",
     "ImagePath": "pack://application:,,,/Images/Aircraft/Tu-2S-59 (Bomber).png",
-    "PlaneName": "Tu-2S-59",
+    "VehicleName": "Tu-2S-59",
     "VehicleType": "Aircraft",
     "VehicleClass": "Bomber"
   },
@@ -2505,7 +2505,7 @@
     "Premium": false,
     "PremiumLabel": "",
     "ImagePath": "pack://application:,,,/Images/Aircraft/Yak-9U (Fighter).png",
-    "PlaneName": "Yak-9U",
+    "VehicleName": "Yak-9U",
     "VehicleType": "Aircraft",
     "VehicleClass": "Fighter"
   },
@@ -2515,7 +2515,7 @@
     "Premium": false,
     "PremiumLabel": "",
     "ImagePath": "pack://application:,,,/Images/Aircraft/Yak-9P (Fighter).png",
-    "PlaneName": "Yak-9P",
+    "VehicleName": "Yak-9P",
     "VehicleType": "Aircraft",
     "VehicleClass": "Fighter"
   },
@@ -2525,7 +2525,7 @@
     "Premium": false,
     "PremiumLabel": "",
     "ImagePath": "pack://application:,,,/Images/Aircraft/Yak-9UT (Fighter).png",
-    "PlaneName": "Yak-9UT",
+    "VehicleName": "Yak-9UT",
     "VehicleType": "Aircraft",
     "VehicleClass": "Fighter"
   },
@@ -2535,7 +2535,7 @@
     "Premium": true,
     "PremiumLabel": "Premium",
     "ImagePath": "pack://application:,,,/Images/Aircraft/Yak-3 (VK-107) (Prem) (Fighter).png",
-    "PlaneName": "Yak-3",
+    "VehicleName": "Yak-3",
     "VehicleType": "Aircraft",
     "VehicleClass": "Fighter"
   },
@@ -2545,7 +2545,7 @@
     "Premium": true,
     "PremiumLabel": "Premium",
     "ImagePath": "pack://application:,,,/Images/Aircraft/Fw 190D-9 (Prem) (Fighter).png",
-    "PlaneName": "Fw 190D-9",
+    "VehicleName": "Fw 190D-9",
     "VehicleType": "Aircraft",
     "VehicleClass": "Fighter"
   },
@@ -2555,7 +2555,7 @@
     "Premium": false,
     "PremiumLabel": "",
     "ImagePath": "pack://application:,,,/Images/Aircraft/IL-28 (Bomber).jpg",
-    "PlaneName": "IL-28",
+    "VehicleName": "IL-28",
     "VehicleType": "Aircraft",
     "VehicleClass": "Bomber"
   },
@@ -2565,7 +2565,7 @@
     "Premium": false,
     "PremiumLabel": "",
     "ImagePath": "pack://application:,,,/Images/Aircraft/La-15 (Fighter).png",
-    "PlaneName": "La-15",
+    "VehicleName": "La-15",
     "VehicleType": "Aircraft",
     "VehicleClass": "Fighter"
   },
@@ -2575,7 +2575,7 @@
     "Premium": false,
     "PremiumLabel": "",
     "ImagePath": "pack://application:,,,/Images/Aircraft/La-174 (Fighter).png",
-    "PlaneName": "La-174",
+    "VehicleName": "La-174",
     "VehicleType": "Aircraft",
     "VehicleClass": "Fighter"
   },
@@ -2585,7 +2585,7 @@
     "Premium": false,
     "PremiumLabel": "",
     "ImagePath": "pack://application:,,,/Images/Aircraft/MiG-9 (Fighter).png",
-    "PlaneName": "MiG-9",
+    "VehicleName": "MiG-9",
     "VehicleType": "Aircraft",
     "VehicleClass": "Fighter"
   },
@@ -2595,7 +2595,7 @@
     "Premium": false,
     "PremiumLabel": "",
     "ImagePath": "pack://application:,,,/Images/Aircraft/MiG-9 Late (Fighter).png",
-    "PlaneName": "MiG-9 Late",
+    "VehicleName": "MiG-9 Late",
     "VehicleType": "Aircraft",
     "VehicleClass": "Fighter"
   },
@@ -2605,7 +2605,7 @@
     "Premium": false,
     "PremiumLabel": "",
     "ImagePath": "pack://application:,,,/Images/Aircraft/MiG-15 (Fighter).png",
-    "PlaneName": "MiG-15",
+    "VehicleName": "MiG-15",
     "VehicleType": "Aircraft",
     "VehicleClass": "Fighter"
   },
@@ -2615,7 +2615,7 @@
     "Premium": false,
     "PremiumLabel": "",
     "ImagePath": "pack://application:,,,/Images/Aircraft/MiG-15bis (Fighter).png",
-    "PlaneName": "MiG-15bis",
+    "VehicleName": "MiG-15bis",
     "VehicleType": "Aircraft",
     "VehicleClass": "Fighter"
   },
@@ -2625,7 +2625,7 @@
     "Premium": false,
     "PremiumLabel": "",
     "ImagePath": "pack://application:,,,/Images/Aircraft/Yak-15 (Fighter).png",
-    "PlaneName": "Yak-15",
+    "VehicleName": "Yak-15",
     "VehicleType": "Aircraft",
     "VehicleClass": "Fighter"
   },
@@ -2635,7 +2635,7 @@
     "Premium": false,
     "PremiumLabel": "",
     "ImagePath": "pack://application:,,,/Images/Aircraft/Yak-15P (Fighter).png",
-    "PlaneName": "Yak-15P",
+    "VehicleName": "Yak-15P",
     "VehicleType": "Aircraft",
     "VehicleClass": "Fighter"
   },
@@ -2645,7 +2645,7 @@
     "Premium": false,
     "PremiumLabel": "",
     "ImagePath": "pack://application:,,,/Images/Aircraft/Yak-17 (Fighter).png",
-    "PlaneName": "Yak-17",
+    "VehicleName": "Yak-17",
     "VehicleType": "Aircraft",
     "VehicleClass": "Fighter"
   },
@@ -2655,7 +2655,7 @@
     "Premium": false,
     "PremiumLabel": "",
     "ImagePath": "pack://application:,,,/Images/Aircraft/Beaufort Mk VIII (Bomber).png",
-    "PlaneName": "Beaufort Mk VIII",
+    "VehicleName": "Beaufort Mk VIII",
     "VehicleType": "Aircraft",
     "VehicleClass": "Bomber"
   },
@@ -2665,7 +2665,7 @@
     "Premium": false,
     "PremiumLabel": "",
     "ImagePath": "pack://application:,,,/Images/Aircraft/Blenheim Mk IV (Bomber).png",
-    "PlaneName": "Blenheim Mk IV",
+    "VehicleName": "Blenheim Mk IV",
     "VehicleType": "Aircraft",
     "VehicleClass": "Bomber"
   },
@@ -2675,7 +2675,7 @@
     "Premium": true,
     "PremiumLabel": "Premium",
     "ImagePath": "pack://application:,,,/Images/Aircraft/Boston Mk I (Prem) (Bomber).png",
-    "PlaneName": "Boston Mk I",
+    "VehicleName": "Boston Mk I",
     "VehicleType": "Aircraft",
     "VehicleClass": "Bomber"
   },
@@ -2685,7 +2685,7 @@
     "Premium": true,
     "PremiumLabel": "Premium",
     "ImagePath": "pack://application:,,,/Images/Aircraft/Catalina Mk. IVa (Prem) (Bomber).png",
-    "PlaneName": "Catalina Mk. IVa",
+    "VehicleName": "Catalina Mk. IVa",
     "VehicleType": "Aircraft",
     "VehicleClass": "Bomber"
   },
@@ -2695,7 +2695,7 @@
     "Premium": false,
     "PremiumLabel": "",
     "ImagePath": "pack://application:,,,/Images/Aircraft/Fury Mk I (Fighter).png",
-    "PlaneName": "Fury Mk I",
+    "VehicleName": "Fury Mk I",
     "VehicleType": "Aircraft",
     "VehicleClass": "Fighter"
   },
@@ -2705,7 +2705,7 @@
     "Premium": false,
     "PremiumLabel": "",
     "ImagePath": "pack://application:,,,/Images/Aircraft/Fury Mk II (Fighter).png",
-    "PlaneName": "Fury Mk II",
+    "VehicleName": "Fury Mk II",
     "VehicleType": "Aircraft",
     "VehicleClass": "Fighter"
   },
@@ -2715,7 +2715,7 @@
     "Premium": false,
     "PremiumLabel": "",
     "ImagePath": "pack://application:,,,/Images/Aircraft/Gladiator Mk II (Fighter).png",
-    "PlaneName": "Gladiator Mk II",
+    "VehicleName": "Gladiator Mk II",
     "VehicleType": "Aircraft",
     "VehicleClass": "Fighter"
   },
@@ -2725,7 +2725,7 @@
     "Premium": true,
     "PremiumLabel": "Premium",
     "ImagePath": "pack://application:,,,/Images/Aircraft/Gladiator Mk IIF (Prem) (Fighter).png",
-    "PlaneName": "Gladiator Mk IIF",
+    "VehicleName": "Gladiator Mk IIF",
     "VehicleType": "Aircraft",
     "VehicleClass": "Fighter"
   },
@@ -2735,7 +2735,7 @@
     "Premium": true,
     "PremiumLabel": "Premium",
     "ImagePath": "pack://application:,,,/Images/Aircraft/Gladiator Mk IIS (Prem) (Fighter).png",
-    "PlaneName": "Gladiator Mk IIS",
+    "VehicleName": "Gladiator Mk IIS",
     "VehicleType": "Aircraft",
     "VehicleClass": "Fighter"
   },
@@ -2745,7 +2745,7 @@
     "Premium": false,
     "PremiumLabel": "",
     "ImagePath": "pack://application:,,,/Images/Aircraft/Hurricane Mk I Late (Fighter).png",
-    "PlaneName": "Hurricane Mk I Late",
+    "VehicleName": "Hurricane Mk I Late",
     "VehicleType": "Aircraft",
     "VehicleClass": "Fighter"
   },
@@ -2755,7 +2755,7 @@
     "Premium": false,
     "PremiumLabel": "",
     "ImagePath": "pack://application:,,,/Images/Aircraft/Nimrod Mk I (Fighter).png",
-    "PlaneName": "Nimrod Mk I",
+    "VehicleName": "Nimrod Mk I",
     "VehicleType": "Aircraft",
     "VehicleClass": "Fighter"
   },
@@ -2765,7 +2765,7 @@
     "Premium": false,
     "PremiumLabel": "",
     "ImagePath": "pack://application:,,,/Images/Aircraft/Nimrod Mk II (Fighter).png",
-    "PlaneName": "Nimrod Mk II",
+    "VehicleName": "Nimrod Mk II",
     "VehicleType": "Aircraft",
     "VehicleClass": "Fighter"
   },
@@ -2775,7 +2775,7 @@
     "Premium": false,
     "PremiumLabel": "",
     "ImagePath": "pack://application:,,,/Images/Aircraft/Swordfish Mk I (Bomber).png",
-    "PlaneName": "Swordfish Mk I",
+    "VehicleName": "Swordfish Mk I",
     "VehicleType": "Aircraft",
     "VehicleClass": "Bomber"
   },
@@ -2785,7 +2785,7 @@
     "Premium": false,
     "PremiumLabel": "",
     "ImagePath": "pack://application:,,,/Images/Aircraft/Sea Gladiator Mk.I (Fighter).png",
-    "PlaneName": "Sea Gladiator Mk.I",
+    "VehicleName": "Sea Gladiator Mk.I",
     "VehicleType": "Aircraft",
     "VehicleClass": "Fighter"
   },
@@ -2795,7 +2795,7 @@
     "Premium": false,
     "PremiumLabel": "",
     "ImagePath": "pack://application:,,,/Images/Aircraft/Tuck's Gladiator Mk.II (Fighter).png",
-    "PlaneName": "Tuck's Gladiator Mk.II",
+    "VehicleName": "Tuck's Gladiator Mk.II",
     "VehicleType": "Aircraft",
     "VehicleClass": "Fighter"
   },
@@ -2805,7 +2805,7 @@
     "Premium": true,
     "PremiumLabel": "Premium",
     "ImagePath": "pack://application:,,,/Images/Aircraft/Wirraway (Prem) (Bomber).png",
-    "PlaneName": "Wirraway",
+    "VehicleName": "Wirraway",
     "VehicleType": "Aircraft",
     "VehicleClass": "Bomber"
   },
@@ -2815,7 +2815,7 @@
     "Premium": true,
     "PremiumLabel": "Premium",
     "ImagePath": "pack://application:,,,/Images/Aircraft/Avenger Mk.1 (Prem) (Bomber).png",
-    "PlaneName": "Avenger Mk.1",
+    "VehicleName": "Avenger Mk.1",
     "VehicleType": "Aircraft",
     "VehicleClass": "Bomber"
   },
@@ -2825,7 +2825,7 @@
     "Premium": false,
     "PremiumLabel": "",
     "ImagePath": "pack://application:,,,/Images/Aircraft/Beaufighter Mk VIc (Attacker).png",
-    "PlaneName": "Beaufighter Mk VIc",
+    "VehicleName": "Beaufighter Mk VIc",
     "VehicleType": "Aircraft",
     "VehicleClass": "Attacker"
   },
@@ -2835,7 +2835,7 @@
     "Premium": true,
     "PremiumLabel": "Premium",
     "ImagePath": "pack://application:,,,/Images/Aircraft/Boomerang Mk I (Prem) (Fighter).png",
-    "PlaneName": "Boomerang Mk I",
+    "VehicleName": "Boomerang Mk I",
     "VehicleType": "Aircraft",
     "VehicleClass": "Fighter"
   },
@@ -2845,7 +2845,7 @@
     "Premium": true,
     "PremiumLabel": "Premium",
     "ImagePath": "pack://application:,,,/Images/Aircraft/Boomerang Mk II (Prem) (Fighter).png",
-    "PlaneName": "Boomerang Mk II",
+    "VehicleName": "Boomerang Mk II",
     "VehicleType": "Aircraft",
     "VehicleClass": "Fighter"
   },
@@ -2855,7 +2855,7 @@
     "Premium": true,
     "PremiumLabel": "Premium",
     "ImagePath": "pack://application:,,,/Images/Aircraft/D.520 (Prem) (Fighter).png",
-    "PlaneName": "D.520",
+    "VehicleName": "D.520",
     "VehicleType": "Aircraft",
     "VehicleClass": "Fighter"
   },
@@ -2865,7 +2865,7 @@
     "Premium": true,
     "PremiumLabel": "Premium",
     "ImagePath": "pack://application:,,,/Images/Aircraft/D.521 (Prem) (Fighter).png",
-    "PlaneName": "D.521",
+    "VehicleName": "D.521",
     "VehicleType": "Aircraft",
     "VehicleClass": "Fighter"
   },
@@ -2875,7 +2875,7 @@
     "Premium": true,
     "PremiumLabel": "Premium",
     "ImagePath": "pack://application:,,,/Images/Aircraft/DB-7 (Prem) (Bomber).png",
-    "PlaneName": "DB-7",
+    "VehicleName": "DB-7",
     "VehicleType": "Aircraft",
     "VehicleClass": "Bomber"
   },
@@ -2885,7 +2885,7 @@
     "Premium": false,
     "PremiumLabel": "",
     "ImagePath": "pack://application:,,,/Images/Aircraft/Hurricane Mk IIB (Fighter).png",
-    "PlaneName": "Hurricane Mk IIB",
+    "VehicleName": "Hurricane Mk IIB",
     "VehicleType": "Aircraft",
     "VehicleClass": "Fighter"
   },
@@ -2895,7 +2895,7 @@
     "Premium": false,
     "PremiumLabel": "",
     "ImagePath": "pack://application:,,,/Images/Aircraft/Sea Hurricane Mk.IB (Fighter).png",
-    "PlaneName": "Sea Hurricane Mk.IB",
+    "VehicleName": "Sea Hurricane Mk.IB",
     "VehicleType": "Aircraft",
     "VehicleClass": "Fighter"
   },
@@ -2905,7 +2905,7 @@
     "Premium": false,
     "PremiumLabel": "",
     "ImagePath": "pack://application:,,,/Images/Aircraft/Sea Hurricane Mk.IС (Fighter).png",
-    "PlaneName": "Sea Hurricane Mk.IС",
+    "VehicleName": "Sea Hurricane Mk.IС",
     "VehicleType": "Aircraft",
     "VehicleClass": "Fighter"
   },
@@ -2915,7 +2915,7 @@
     "Premium": false,
     "PremiumLabel": "",
     "ImagePath": "pack://application:,,,/Images/Aircraft/Hurricane Mk IV (Fighter).png",
-    "PlaneName": "Hurricane Mk IV",
+    "VehicleName": "Hurricane Mk IV",
     "VehicleType": "Aircraft",
     "VehicleClass": "Fighter"
   },
@@ -2925,7 +2925,7 @@
     "Premium": false,
     "PremiumLabel": "",
     "ImagePath": "pack://application:,,,/Images/Aircraft/Spitfire Mk. Ia (Fighter).png",
-    "PlaneName": "Spitfire Mk. Ia",
+    "VehicleName": "Spitfire Mk. Ia",
     "VehicleType": "Aircraft",
     "VehicleClass": "Fighter"
   },
@@ -2935,7 +2935,7 @@
     "Premium": false,
     "PremiumLabel": "",
     "ImagePath": "pack://application:,,,/Images/Aircraft/Spitfire Mk IIa (Fighter).png",
-    "PlaneName": "Spitfire Mk IIa",
+    "VehicleName": "Spitfire Mk IIa",
     "VehicleType": "Aircraft",
     "VehicleClass": "Fighter"
   },
@@ -2945,7 +2945,7 @@
     "Premium": false,
     "PremiumLabel": "",
     "ImagePath": "pack://application:,,,/Images/Aircraft/Spitfire Mk IIb (Fighter).png",
-    "PlaneName": "Spitfire Mk IIb",
+    "VehicleName": "Spitfire Mk IIb",
     "VehicleType": "Aircraft",
     "VehicleClass": "Fighter"
   },
@@ -2955,7 +2955,7 @@
     "Premium": false,
     "PremiumLabel": "",
     "ImagePath": "pack://application:,,,/Images/Aircraft/Typhoon Mk.1a (Fighter).png",
-    "PlaneName": "Typhoon Mk.1a",
+    "VehicleName": "Typhoon Mk.1a",
     "VehicleType": "Aircraft",
     "VehicleClass": "Fighter"
   },
@@ -2965,7 +2965,7 @@
     "Premium": false,
     "PremiumLabel": "",
     "ImagePath": "pack://application:,,,/Images/Aircraft/Wellington Mk Ic (Bomber).png",
-    "PlaneName": "Wellington Mk Ic",
+    "VehicleName": "Wellington Mk Ic",
     "VehicleType": "Aircraft",
     "VehicleClass": "Bomber"
   },
@@ -2975,7 +2975,7 @@
     "Premium": false,
     "PremiumLabel": "",
     "ImagePath": "pack://application:,,,/Images/Aircraft/Wellington Mk Ic Late (Bomber).png",
-    "PlaneName": "Wellington Mk Ic Late",
+    "VehicleName": "Wellington Mk Ic Late",
     "VehicleType": "Aircraft",
     "VehicleClass": "Bomber"
   },
@@ -2985,7 +2985,7 @@
     "Premium": false,
     "PremiumLabel": "",
     "ImagePath": "pack://application:,,,/Images/Aircraft/Beaufighter Mk X (Attacker).png",
-    "PlaneName": "Beaufighter Mk X",
+    "VehicleName": "Beaufighter Mk X",
     "VehicleType": "Aircraft",
     "VehicleClass": "Attacker"
   },
@@ -2995,7 +2995,7 @@
     "Premium": false,
     "PremiumLabel": "",
     "ImagePath": "pack://application:,,,/Images/Aircraft/Beaufighter Mk 21 (Attacker).png",
-    "PlaneName": "Beaufighter Mk 21",
+    "VehicleName": "Beaufighter Mk 21",
     "VehicleType": "Aircraft",
     "VehicleClass": "Attacker"
   },
@@ -3005,7 +3005,7 @@
     "Premium": false,
     "PremiumLabel": "",
     "ImagePath": "pack://application:,,,/Images/Aircraft/Firebrand TF Mk IV (Fighter).png",
-    "PlaneName": "Firebrand TF Mk IV",
+    "VehicleName": "Firebrand TF Mk IV",
     "VehicleType": "Aircraft",
     "VehicleClass": "Fighter"
   },
@@ -3015,7 +3015,7 @@
     "Premium": false,
     "PremiumLabel": "",
     "ImagePath": "pack://application:,,,/Images/Aircraft/Firefly F Mk.I (Fighter).png",
-    "PlaneName": "Firefly F Mk.I",
+    "VehicleName": "Firefly F Mk.I",
     "VehicleType": "Aircraft",
     "VehicleClass": "Fighter"
   },
@@ -3025,7 +3025,7 @@
     "Premium": false,
     "PremiumLabel": "",
     "ImagePath": "pack://application:,,,/Images/Aircraft/Firefly FR Mk V (Fighter).png",
-    "PlaneName": "Firefly FR Mk V",
+    "VehicleName": "Firefly FR Mk V",
     "VehicleType": "Aircraft",
     "VehicleClass": "Fighter"
   },
@@ -3035,7 +3035,7 @@
     "Premium": true,
     "PremiumLabel": "Premium",
     "ImagePath": "pack://application:,,,/Images/Aircraft/Hellcat Mk.I (Prem) (Fighter).png",
-    "PlaneName": "Hellcat Mk.I",
+    "VehicleName": "Hellcat Mk.I",
     "VehicleType": "Aircraft",
     "VehicleClass": "Fighter"
   },
@@ -3045,7 +3045,7 @@
     "Premium": true,
     "PremiumLabel": "Premium",
     "ImagePath": "pack://application:,,,/Images/Aircraft/Mustang Mk IA (Prem) (Fighter).png",
-    "PlaneName": "Mustang Mk IA",
+    "VehicleName": "Mustang Mk IA",
     "VehicleType": "Aircraft",
     "VehicleClass": "Fighter"
   },
@@ -3055,7 +3055,7 @@
     "Premium": false,
     "PremiumLabel": "",
     "ImagePath": "pack://application:,,,/Images/Aircraft/Spitfire Mk Vb trop (Fighter).png",
-    "PlaneName": "Spitfire Mk Vb trop",
+    "VehicleName": "Spitfire Mk Vb trop",
     "VehicleType": "Aircraft",
     "VehicleClass": "Fighter"
   },
@@ -3065,7 +3065,7 @@
     "Premium": false,
     "PremiumLabel": "",
     "ImagePath": "pack://application:,,,/Images/Aircraft/Spitfire Mk Vc (Fighter).png",
-    "PlaneName": "Spitfire Mk Vc",
+    "VehicleName": "Spitfire Mk Vc",
     "VehicleType": "Aircraft",
     "VehicleClass": "Fighter"
   },
@@ -3075,7 +3075,7 @@
     "Premium": false,
     "PremiumLabel": "",
     "ImagePath": "pack://application:,,,/Images/Aircraft/Spitfire F. Mk IX (Fighter).png",
-    "PlaneName": "Spitfire F. Mk IX",
+    "VehicleName": "Spitfire F. Mk IX",
     "VehicleType": "Aircraft",
     "VehicleClass": "Fighter"
   },
@@ -3085,7 +3085,7 @@
     "Premium": true,
     "PremiumLabel": "Premium",
     "ImagePath": "pack://application:,,,/Images/Aircraft/Typhoon Mk 1b (Prem) (Fighter).png",
-    "PlaneName": "Typhoon Mk 1b",
+    "VehicleName": "Typhoon Mk 1b",
     "VehicleType": "Aircraft",
     "VehicleClass": "Fighter"
   },
@@ -3095,7 +3095,7 @@
     "Premium": false,
     "PremiumLabel": "",
     "ImagePath": "pack://application:,,,/Images/Aircraft/Typhoon Mk 1b Late (Fighter).png",
-    "PlaneName": "Typhoon Mk 1b Late",
+    "VehicleName": "Typhoon Mk 1b Late",
     "VehicleType": "Aircraft",
     "VehicleClass": "Fighter"
   },
@@ -3105,7 +3105,7 @@
     "Premium": false,
     "PremiumLabel": "",
     "ImagePath": "pack://application:,,,/Images/Aircraft/Wellington Mk.III (Bomber).png",
-    "PlaneName": "Wellington Mk.III",
+    "VehicleName": "Wellington Mk.III",
     "VehicleType": "Aircraft",
     "VehicleClass": "Bomber"
   },
@@ -3115,7 +3115,7 @@
     "Premium": false,
     "PremiumLabel": "",
     "ImagePath": "pack://application:,,,/Images/Aircraft/Lancaster B Mk I (Bomber).png",
-    "PlaneName": "Lancaster B Mk I",
+    "VehicleName": "Lancaster B Mk I",
     "VehicleType": "Aircraft",
     "VehicleClass": "Bomber"
   },
@@ -3125,7 +3125,7 @@
     "Premium": false,
     "PremiumLabel": "",
     "ImagePath": "pack://application:,,,/Images/Aircraft/Lancaster B Mk III (Bomber).png",
-    "PlaneName": "Lancaster B Mk III",
+    "VehicleName": "Lancaster B Mk III",
     "VehicleType": "Aircraft",
     "VehicleClass": "Bomber"
   },
@@ -3135,7 +3135,7 @@
     "Premium": false,
     "PremiumLabel": "",
     "ImagePath": "pack://application:,,,/Images/Aircraft/Mosquito FB Mk VI (Attacker).png",
-    "PlaneName": "Mosquito FB Mk VI",
+    "VehicleName": "Mosquito FB Mk VI",
     "VehicleType": "Aircraft",
     "VehicleClass": "Attacker"
   },
@@ -3145,7 +3145,7 @@
     "Premium": false,
     "PremiumLabel": "",
     "ImagePath": "pack://application:,,,/Images/Aircraft/Mosquito FB Mk XVIII (Attacker).png",
-    "PlaneName": "Mosquito FB Mk XVIII",
+    "VehicleName": "Mosquito FB Mk XVIII",
     "VehicleType": "Aircraft",
     "VehicleClass": "Attacker"
   },
@@ -3155,7 +3155,7 @@
     "Premium": true,
     "PremiumLabel": "Premium",
     "ImagePath": "pack://application:,,,/Images/Aircraft/Prendergast's Spitfire FR Mk.XIVe (Prem) (Fighter).png",
-    "PlaneName": "Prendergast's Spitfire FR Mk.XIVe",
+    "VehicleName": "Prendergast's Spitfire FR Mk.XIVe",
     "VehicleType": "Aircraft",
     "VehicleClass": "Fighter"
   },
@@ -3165,7 +3165,7 @@
     "Premium": true,
     "PremiumLabel": "Premium",
     "ImagePath": "pack://application:,,,/Images/Aircraft/Plagis' Spitfire LF. Mk IX (Prem) (Fighter).png",
-    "PlaneName": "Plagis' Spitfire LF. Mk IX",
+    "VehicleName": "Plagis' Spitfire LF. Mk IX",
     "VehicleType": "Aircraft",
     "VehicleClass": "Fighter"
   },
@@ -3175,7 +3175,7 @@
     "Premium": false,
     "PremiumLabel": "",
     "ImagePath": "pack://application:,,,/Images/Aircraft/Sea Fury FB 11 (Fighter).png",
-    "PlaneName": "Sea Fury FB 11",
+    "VehicleName": "Sea Fury FB 11",
     "VehicleType": "Aircraft",
     "VehicleClass": "Fighter"
   },
@@ -3185,7 +3185,7 @@
     "Premium": false,
     "PremiumLabel": "",
     "ImagePath": "pack://application:,,,/Images/Aircraft/Seafire FR 47 (Fighter).png",
-    "PlaneName": "Seafire FR 47",
+    "VehicleName": "Seafire FR 47",
     "VehicleType": "Aircraft",
     "VehicleClass": "Fighter"
   },
@@ -3195,7 +3195,7 @@
     "Premium": false,
     "PremiumLabel": "",
     "ImagePath": "pack://application:,,,/Images/Aircraft/Seafire Mk XVII (Fighter).png",
-    "PlaneName": "Seafire Mk XVII",
+    "VehicleName": "Seafire Mk XVII",
     "VehicleType": "Aircraft",
     "VehicleClass": "Fighter"
   },
@@ -3205,7 +3205,7 @@
     "Premium": false,
     "PremiumLabel": "",
     "ImagePath": "pack://application:,,,/Images/Aircraft/Spitfire F Mk.22 (Fighter).png",
-    "PlaneName": "Spitfire F Mk.22",
+    "VehicleName": "Spitfire F Mk.22",
     "VehicleType": "Aircraft",
     "VehicleClass": "Fighter"
   },
@@ -3215,7 +3215,7 @@
     "Premium": false,
     "PremiumLabel": "",
     "ImagePath": "pack://application:,,,/Images/Aircraft/Spitfire F Mk.24 (Fighter).png",
-    "PlaneName": "Spitfire F Mk.24",
+    "VehicleName": "Spitfire F Mk.24",
     "VehicleType": "Aircraft",
     "VehicleClass": "Fighter"
   },
@@ -3225,7 +3225,7 @@
     "Premium": false,
     "PremiumLabel": "",
     "ImagePath": "pack://application:,,,/Images/Aircraft/Spitfire F Mk.XIVc (Fighter).png",
-    "PlaneName": "Spitfire F Mk.XIVc",
+    "VehicleName": "Spitfire F Mk.XIVc",
     "VehicleType": "Aircraft",
     "VehicleClass": "Fighter"
   },
@@ -3235,7 +3235,7 @@
     "Premium": false,
     "PremiumLabel": "",
     "ImagePath": "pack://application:,,,/Images/Aircraft/Spitfire F Mk.XIVe (Fighter).png",
-    "PlaneName": "Spitfire F Mk.XIVe",
+    "VehicleName": "Spitfire F Mk.XIVe",
     "VehicleType": "Aircraft",
     "VehicleClass": "Fighter"
   },
@@ -3245,7 +3245,7 @@
     "Premium": false,
     "PremiumLabel": "",
     "ImagePath": "pack://application:,,,/Images/Aircraft/Spitfire F Mk.XVIIIe (Fighter).png",
-    "PlaneName": "Spitfire F Mk.XVIIIe",
+    "VehicleName": "Spitfire F Mk.XVIIIe",
     "VehicleType": "Aircraft",
     "VehicleClass": "Fighter"
   },
@@ -3255,7 +3255,7 @@
     "Premium": false,
     "PremiumLabel": "",
     "ImagePath": "pack://application:,,,/Images/Aircraft/Spitfire F. Mk XVI (Fighter).png",
-    "PlaneName": "Spitfire F. Mk XVI",
+    "VehicleName": "Spitfire F. Mk XVI",
     "VehicleType": "Aircraft",
     "VehicleClass": "Fighter"
   },
@@ -3265,7 +3265,7 @@
     "Premium": false,
     "PremiumLabel": "",
     "ImagePath": "pack://application:,,,/Images/Aircraft/Spitfire LF. Mk IX (Fighter).png",
-    "PlaneName": "Spitfire LF. Mk IX",
+    "VehicleName": "Spitfire LF. Mk IX",
     "VehicleType": "Aircraft",
     "VehicleClass": "Fighter"
   },
@@ -3275,7 +3275,7 @@
     "Premium": false,
     "PremiumLabel": "",
     "ImagePath": "pack://application:,,,/Images/Aircraft/Tempest Mk II (Fighter).png",
-    "PlaneName": "Tempest Mk II",
+    "VehicleName": "Tempest Mk II",
     "VehicleType": "Aircraft",
     "VehicleClass": "Fighter"
   },
@@ -3285,7 +3285,7 @@
     "Premium": false,
     "PremiumLabel": "",
     "ImagePath": "pack://application:,,,/Images/Aircraft/Tempest Mk V (Fighter).png",
-    "PlaneName": "Tempest Mk V",
+    "VehicleName": "Tempest Mk V",
     "VehicleType": "Aircraft",
     "VehicleClass": "Fighter"
   },
@@ -3295,7 +3295,7 @@
     "Premium": false,
     "PremiumLabel": "",
     "ImagePath": "pack://application:,,,/Images/Aircraft/Tempest Mk.V Vickers P (Attacker).png",
-    "PlaneName": "Tempest Mk.V Vickers P",
+    "VehicleName": "Tempest Mk.V Vickers P",
     "VehicleType": "Aircraft",
     "VehicleClass": "Attacker"
   },
@@ -3305,7 +3305,7 @@
     "Premium": false,
     "PremiumLabel": "",
     "ImagePath": "pack://application:,,,/Images/Aircraft/Wellington Mk X (Bomber).png",
-    "PlaneName": "Wellington Mk X",
+    "VehicleName": "Wellington Mk X",
     "VehicleType": "Aircraft",
     "VehicleClass": "Bomber"
   },
@@ -3315,7 +3315,7 @@
     "Premium": false,
     "PremiumLabel": "",
     "ImagePath": "pack://application:,,,/Images/Aircraft/Attacker FB 1 (Fighter).png",
-    "PlaneName": "Attacker FB 1",
+    "VehicleName": "Attacker FB 1",
     "VehicleType": "Aircraft",
     "VehicleClass": "Fighter"
   },
@@ -3325,7 +3325,7 @@
     "Premium": false,
     "PremiumLabel": "",
     "ImagePath": "pack://application:,,,/Images/Aircraft/Canberra B (I) Mk. 6 (Bomber).png",
-    "PlaneName": "Canberra B",
+    "VehicleName": "Canberra B",
     "VehicleType": "Aircraft",
     "VehicleClass": "Bomber"
   },
@@ -3335,7 +3335,7 @@
     "Premium": false,
     "PremiumLabel": "",
     "ImagePath": "pack://application:,,,/Images/Aircraft/Canberra B Mk.2 (Bomber).png",
-    "PlaneName": "Canberra B Mk.2",
+    "VehicleName": "Canberra B Mk.2",
     "VehicleType": "Aircraft",
     "VehicleClass": "Bomber"
   },
@@ -3345,7 +3345,7 @@
     "Premium": false,
     "PremiumLabel": "",
     "ImagePath": "pack://application:,,,/Images/Aircraft/Meteor F. Mk.3 (Fighter).png",
-    "PlaneName": "Meteor F. Mk.3",
+    "VehicleName": "Meteor F. Mk.3",
     "VehicleType": "Aircraft",
     "VehicleClass": "Fighter"
   },
@@ -3355,7 +3355,7 @@
     "Premium": false,
     "PremiumLabel": "",
     "ImagePath": "pack://application:,,,/Images/Aircraft/Meteor F. Mk.4 type G.41F (Fighter).png",
-    "PlaneName": "Meteor F. Mk.4 type G.41F",
+    "VehicleName": "Meteor F. Mk.4 type G.41F",
     "VehicleType": "Aircraft",
     "VehicleClass": "Fighter"
   },
@@ -3365,7 +3365,7 @@
     "Premium": false,
     "PremiumLabel": "",
     "ImagePath": "pack://application:,,,/Images/Aircraft/Meteor F. Mk.4 type G.41G (Fighter).png",
-    "PlaneName": "Meteor F. Mk.4 type G.41G",
+    "VehicleName": "Meteor F. Mk.4 type G.41G",
     "VehicleType": "Aircraft",
     "VehicleClass": "Fighter"
   },
@@ -3375,7 +3375,7 @@
     "Premium": false,
     "PremiumLabel": "",
     "ImagePath": "pack://application:,,,/Images/Aircraft/Meteor F. Mk.8 (Fighter).png",
-    "PlaneName": "Meteor F. Mk.8",
+    "VehicleName": "Meteor F. Mk.8",
     "VehicleType": "Aircraft",
     "VehicleClass": "Fighter"
   },
@@ -3385,7 +3385,7 @@
     "Premium": false,
     "PremiumLabel": "",
     "ImagePath": "pack://application:,,,/Images/Aircraft/Sea Meteor F. Mk.3 (Fighter).png",
-    "PlaneName": "Sea Meteor F. Mk.3",
+    "VehicleName": "Sea Meteor F. Mk.3",
     "VehicleType": "Aircraft",
     "VehicleClass": "Fighter"
   },
@@ -3395,7 +3395,7 @@
     "Premium": false,
     "PremiumLabel": "",
     "ImagePath": "pack://application:,,,/Images/Aircraft/Vampire FB.5 (Fighter).png",
-    "PlaneName": "Vampire FB.5",
+    "VehicleName": "Vampire FB.5",
     "VehicleType": "Aircraft",
     "VehicleClass": "Fighter"
   },
@@ -3405,7 +3405,7 @@
     "Premium": false,
     "PremiumLabel": "",
     "ImagePath": "pack://application:,,,/Images/Aircraft/Venom FB.4 (Fighter).png",
-    "PlaneName": "Venom FB.4",
+    "VehicleName": "Venom FB.4",
     "VehicleType": "Aircraft",
     "VehicleClass": "Fighter"
   },
@@ -3415,7 +3415,7 @@
     "Premium": false,
     "PremiumLabel": "",
     "ImagePath": "pack://application:,,,/Images/Aircraft/A5M4 (Fighter).png",
-    "PlaneName": "A5M4",
+    "VehicleName": "A5M4",
     "VehicleType": "Aircraft",
     "VehicleClass": "Fighter"
   },
@@ -3425,7 +3425,7 @@
     "Premium": true,
     "PremiumLabel": "Premium",
     "ImagePath": "pack://application:,,,/Images/Aircraft/A7He1 (Prem) (Fighter).png",
-    "PlaneName": "A7He1",
+    "VehicleName": "A7He1",
     "VehicleType": "Aircraft",
     "VehicleClass": "Fighter"
   },
@@ -3435,7 +3435,7 @@
     "Premium": false,
     "PremiumLabel": "",
     "ImagePath": "pack://application:,,,/Images/Aircraft/D3A1 (Bomber).png",
-    "PlaneName": "D3A1",
+    "VehicleName": "D3A1",
     "VehicleType": "Aircraft",
     "VehicleClass": "Bomber"
   },
@@ -3445,7 +3445,7 @@
     "Premium": false,
     "PremiumLabel": "",
     "ImagePath": "pack://application:,,,/Images/Aircraft/H6K4 (Bomber).png",
-    "PlaneName": "H6K4",
+    "VehicleName": "H6K4",
     "VehicleType": "Aircraft",
     "VehicleClass": "Bomber"
   },
@@ -3455,7 +3455,7 @@
     "Premium": true,
     "PremiumLabel": "Premium",
     "ImagePath": "pack://application:,,,/Images/Aircraft/Hagiri's A5M4 (Prem) (Fighter).png",
-    "PlaneName": "Hagiri's A5M4",
+    "VehicleName": "Hagiri's A5M4",
     "VehicleType": "Aircraft",
     "VehicleClass": "Fighter"
   },
@@ -3465,7 +3465,7 @@
     "Premium": false,
     "PremiumLabel": "",
     "ImagePath": "pack://application:,,,/Images/Aircraft/Ki-10-I (Fighter).png",
-    "PlaneName": "Ki-10-I",
+    "VehicleName": "Ki-10-I",
     "VehicleType": "Aircraft",
     "VehicleClass": "Fighter"
   },
@@ -3475,7 +3475,7 @@
     "Premium": false,
     "PremiumLabel": "",
     "ImagePath": "pack://application:,,,/Images/Aircraft/Ki-10-II (Fighter).png",
-    "PlaneName": "Ki-10-II",
+    "VehicleName": "Ki-10-II",
     "VehicleType": "Aircraft",
     "VehicleClass": "Fighter"
   },
@@ -3485,7 +3485,7 @@
     "Premium": false,
     "PremiumLabel": "",
     "ImagePath": "pack://application:,,,/Images/Aircraft/Ki-10-II C (Fighter).png",
-    "PlaneName": "Ki-10-II C",
+    "VehicleName": "Ki-10-II C",
     "VehicleType": "Aircraft",
     "VehicleClass": "Fighter"
   },
@@ -3495,7 +3495,7 @@
     "Premium": false,
     "PremiumLabel": "",
     "ImagePath": "pack://application:,,,/Images/Aircraft/Ki-21-Ia (Bomber).png",
-    "PlaneName": "Ki-21-Ia",
+    "VehicleName": "Ki-21-Ia",
     "VehicleType": "Aircraft",
     "VehicleClass": "Bomber"
   },
@@ -3505,7 +3505,7 @@
     "Premium": false,
     "PremiumLabel": "",
     "ImagePath": "pack://application:,,,/Images/Aircraft/Ki-27 otsu (Fighter).png",
-    "PlaneName": "Ki-27 otsu",
+    "VehicleName": "Ki-27 otsu",
     "VehicleType": "Aircraft",
     "VehicleClass": "Fighter"
   },
@@ -3515,7 +3515,7 @@
     "Premium": false,
     "PremiumLabel": "",
     "ImagePath": "pack://application:,,,/Images/Aircraft/Ki-45 ko Toryu (Attacker).png",
-    "PlaneName": "Ki-45 ko Toryu",
+    "VehicleName": "Ki-45 ko Toryu",
     "VehicleType": "Aircraft",
     "VehicleClass": "Attacker"
   },
@@ -3525,7 +3525,7 @@
     "Premium": false,
     "PremiumLabel": "",
     "ImagePath": "pack://application:,,,/Images/Aircraft/A6M2 mod. 11 (Fighter).png",
-    "PlaneName": "A6M2 mod. 11",
+    "VehicleName": "A6M2 mod. 11",
     "VehicleType": "Aircraft",
     "VehicleClass": "Fighter"
   },
@@ -3535,7 +3535,7 @@
     "Premium": false,
     "PremiumLabel": "",
     "ImagePath": "pack://application:,,,/Images/Aircraft/A6M2 Reisen (Fighter).png",
-    "PlaneName": "A6M2 Reisen",
+    "VehicleName": "A6M2 Reisen",
     "VehicleType": "Aircraft",
     "VehicleClass": "Fighter"
   },
@@ -3545,7 +3545,7 @@
     "Premium": false,
     "PremiumLabel": "",
     "ImagePath": "pack://application:,,,/Images/Aircraft/A6M2-N (Fighter).png",
-    "PlaneName": "A6M2-N",
+    "VehicleName": "A6M2-N",
     "VehicleType": "Aircraft",
     "VehicleClass": "Fighter"
   },
@@ -3555,7 +3555,7 @@
     "Premium": false,
     "PremiumLabel": "",
     "ImagePath": "pack://application:,,,/Images/Aircraft/B5N2 (Bomber).png",
-    "PlaneName": "B5N2",
+    "VehicleName": "B5N2",
     "VehicleType": "Aircraft",
     "VehicleClass": "Bomber"
   },
@@ -3565,7 +3565,7 @@
     "Premium": false,
     "PremiumLabel": "",
     "ImagePath": "pack://application:,,,/Images/Aircraft/G4M1 (Bomber).png",
-    "PlaneName": "G4M1",
+    "VehicleName": "G4M1",
     "VehicleType": "Aircraft",
     "VehicleClass": "Bomber"
   },
@@ -3575,7 +3575,7 @@
     "Premium": false,
     "PremiumLabel": "",
     "ImagePath": "pack://application:,,,/Images/Aircraft/J2M2 Raiden (Fighter).png",
-    "PlaneName": "J2M2 Raiden",
+    "VehicleName": "J2M2 Raiden",
     "VehicleType": "Aircraft",
     "VehicleClass": "Fighter"
   },
@@ -3585,7 +3585,7 @@
     "Premium": false,
     "PremiumLabel": "",
     "ImagePath": "pack://application:,,,/Images/Aircraft/Ki-43-I Hayabusa (Fighter).png",
-    "PlaneName": "Ki-43-I Hayabusa",
+    "VehicleName": "Ki-43-I Hayabusa",
     "VehicleType": "Aircraft",
     "VehicleClass": "Fighter"
   },
@@ -3595,7 +3595,7 @@
     "Premium": false,
     "PremiumLabel": "",
     "ImagePath": "pack://application:,,,/Images/Aircraft/Ki-43-II Hayabusa (Fighter).png",
-    "PlaneName": "Ki-43-II Hayabusa",
+    "VehicleName": "Ki-43-II Hayabusa",
     "VehicleType": "Aircraft",
     "VehicleClass": "Fighter"
   },
@@ -3605,7 +3605,7 @@
     "Premium": false,
     "PremiumLabel": "",
     "ImagePath": "pack://application:,,,/Images/Aircraft/Ki-44-I (Fighter).png",
-    "PlaneName": "Ki-44-I",
+    "VehicleName": "Ki-44-I",
     "VehicleType": "Aircraft",
     "VehicleClass": "Fighter"
   },
@@ -3615,7 +3615,7 @@
     "Premium": false,
     "PremiumLabel": "",
     "ImagePath": "pack://application:,,,/Images/Aircraft/Ki-45 hei Toryu (Attacker).png",
-    "PlaneName": "Ki-45 hei Toryu",
+    "VehicleName": "Ki-45 hei Toryu",
     "VehicleType": "Aircraft",
     "VehicleClass": "Attacker"
   },
@@ -3625,7 +3625,7 @@
     "Premium": false,
     "PremiumLabel": "",
     "ImagePath": "pack://application:,,,/Images/Aircraft/Ki-45 otsu Toryu (Attacker).png",
-    "PlaneName": "Ki-45 otsu Toryu",
+    "VehicleName": "Ki-45 otsu Toryu",
     "VehicleType": "Aircraft",
     "VehicleClass": "Attacker"
   },
@@ -3635,7 +3635,7 @@
     "Premium": false,
     "PremiumLabel": "",
     "ImagePath": "pack://application:,,,/Images/Aircraft/Ki-45 tei Toryu (Attacker).png",
-    "PlaneName": "Ki-45 tei Toryu",
+    "VehicleName": "Ki-45 tei Toryu",
     "VehicleType": "Aircraft",
     "VehicleClass": "Attacker"
   },
@@ -3645,7 +3645,7 @@
     "Premium": false,
     "PremiumLabel": "",
     "ImagePath": "pack://application:,,,/Images/Aircraft/Ki-49-I Donryu (Bomber).png",
-    "PlaneName": "Ki-49-I Donryu",
+    "VehicleName": "Ki-49-I Donryu",
     "VehicleType": "Aircraft",
     "VehicleClass": "Bomber"
   },
@@ -3655,7 +3655,7 @@
     "Premium": false,
     "PremiumLabel": "",
     "ImagePath": "pack://application:,,,/Images/Aircraft/Ki-49-IIa Donryu (Bomber).png",
-    "PlaneName": "Ki-49-IIa Donryu",
+    "VehicleName": "Ki-49-IIa Donryu",
     "VehicleType": "Aircraft",
     "VehicleClass": "Bomber"
   },
@@ -3665,7 +3665,7 @@
     "Premium": false,
     "PremiumLabel": "",
     "ImagePath": "pack://application:,,,/Images/Aircraft/Ki-61-I ko Hien (Fighter).png",
-    "PlaneName": "Ki-61-I ko Hien",
+    "VehicleName": "Ki-61-I ko Hien",
     "VehicleType": "Aircraft",
     "VehicleClass": "Fighter"
   },
@@ -3675,7 +3675,7 @@
     "Premium": false,
     "PremiumLabel": "",
     "ImagePath": "pack://application:,,,/Images/Aircraft/Ki-61-I otsu Hien (Fighter).png",
-    "PlaneName": "Ki-61-I otsu Hien",
+    "VehicleName": "Ki-61-I otsu Hien",
     "VehicleType": "Aircraft",
     "VehicleClass": "Fighter"
   },
@@ -3685,7 +3685,7 @@
     "Premium": false,
     "PremiumLabel": "",
     "ImagePath": "pack://application:,,,/Images/Aircraft/B7A2 Ryusei (Bomber).png",
-    "PlaneName": "B7A2 Ryusei",
+    "VehicleName": "B7A2 Ryusei",
     "VehicleType": "Aircraft",
     "VehicleClass": "Bomber"
   },
@@ -3695,7 +3695,7 @@
     "Premium": false,
     "PremiumLabel": "",
     "ImagePath": "pack://application:,,,/Images/Aircraft/A6M3 Reisen (Fighter).png",
-    "PlaneName": "A6M3 Reisen",
+    "VehicleName": "A6M3 Reisen",
     "VehicleType": "Aircraft",
     "VehicleClass": "Fighter"
   },
@@ -3705,7 +3705,7 @@
     "Premium": false,
     "PremiumLabel": "",
     "ImagePath": "pack://application:,,,/Images/Aircraft/A6M3 Reisen mod. 22 (Fighter).png",
-    "PlaneName": "A6M3 Reisen mod. 22",
+    "VehicleName": "A6M3 Reisen mod. 22",
     "VehicleType": "Aircraft",
     "VehicleClass": "Fighter"
   },
@@ -3715,7 +3715,7 @@
     "Premium": false,
     "PremiumLabel": "",
     "ImagePath": "pack://application:,,,/Images/Aircraft/A6M3 Reisen mod. 22Ko (Fighter).png",
-    "PlaneName": "A6M3 Reisen mod. 22Ko",
+    "VehicleName": "A6M3 Reisen mod. 22Ko",
     "VehicleType": "Aircraft",
     "VehicleClass": "Fighter"
   },
@@ -3725,7 +3725,7 @@
     "Premium": false,
     "PremiumLabel": "",
     "ImagePath": "pack://application:,,,/Images/Aircraft/A6M5 otsu (Fighter).png",
-    "PlaneName": "A6M5 otsu",
+    "VehicleName": "A6M5 otsu",
     "VehicleType": "Aircraft",
     "VehicleClass": "Fighter"
   },
@@ -3735,7 +3735,7 @@
     "Premium": false,
     "PremiumLabel": "",
     "ImagePath": "pack://application:,,,/Images/Aircraft/A6M5 Reisen (Fighter).png",
-    "PlaneName": "A6M5 Reisen",
+    "VehicleName": "A6M5 Reisen",
     "VehicleType": "Aircraft",
     "VehicleClass": "Fighter"
   },
@@ -3745,7 +3745,7 @@
     "Premium": true,
     "PremiumLabel": "Premium",
     "ImagePath": "pack://application:,,,/Images/Aircraft/Fw 190 A-5 (Prem) (Fighter).png",
-    "PlaneName": "Fw 190 A-5",
+    "VehicleName": "Fw 190 A-5",
     "VehicleType": "Aircraft",
     "VehicleClass": "Fighter"
   },
@@ -3755,7 +3755,7 @@
     "Premium": false,
     "PremiumLabel": "",
     "ImagePath": "pack://application:,,,/Images/Aircraft/Ki- 102 otsu (Attacker).jpg",
-    "PlaneName": "Ki- 102 otsu",
+    "VehicleName": "Ki- 102 otsu",
     "VehicleType": "Aircraft",
     "VehicleClass": "Attacker"
   },
@@ -3765,7 +3765,7 @@
     "Premium": false,
     "PremiumLabel": "",
     "ImagePath": "pack://application:,,,/Images/Aircraft/Ki-43-III otsu Hayabusa (Fighter).png",
-    "PlaneName": "Ki-43-III otsu Hayabusa",
+    "VehicleName": "Ki-43-III otsu Hayabusa",
     "VehicleType": "Aircraft",
     "VehicleClass": "Fighter"
   },
@@ -3775,7 +3775,7 @@
     "Premium": false,
     "PremiumLabel": "",
     "ImagePath": "pack://application:,,,/Images/Aircraft/Ki-49-IIb Donryu (Bomber).png",
-    "PlaneName": "Ki-49-IIb Donryu",
+    "VehicleName": "Ki-49-IIb Donryu",
     "VehicleType": "Aircraft",
     "VehicleClass": "Bomber"
   },
@@ -3785,7 +3785,7 @@
     "Premium": false,
     "PremiumLabel": "",
     "ImagePath": "pack://application:,,,/Images/Aircraft/Ki-49-IIb Donryu Late (Bomber).png",
-    "PlaneName": "Ki-49-IIb Donryu Late",
+    "VehicleName": "Ki-49-IIb Donryu Late",
     "VehicleType": "Aircraft",
     "VehicleClass": "Bomber"
   },
@@ -3795,7 +3795,7 @@
     "Premium": false,
     "PremiumLabel": "",
     "ImagePath": "pack://application:,,,/Images/Aircraft/Ki-61-I hei Hien (Fighter).png",
-    "PlaneName": "Ki-61-I hei Hien",
+    "VehicleName": "Ki-61-I hei Hien",
     "VehicleType": "Aircraft",
     "VehicleClass": "Fighter"
   },
@@ -3805,7 +3805,7 @@
     "Premium": true,
     "PremiumLabel": "Premium",
     "ImagePath": "pack://application:,,,/Images/Aircraft/Ki-96 (Prem) (Attacker).jpg",
-    "PlaneName": "Ki-96",
+    "VehicleName": "Ki-96",
     "VehicleType": "Aircraft",
     "VehicleClass": "Attacker"
   },
@@ -3815,7 +3815,7 @@
     "Premium": true,
     "PremiumLabel": "Premium",
     "ImagePath": "pack://application:,,,/Images/Aircraft/A6M5 Ko Reisen (Prem) (Fighter).png",
-    "PlaneName": "A6M5 Ko Reisen",
+    "VehicleName": "A6M5 Ko Reisen",
     "VehicleType": "Aircraft",
     "VehicleClass": "Fighter"
   },
@@ -3825,7 +3825,7 @@
     "Premium": true,
     "PremiumLabel": "Premium",
     "ImagePath": "pack://application:,,,/Images/Aircraft/B-17E Flying Fortress (Prem) (Bomber).png",
-    "PlaneName": "B-17E Flying Fortress",
+    "VehicleName": "B-17E Flying Fortress",
     "VehicleType": "Aircraft",
     "VehicleClass": "Bomber"
   },
@@ -3835,7 +3835,7 @@
     "Premium": false,
     "PremiumLabel": "",
     "ImagePath": "pack://application:,,,/Images/Aircraft/G5N1 Shinzan (Bomber).png",
-    "PlaneName": "G5N1 Shinzan",
+    "VehicleName": "G5N1 Shinzan",
     "VehicleType": "Aircraft",
     "VehicleClass": "Bomber"
   },
@@ -3845,7 +3845,7 @@
     "Premium": false,
     "PremiumLabel": "",
     "ImagePath": "pack://application:,,,/Images/Aircraft/G8N1 Renzan (Bomber).png",
-    "PlaneName": "G8N1 Renzan",
+    "VehicleName": "G8N1 Renzan",
     "VehicleType": "Aircraft",
     "VehicleClass": "Bomber"
   },
@@ -3855,7 +3855,7 @@
     "Premium": false,
     "PremiumLabel": "",
     "ImagePath": "pack://application:,,,/Images/Aircraft/J2M3 Raiden (Fighter).png",
-    "PlaneName": "J2M3 Raiden",
+    "VehicleName": "J2M3 Raiden",
     "VehicleType": "Aircraft",
     "VehicleClass": "Fighter"
   },
@@ -3865,7 +3865,7 @@
     "Premium": true,
     "PremiumLabel": "Premium",
     "ImagePath": "pack://application:,,,/Images/Aircraft/J2M4 Kai Raiden (Prem) (Fighter).png",
-    "PlaneName": "J2M4 Kai Raiden",
+    "VehicleName": "J2M4 Kai Raiden",
     "VehicleType": "Aircraft",
     "VehicleClass": "Fighter"
   },
@@ -3875,7 +3875,7 @@
     "Premium": false,
     "PremiumLabel": "",
     "ImagePath": "pack://application:,,,/Images/Aircraft/J2M5 Raiden (Fighter).png",
-    "PlaneName": "J2M5 Raiden",
+    "VehicleName": "J2M5 Raiden",
     "VehicleType": "Aircraft",
     "VehicleClass": "Fighter"
   },
@@ -3885,7 +3885,7 @@
     "Premium": true,
     "PremiumLabel": "Premium",
     "ImagePath": "pack://application:,,,/Images/Aircraft/J2M5 Raiden (Prem) (Fighter).png",
-    "PlaneName": "J2M5 Raiden",
+    "VehicleName": "J2M5 Raiden",
     "VehicleType": "Aircraft",
     "VehicleClass": "Fighter"
   },
@@ -3895,7 +3895,7 @@
     "Premium": false,
     "PremiumLabel": "",
     "ImagePath": "pack://application:,,,/Images/Aircraft/J7W1 Shinden (Fighter).png",
-    "PlaneName": "J7W1 Shinden",
+    "VehicleName": "J7W1 Shinden",
     "VehicleType": "Aircraft",
     "VehicleClass": "Fighter"
   },
@@ -3905,7 +3905,7 @@
     "Premium": false,
     "PremiumLabel": "",
     "ImagePath": "pack://application:,,,/Images/Aircraft/Ki-84 hei Hayate (Fighter).png",
-    "PlaneName": "Ki-84 hei Hayate",
+    "VehicleName": "Ki-84 hei Hayate",
     "VehicleType": "Aircraft",
     "VehicleClass": "Fighter"
   },
@@ -3915,7 +3915,7 @@
     "Premium": false,
     "PremiumLabel": "",
     "ImagePath": "pack://application:,,,/Images/Aircraft/Ki-84 ko Hayate (Fighter).png",
-    "PlaneName": "Ki-84 ko Hayate",
+    "VehicleName": "Ki-84 ko Hayate",
     "VehicleType": "Aircraft",
     "VehicleClass": "Fighter"
   },
@@ -3925,7 +3925,7 @@
     "Premium": false,
     "PremiumLabel": "",
     "ImagePath": "pack://application:,,,/Images/Aircraft/Ki-84 otsu Hayate (Fighter).png",
-    "PlaneName": "Ki-84 otsu Hayate",
+    "VehicleName": "Ki-84 otsu Hayate",
     "VehicleType": "Aircraft",
     "VehicleClass": "Fighter"
   },
@@ -3935,7 +3935,7 @@
     "Premium": false,
     "PremiumLabel": "",
     "ImagePath": "pack://application:,,,/Images/Aircraft/N1K2-J Shiden-Kai (Fighter).png",
-    "PlaneName": "N1K2-J Shiden-Kai",
+    "VehicleName": "N1K2-J Shiden-Kai",
     "VehicleType": "Aircraft",
     "VehicleClass": "Fighter"
   },
@@ -3945,7 +3945,7 @@
     "Premium": false,
     "PremiumLabel": "",
     "ImagePath": "pack://application:,,,/Images/Aircraft/N1K2-Ja Shiden-Kai (Fighter).jpg",
-    "PlaneName": "N1K2-Ja Shiden-Kai",
+    "VehicleName": "N1K2-Ja Shiden-Kai",
     "VehicleType": "Aircraft",
     "VehicleClass": "Fighter"
   },
@@ -3955,7 +3955,7 @@
     "Premium": false,
     "PremiumLabel": "",
     "ImagePath": "pack://application:,,,/Images/Aircraft/Kikka (Fighter).png",
-    "PlaneName": "Kikka",
+    "VehicleName": "Kikka",
     "VehicleType": "Aircraft",
     "VehicleClass": "Fighter"
   },
@@ -3965,7 +3965,7 @@
     "Premium": false,
     "PremiumLabel": "",
     "ImagePath": "pack://application:,,,/Images/Aircraft/R2Y2 Keiun-KAI V1 (Bomber).png",
-    "PlaneName": "R2Y2 Keiun-KAI V1",
+    "VehicleName": "R2Y2 Keiun-KAI V1",
     "VehicleType": "Aircraft",
     "VehicleClass": "Bomber"
   },
@@ -3975,7 +3975,7 @@
     "Premium": false,
     "PremiumLabel": "",
     "ImagePath": "pack://application:,,,/Images/Aircraft/R2Y2 Keiun-KAI V2 (Bomber).png",
-    "PlaneName": "R2Y2 Keiun-KAI V2",
+    "VehicleName": "R2Y2 Keiun-KAI V2",
     "VehicleType": "Aircraft",
     "VehicleClass": "Bomber"
   },
@@ -3985,7 +3985,7 @@
     "Premium": false,
     "PremiumLabel": "",
     "ImagePath": "pack://application:,,,/Images/Aircraft/R2Y2 Keiun-KAI V3 (Bomber).png",
-    "PlaneName": "R2Y2 Keiun-KAI V3",
+    "VehicleName": "R2Y2 Keiun-KAI V3",
     "VehicleType": "Aircraft",
     "VehicleClass": "Bomber"
   },
@@ -3995,7 +3995,7 @@
     "Premium": false,
     "PremiumLabel": "",
     "ImagePath": "pack://application:,,,/Images/Aircraft/F-86F-30 Sabre (Fighter).png",
-    "PlaneName": "F-86F-30 Sabre",
+    "VehicleName": "F-86F-30 Sabre",
     "VehicleType": "Aircraft",
     "VehicleClass": "Fighter"
   },
@@ -4005,7 +4005,7 @@
     "Premium": false,
     "PremiumLabel": "",
     "ImagePath": "pack://application:,,,/Images/Aircraft/Ki-200 Shusui (Fighter).png",
-    "PlaneName": "Ki-200 Shusui",
+    "VehicleName": "Ki-200 Shusui",
     "VehicleType": "Aircraft",
     "VehicleClass": "Fighter"
   }

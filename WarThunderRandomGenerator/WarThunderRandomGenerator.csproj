@@ -61,7 +61,7 @@
       <Generator>MSBuild:Compile</Generator>
       <SubType>Designer</SubType>
     </ApplicationDefinition>
-    <Page Include="AirBattles.xaml">
+    <Page Include="AirBattleGenerator.xaml">
       <SubType>Designer</SubType>
       <Generator>MSBuild:Compile</Generator>
     </Page>
@@ -69,8 +69,8 @@
       <Generator>MSBuild:Compile</Generator>
       <SubType>Designer</SubType>
     </Page>
-    <Compile Include="AirBattles.xaml.cs">
-      <DependentUpon>AirBattles.xaml</DependentUpon>
+    <Compile Include="AirBattleGenerator.xaml.cs">
+      <DependentUpon>AirBattleGenerator.xaml</DependentUpon>
     </Compile>
     <Compile Include="App.xaml.cs">
       <DependentUpon>App.xaml</DependentUpon>
@@ -86,7 +86,7 @@
     </Page>
   </ItemGroup>
   <ItemGroup>
-    <Compile Include="Vehicles.cs" />
+    <Compile Include="Vehicle.cs" />
     <Compile Include="Properties\AssemblyInfo.cs">
       <SubType>Code</SubType>
     </Compile>

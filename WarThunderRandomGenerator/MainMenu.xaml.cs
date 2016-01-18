@@ -7,12 +7,23 @@ namespace WarThunderRandomGenerator
         public MainWindow()
         {
             InitializeComponent();
+            this.Loaded += MainMenuLoaded;
         }
+
+        private void MainMenuLoaded(object sender, RoutedEventArgs e)
+        {
+            this.CreatingWindow?.Close();
+        }
+
+        public Window CreatingWindow { get; set; }
 
         private void AirBattlesButton_Click(object sender, RoutedEventArgs e)
         {
-            AirBattles battle = new AirBattles();
-            battle.CreatingWindow = this;
+            AirBattleGenerator battle = new AirBattleGenerator
+            {
+                CreatingWindow = this
+            };
+
             battle.Show();
             
         }

@@ -9,19 +9,19 @@ namespace CreateVehicleList
 {
     public partial class MainWindow : Window
     {
-        public List<Vehicles> VehicleList = new List<Vehicles>();
+        private readonly List<Vehicles> VehicleList = new List<Vehicles>();
 
         public MainWindow()
         {
             InitializeComponent();
-            Loaded += LoadedWindow;
+            this.Loaded += LoadedWindow;
         }
 
         private void LoadedWindow(object sender, RoutedEventArgs e)
         {
             ReadFile(new string[] {"Aircraft"});
 
-            string json = JsonConvert.SerializeObject(VehicleList, Formatting.Indented);
+            string json = JsonConvert.SerializeObject(this.VehicleList, Formatting.Indented);
             File.WriteAllText("VehicleList.json", json);
             Application.Current.Shutdown();
         }
@@ -35,7 +35,7 @@ namespace CreateVehicleList
                 {
                     using (StreamReader sr = new StreamReader($"{vTypes[i]}.txt"))
                     {
-                        String line;
+                        string line;
 
                         while ((line = sr.ReadLine()) != null)
                         {
@@ -58,22 +58,24 @@ namespace CreateVehicleList
 
             foreach (string line in lines)
             {
-                if (line.Equals("USA") || line.Equals("Germany") || line.Equals("USSR") || line.Equals("Britain") ||
+                if (line.Equals("USA") || line.Equals("Germany") ||
+                    line.Equals("USSR") || line.Equals("Britain") ||
                     line.Equals("Japan"))
                 {
                     x++;
                     y = 0;
                     continue;
                 }
-                else if (line.Contains("Tier 1") || line.Contains("Tier 2") || line.Contains("Tier 3") ||
-                         line.Contains("Tier 4") || line.Contains("Tier 5"))
+                else if (line.Contains("Tier 1") || line.Contains("Tier 2") || 
+                    line.Contains("Tier 3") || line.Contains("Tier 4") || 
+                    line.Contains("Tier 5"))
                 {
                     y++;
                     z = 0;
                 }
                 else
                 {
-                    VehicleList.Add(new Vehicles(line, countries[x], y, vType));
+                    this.VehicleList.Add(new Vehicles(line, countries[x], y, vType));
                     z++;
                 }
             }
